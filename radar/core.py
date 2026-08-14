@@ -56,7 +56,7 @@ def merge(existing: dict[str, dict], fetched: list[dict]) -> list[dict]:
 
 # ------------------------------------------- Anthropic API: filtre + özet
 API_URL = "https://api.anthropic.com/v1/messages"
-DEFAULT_MODEL = "claude-haiku-4-5"
+DEFAULT_MODEL = "claude-haiku-4-5-20251001"
 BATCH = 25
 THRESHOLD = 6
 
@@ -81,7 +81,7 @@ def llm_filter(items: list[dict]) -> list[dict]:
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key or not items:
         return items
-    model = os.environ.get("ANTHROPIC_MODEL", DEFAULT_MODEL)
+    model = os.environ.get("ANTHROPIC_MODEL") or DEFAULT_MODEL
     kept: list[dict] = []
     for i in range(0, len(items), BATCH):
         batch = items[i:i + BATCH]
@@ -101,7 +101,8 @@ def llm_filter(items: list[dict]) -> list[dict]:
             text = text.replace("```json", "").replace("```", "").strip()
             scores = {x["i"]: x for x in json.loads(text)["results"]}
         except Exception as ex:
-            print(f"[llm] hata, parti filtrelenmeden geçiyor: {ex}")
+            detail = getattr(getattr(ex, "response", None), "text", "") or ""
+            print(f"[llm] hata, parti filtrelenmeden geçiyor: {ex} | detay: {detail[:300]}")
             kept += batch
             continue
         for j, it in enumerate(batch):
