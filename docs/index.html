@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Haber Radarı</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#16273F;--paper:#F4F2EF;--card:#fff;--accent:#8E2430;--mute:#66727F;--line:#DDD8D0}
+*{box-sizing:border-box;margin:0}
+body{background:var(--paper);color:var(--ink);font:16px/1.55 "IBM Plex Sans",sans-serif}
+header{background:var(--accent);color:#fff;padding:28px 24px}
+.wrap{max-width:880px;margin:0 auto}
+header h1{font:700 26px/1.1 "Space Grotesk",sans-serif;letter-spacing:.04em;text-transform:uppercase}
+header .stamp{font:400 12px/1 "IBM Plex Mono",monospace;opacity:.75;margin-top:8px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;padding:18px 24px}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;
+  font:400 13px "IBM Plex Mono",monospace;cursor:pointer;color:var(--mute)}
+.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+main{padding:0 24px 64px}
+.day{margin-top:30px}
+.day h2{font:500 13px "IBM Plex Mono",monospace;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--mute);border-bottom:1px solid var(--line);padding-bottom:8px}
+.item{padding:14px 0;border-bottom:1px solid var(--line)}
+.item h3{font:600 16.5px/1.4 "IBM Plex Sans",sans-serif}
+.item h3 a{color:inherit;text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.meta{margin-top:4px;font:400 12.5px "IBM Plex Mono",monospace;color:var(--mute);display:flex;gap:14px;flex-wrap:wrap}
+.rel{color:var(--accent)}
+.empty{margin-top:48px;color:var(--mute);font-style:italic}
+</style></head>
+<body>
+<header><div class="wrap"><h1>Haber Radarı</h1>
+<div class="stamp">son tarama: 2026-08-12 13:29 · haftalık otomatik tarama</div></div></header>
+<div class="wrap"><nav class="filters" id="filters"></nav><main id="list"></main></div>
+<script>
+const ITEMS=[];
+const LABELS={"yapay-zeka": "Yapay Zeka", "siber-guvenlik": "Siber Güvenlik", "kuantum": "Kuantum", "veri-merkezi": "Veri Merkezi", "ai-governance": "AI Governance", "merkez-bankaciligi": "Merkez Bankacılığı / Ödeme Sistemleri", "is-surekliligi": "İş Sürekliliği", "turkiye": "Türkiye", "genel-bt": "Genel BT"};
+let cat="hepsi";
+function render(){
+  const f=document.getElementById("filters");f.innerHTML="";
+  ["hepsi",...new Set(ITEMS.map(i=>i.category))].forEach(c=>{
+    const b=document.createElement("button");b.className="chip"+(cat===c?" on":"");
+    b.textContent=c==="hepsi"?"Tümü":(LABELS[c]||c);b.onclick=()=>{cat=c;render()};f.appendChild(b);});
+  let items=cat==="hepsi"?ITEMS:ITEMS.filter(i=>i.category===cat);
+  items=[...items].sort((a,b)=>(b.first_seen||"").localeCompare(a.first_seen||"")||(b.relevance||0)-(a.relevance||0));
+  const list=document.getElementById("list");list.innerHTML="";
+  if(!items.length){list.innerHTML='<p class="empty">Henüz haber yok — ilk tarama sonrası dolacak.</p>';return}
+  let cur="";
+  items.forEach(i=>{
+    if(i.first_seen!==cur){cur=i.first_seen;
+      const h=document.createElement("section");h.className="day";h.id="d"+cur;
+      h.innerHTML=`<h2>${cur} taraması</h2>`;list.appendChild(h);}
+    const d=document.createElement("article");d.className="item";
+    const rel=i.relevance!=null?`<span class="rel">önem ${i.relevance}/10</span>`:"";
+    d.innerHTML=`<h3><a href="${i.url}" target="_blank" rel="noopener">${i.title}</a></h3>
+      <div class="meta"><span>${LABELS[i.category]||i.category}</span><span>${i.site||i.source}</span>${rel}</div>`;
+    document.getElementById("d"+cur).appendChild(d);});
+}
+render();
+</script></body></html>

@@ -1,0 +1,45 @@
+# ============================================================
+# Haber Radarı — kaynak havuzu
+# type: google_news (anahtar kelime keşfi) | rss (site takibi)
+# ============================================================
+
+sources:
+
+  # ---------- Keşif motoru: Google News (görmediğiniz siteleri de yakalar) ----------
+  - id: gnews-tr
+    type: google_news
+    lang: tr
+    keywords:
+      - {q: "yapay zeka düzenleme",            category: ai-governance, limit: 12}
+      - {q: "merkez bankası yapay zeka",       category: merkez-bankaciligi, limit: 12}
+      - {q: "siber saldırı banka",             category: siber-guvenlik, limit: 12}
+      - {q: "kuantum bilgisayar",              category: kuantum, limit: 10}
+      - {q: "veri merkezi yatırım",            category: veri-merkezi, limit: 10}
+      - {q: "dijital türk lirası",             category: merkez-bankaciligi, limit: 10}
+      - {q: "KVKK yapay zeka",                 category: turkiye, limit: 8}
+
+  - id: gnews-en
+    type: google_news
+    lang: en
+    keywords:
+      - {q: "central bank artificial intelligence",  category: merkez-bankaciligi, limit: 12}
+      - {q: "CBDC digital currency",                 category: merkez-bankaciligi, limit: 12}
+      - {q: "post-quantum cryptography",             category: kuantum, limit: 12}
+      - {q: "AI governance regulation",              category: ai-governance, limit: 12}
+      - {q: "financial sector cyberattack",          category: siber-guvenlik, limit: 12}
+      - {q: "data center energy AI",                 category: veri-merkezi, limit: 10}
+      - {q: "banking operational resilience",        category: is-surekliligi, limit: 8}
+
+  # ---------- Takip edilen sitelerin kendi RSS'leri ----------
+  # Buraya düzenli okuduğunuz siteleri ekleyin; RSS adresi genelde
+  # site.com/feed veya site.com/rss olur.
+  - id: bis-press
+    type: rss
+    url: https://www.bis.org/doclist/all_rss.rss
+    category: merkez-bankaciligi
+    enabled: true
+  - id: bthaber
+    type: rss
+    enabled: false            # RSS adresi doğrulanınca açın
+    url: "SITE_RSS_ADRESI"
+    category: turkiye
