@@ -1,6 +1,6 @@
 # Haber Radarı
 
-Merkez bankası BT gündemini (yapay zeka, AI governance, siber güvenlik, kuantum,
+BT gündemini (yapay zeka, AI governance, siber güvenlik, kuantum,
 veri merkezi, ödeme sistemleri/CBDC, iş sürekliliği, Türkiye) her hafta otomatik
 tarayıp bülten üreten, e-postayla bildiren sistem. Etkinlik Radarı'nın kardeşi —
 aynı kurulum mantığı, aynı "bilgisayarda hiçbir şey çalışmaz" prensibi.
