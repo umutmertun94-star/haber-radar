@@ -9,7 +9,6 @@
 sources:
 
   # ================= 1. ÖNCELİK — RSS =================
-  - {id: bis-press,        type: rss, url: "https://www.bis.org/doclist/all_rss.rss",                              category: merkez-bankaciligi, limit: 15}
   - {id: fed-press,        type: rss, url: "https://www.federalreserve.gov/feeds/press_all.xml",                   category: merkez-bankaciligi, limit: 15}
   - {id: ecb-press,        type: rss, url: "https://www.ecb.europa.eu/rss/press.html",                             category: merkez-bankaciligi, limit: 15}  # doğrulanacak
   - {id: boe-news,         type: rss, url: "https://www.bankofengland.co.uk/rss/news",                             category: merkez-bankaciligi, limit: 12}  # doğrulanacak
@@ -23,7 +22,6 @@ sources:
   - {id: cepa,             type: rss, url: "https://cepa.org/feed/",                                               category: ai-governance,      limit: 10}
   - {id: cepr-net,         type: rss, url: "https://cepr.net/feed/",                                               category: merkez-bankaciligi, limit: 8}
   - {id: ciodive,          type: rss, url: "https://www.ciodive.com/feeds/news/",                                  category: genel-bt,           limit: 12}
-  - {id: forbes-ai,        type: rss, url: "https://www.forbes.com/ai/feed/",                                      category: yapay-zeka,         limit: 10}  # doğrulanacak
   - {id: chip-tr,          type: rss, url: "https://www.chip.com.tr/rss",                                          category: turkiye,            limit: 10}  # doğrulanacak
   - {id: shiftdelete,      type: rss, url: "https://shiftdelete.net/feed",                                         category: turkiye,            limit: 10}
 
@@ -33,6 +31,8 @@ sources:
     lang: en
     keywords:
       - {q: "site:reuters.com central bank OR CBDC OR AI",             category: merkez-bankaciligi, limit: 12}
+      - {q: "site:bis.org",                                            category: merkez-bankaciligi, limit: 12}
+      - {q: "site:forbes.com artificial intelligence",                 category: yapay-zeka,         limit: 8}
       - {q: "site:centralbanking.com fintech OR technology",           category: merkez-bankaciligi, limit: 10}
       - {q: "site:imf.org fintech OR digital payments",                category: merkez-bankaciligi, limit: 8}
       - {q: "site:mckinsey.com AI OR payments OR banking technology",  category: genel-bt,           limit: 8}
@@ -43,7 +43,6 @@ sources:
       - {q: "site:nationaltechnology.co.uk",                           category: genel-bt,           limit: 8}
 
   # ================= 2. ÖNCELİK — RSS =================
-  - {id: fintechfutures,   type: rss, url: "https://www.fintechfutures.com/feed/",                                 category: merkez-bankaciligi, limit: 10}
   - {id: fintechtimes,     type: rss, url: "https://thefintechtimes.com/feed/",                                    category: merkez-bankaciligi, limit: 10}
   - {id: computerweekly,   type: rss, url: "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",   category: genel-bt,           limit: 10}  # doğrulanacak
   - {id: yahoo-finance,    type: rss, url: "https://finance.yahoo.com/news/rssindex",                              category: genel-bt,           limit: 10}  # doğrulanacak
@@ -62,17 +61,16 @@ sources:
     lang: en
     keywords:
       - {q: "site:fnlondon.com",                                       category: merkez-bankaciligi, limit: 6}
+      - {q: "site:fintechfutures.com",                                 category: merkez-bankaciligi, limit: 8}
       - {q: "site:fstech.co.uk",                                       category: merkez-bankaciligi, limit: 6}
       - {q: "site:cepr.org",                                           category: merkez-bankaciligi, limit: 6}
       - {q: "site:nasdaq.com central bank OR AI OR fintech",           category: genel-bt,           limit: 6}
 
   # ================= 3. ÖNCELİK — RSS =================
   - {id: moscowtimes,      type: rss, url: "https://www.themoscowtimes.com/rss/news",                              category: genel-bt,           limit: 5}  # doğrulanacak
-  - {id: arabnews,         type: rss, url: "https://www.arabnews.com/rss.xml",                                     category: genel-bt,           limit: 5}  # doğrulanacak
   - {id: techafrica,       type: rss, url: "https://techafricanews.com/feed/",                                     category: genel-bt,           limit: 5}
+  - {id: globalgovfin,     type: rss, url: "https://globalgovernmentfinance.com/feed/", category: merkez-bankaciligi, limit: 5}
   - {id: slashdot,         type: rss, url: "https://rss.slashdot.org/Slashdot/slashdotMain",                       category: genel-bt,           limit: 6}
-  - {id: globalgovfin,     type: rss, url: "https://globalgovernmentfinance.com/feed/",                            category: merkez-bankaciligi, limit: 5}
-  - {id: ibsintelligence,  type: rss, url: "https://ibsintelligence.com/feed/",                                    category: merkez-bankaciligi, limit: 5}
 
   # ============ 3. ÖNCELİK — Google News site: takibi ============
   - id: gnews-oncelik3
@@ -80,6 +78,8 @@ sources:
     lang: en
     keywords:
       - {q: "site:citizen.digital business",                           category: genel-bt,           limit: 4}
+      - {q: "site:arabnews.com business technology",                   category: genel-bt,           limit: 4}
+      - {q: "site:ibsintelligence.com",                                category: merkez-bankaciligi, limit: 4}
       - {q: "site:atmmarketplace.com",                                 category: merkez-bankaciligi, limit: 4}
       - {q: "site:ibtimes.com.au",                                     category: genel-bt,           limit: 4}
       - {q: "site:zawya.com fintech OR central bank",                  category: merkez-bankaciligi, limit: 4}
