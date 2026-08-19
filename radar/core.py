@@ -60,20 +60,48 @@ DEFAULT_MODEL = "claude-haiku-4-5-20251001"
 BATCH = 25
 THRESHOLD = 6
 
-PROMPT = """Bir merkez bankasının Yenilikçi Teknolojiler birimi için haftalık haber taraması yapıyorsun.
-İlgi alanları: yapay zeka, AI governance, siber güvenlik, kuantum/post-kuantum kriptografi,
-veri merkezleri, ödeme sistemleri/CBDC, iş sürekliliği, Türkiye teknoloji gündemi, kurumsal BT.
+PROMPT_BASE = """Bir merkez bankasının Yenilikçi Teknolojiler birimi için haftalık haber taraması yapıyorsun.
+Editörün seçim çizgisi (gerçek seçim geçmişinden çıkarılmıştır):
 
+1. ÖZNE HİYERARŞİSİ belirleyicidir: haberin öznesi bir merkez bankası, finansal
+   düzenleyici veya uluslararası kuruluşsa (BIS, IMF, ECB, Fed, BoE, MAS, RBI,
+   FSB, EBA/ESMA, G7...) puan yüksektir.
+2. centralbanking.com kaynaklı yapay zeka içeriği HER ZAMAN 8+ puan alır — editör
+   bu kaynaktan AI içeriği kaçırmak istemiyor.
+3. Türkiye teknoloji/kamu haberleri (yerli AI, TÜBİTAK, SSB, kuantum, siber
+   düzenleme) yüksek puan alır.
+4. Düzenleme/yönetişim haberleri (AI Act, çerçeveler, denetim, yasalar) yüksek puan alır.
+5. Büyük teknoloji şirketi haberleri YALNIZCA kurumsal/finansal/güvenlik sonucu
+   varsa girer (model güvenliği, düzenleyici etki, finans sektörü bağlantısı,
+   büyük yapısal kırılma). Ürün lansmanı, tüketici özelliği, uygulama güncellemesi,
+   şirket magazini DÜŞÜK puan alır.
+6. Siber güvenlik: finansal sisteme/kurumlara dokunan olay ve politikalar yüksek;
+   genel yazılım açıkları (Windows/Linux/tarayıcı) ve tüketici güvenliği düşük.
+7. Kuantum: politika, finans sektörü etkisi ve PQC yüksek; salt donanım/akademik
+   ilerleme orta.
+8. Veri merkezi: yatırım/enerji magazini düşük; politika ve düzenleme boyutu varsa orta.
+
+{ORNEKLER}
 Aşağıdaki başlıkları değerlendir:
-- relevance: 0-10 (kurum gündemi için önem; magazin/ürün reklamı/spekülasyon düşük)
+- relevance: 0-10 (yukarıdaki çizgiye göre)
 - dup_of: bu başlık listedeki daha önceki bir başlıkla AYNI OLAYI anlatıyorsa o başlığın
   numarası, değilse null (aynı olayın farklı sitelerdeki kopyaları elensin)
 
 SADECE şu JSON ile yanıt ver:
-{"results": [{"i": 0, "relevance": 8, "dup_of": null}, ...]}
+{{"results": [{{"i": 0, "relevance": 8, "dup_of": null}}, ...]}}
 
 Başlıklar:
 """
+
+ORNEK_DOSYA = ROOT / "data" / "ornek-secimler.md"
+
+
+def _prompt() -> str:
+    ornek = ""
+    if ORNEK_DOSYA.exists():
+        ornek = ("GERÇEK ÖRNEKLER (editörün geçmiş kararları):\n"
+                 + ORNEK_DOSYA.read_text(encoding="utf-8") + "\n")
+    return PROMPT_BASE.format(ORNEKLER=ornek)
 
 
 def llm_filter(items: list[dict]) -> list[dict]:
@@ -94,7 +122,7 @@ def llm_filter(items: list[dict]) -> list[dict]:
                 "content-type": "application/json",
             }, json={
                 "model": model, "max_tokens": 2000,
-                "messages": [{"role": "user", "content": PROMPT + listing}],
+                "messages": [{"role": "user", "content": _prompt() + listing}],
             })
             r.raise_for_status()
             text = "".join(b.get("text", "") for b in r.json()["content"])
@@ -132,7 +160,10 @@ def write_bulletin(new_items: list[dict]) -> tuple[Path, str]:
         for it in group:
             src = it.get("site") or it["source"]
             date = it.get("published") or it.get("first_seen") or ""
-            lines.append(f"- [{it['title']}]({it['url']}) — {src}, {date}")
+            baslik = it.get("baslik_tr") or it["title"]
+            lines.append(f"- [{baslik}]({it['url']}) — {src}, {date}")
+            if it.get("ozet"):
+                lines.append(f"  - {it['ozet']}")
         lines.append("")
     if len(lines) == 2:
         lines.append("Bu hafta eşiği geçen haber bulunamadı.")
