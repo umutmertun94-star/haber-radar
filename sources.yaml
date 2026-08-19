@@ -1,116 +1,52 @@
-# ============================================================
-# Haber Radarı — kaynak havuzu (v2: öncelikli kaynak listesi)
-# type: google_news (anahtar kelime/site keşfi) | rss (site takibi)
-# Öncelik → limit değerine yansır (1. öncelik daha fazla başlık çeker).
-# "# doğrulanacak" notlu feed'ler ilk çalıştırma logunda 0 çekerse
-# adresi düzeltilecek demektir (Claude Code oturumu işi).
-# ============================================================
+# ══════════════════════════════════════════════════════════════
+#  etkinlik-radar · sources.yaml EK KAYNAKLAR (2026-08-19)
+#  Karar: Techmeme + SUERF + OMFIF + Protokol eklenir,
+#         conferenceindex/allconferencealert ELENDİ (paper-mill).
+#
+#  KULLANIM: Bu dosya komple bir sources.yaml DEĞİLDİR.
+#  İki bloğu, mevcut sources.yaml'daki karşılık gelen bölümlerin
+#  SONUNA yapıştır. Alan adlarını mevcut girdilerinle karşılaştır
+#  (örn. gartner-webinars girdisi nasıl yazılmışsa aynı şablonu
+#  kullan) — farklıysa alan adlarını oradakine uyarla.
+# ══════════════════════════════════════════════════════════════
 
-sources:
+# ── BLOK 1: HTML kaynaklar (generic HTML fetcher bölümüne) ────
+- id: techmeme-events
+  ad: "Techmeme Events"
+  url: "https://www.techmeme.com/events"
+  secici: "a"              # her etkinlik tek <a> satırı: "Tarih + Ad + Şehir"
+  not: >
+    Küresel küratörlü liste. Türkiye filtresi YOK ve gerekmiyor:
+    TR dışı yüz yüze etkinlikleri mevcut yuz_yuze_ulkeler kuralı
+    zaten eler; VIRTUAL/HYBRID etiketli satırlar ile istisna_kurumlar
+    (BIS/IMF/ECB...) eşleşmeleri kalır. Seçiciyi ilk Actions
+    logundan doğrula.
 
-  # ================= 1. ÖNCELİK — RSS =================
-  - {id: fed-press,        type: rss, url: "https://www.federalreserve.gov/feeds/press_all.xml",                   category: merkez-bankaciligi, limit: 15}
-  - {id: ecb-press,        type: rss, url: "https://www.ecb.europa.eu/rss/press.html",                             category: merkez-bankaciligi, limit: 15}  # doğrulanacak
-  - {id: boe-news,         type: rss, url: "https://www.bankofengland.co.uk/rss/news",                             category: merkez-bankaciligi, limit: 12}  # doğrulanacak
-  - {id: ledgerinsights,   type: rss, url: "https://www.ledgerinsights.com/feed/",                                 category: merkez-bankaciligi, limit: 15}
-  - {id: finextra,         type: rss, url: "https://www.finextra.com/rss/headlines.aspx",                          category: merkez-bankaciligi, limit: 15}
-  - {id: pymnts,           type: rss, url: "https://www.pymnts.com/feed/",                                         category: merkez-bankaciligi, limit: 15}
-  - {id: quantuminsider,   type: rss, url: "https://thequantuminsider.com/feed/",                                  category: kuantum,            limit: 12}
-  - {id: qz,               type: rss, url: "https://qz.com/rss",                                                   category: genel-bt,           limit: 10}  # doğrulanacak
-  - {id: techcrunch-ai,    type: rss, url: "https://techcrunch.com/category/artificial-intelligence/feed/",        category: yapay-zeka,         limit: 15}
-  - {id: mit-techreview,   type: rss, url: "https://www.technologyreview.com/feed/",                               category: yapay-zeka,         limit: 12}
-  - {id: cepa,             type: rss, url: "https://cepa.org/feed/",                                               category: ai-governance,      limit: 10}
-  - {id: cepr-net,         type: rss, url: "https://cepr.net/feed/",                                               category: merkez-bankaciligi, limit: 8}
-  - {id: ciodive,          type: rss, url: "https://www.ciodive.com/feeds/news/",                                  category: genel-bt,           limit: 12}
-  - {id: chip-tr,          type: rss, url: "https://www.chip.com.tr/rss",                                          category: turkiye,            limit: 10}  # doğrulanacak
-  - {id: shiftdelete,      type: rss, url: "https://shiftdelete.net/feed",                                         category: turkiye,            limit: 10}
+- id: suerf-events
+  ad: "SUERF Etkinlikler"
+  url: "https://www.suerf.org/events/"
+  secici: "a"              # ilk çalıştırmada logdan doğrula
+  not: "Merkez bankacılığı webinar/konferansları; çoğu ücretsiz, online"
 
-  # ============ 1. ÖNCELİK — RSS'siz/paywall → Google News site: takibi ============
-  - id: gnews-oncelik1
-    type: google_news
-    lang: en
-    keywords:
-      - {q: "site:reuters.com central bank OR CBDC OR AI",             category: merkez-bankaciligi, limit: 12}
-      - {q: "site:bis.org",                                            category: merkez-bankaciligi, limit: 12}
-      - {q: "site:forbes.com artificial intelligence",                 category: yapay-zeka,         limit: 8}
-      - {q: "site:centralbanking.com fintech OR technology",           category: merkez-bankaciligi, limit: 10}
-      - {q: "site:imf.org fintech OR digital payments",                category: merkez-bankaciligi, limit: 8}
-      - {q: "site:mckinsey.com AI OR payments OR banking technology",  category: genel-bt,           limit: 8}
-      - {q: "site:mas.gov.sg",                                         category: merkez-bankaciligi, limit: 6}
-      - {q: "site:bankingsupervision.europa.eu",                       category: merkez-bankaciligi, limit: 6}
-      - {q: "site:bde.es OR site:bancaditalia.it OR site:boj.or.jp",   category: merkez-bankaciligi, limit: 8}
-      - {q: "site:centralbank.ie",                                     category: merkez-bankaciligi, limit: 5}
-      - {q: "site:nationaltechnology.co.uk",                           category: genel-bt,           limit: 8}
+- id: omfif-meetings
+  ad: "OMFIF Meetings (DMI dahil)"
+  url: "https://www.omfif.org/meetings/"
+  secici: "a"              # ilk çalıştırmada logdan doğrula
+  not: "CBDC/ödemeler sanal panelleri; TCMB'nin zaten katıldığı ağ"
 
-  # ================= 2. ÖNCELİK — RSS =================
-  - {id: fintechtimes,     type: rss, url: "https://thefintechtimes.com/feed/",                                    category: merkez-bankaciligi, limit: 10}
-  - {id: computerweekly,   type: rss, url: "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",   category: genel-bt,           limit: 10}  # doğrulanacak
-  - {id: yahoo-finance,    type: rss, url: "https://finance.yahoo.com/news/rssindex",                              category: genel-bt,           limit: 10}  # doğrulanacak
-  - {id: arstechnica,      type: rss, url: "https://feeds.arstechnica.com/arstechnica/index",                      category: yapay-zeka,         limit: 10}
-  - {id: crowdfundinsider, type: rss, url: "https://www.crowdfundinsider.com/feed/",                               category: merkez-bankaciligi, limit: 8}
-  - {id: lse-business,     type: rss, url: "https://blogs.lse.ac.uk/businessreview/feed/",                         category: ai-governance,      limit: 6}
-  - {id: mit-news,         type: rss, url: "https://news.mit.edu/rss/feed",                                        category: yapay-zeka,         limit: 10}
-  - {id: mit-sloan,        type: rss, url: "https://sloanreview.mit.edu/feed/",                                    category: genel-bt,           limit: 6}
-  - {id: nyt-tech,         type: rss, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",          category: yapay-zeka,         limit: 10}  # AI spotlight'ın feed'i yok; teknoloji feed'i
-  - {id: omfif,            type: rss, url: "https://www.omfif.org/feed/",                                          category: merkez-bankaciligi, limit: 8}
-  - {id: quantumzeitgeist, type: rss, url: "https://quantumzeitgeist.com/feed/",                                   category: kuantum,            limit: 8}
-
-  # ============ 2. ÖNCELİK — Google News site: takibi ============
-  - id: gnews-oncelik2
-    type: google_news
-    lang: en
-    keywords:
-      - {q: "site:fnlondon.com",                                       category: merkez-bankaciligi, limit: 6}
-      - {q: "site:fintechfutures.com",                                 category: merkez-bankaciligi, limit: 8}
-      - {q: "site:fstech.co.uk",                                       category: merkez-bankaciligi, limit: 6}
-      - {q: "site:cepr.org",                                           category: merkez-bankaciligi, limit: 6}
-      - {q: "site:nasdaq.com central bank OR AI OR fintech",           category: genel-bt,           limit: 6}
-
-  # ================= 3. ÖNCELİK — RSS =================
-  - {id: moscowtimes,      type: rss, url: "https://www.themoscowtimes.com/rss/news",                              category: genel-bt,           limit: 5}  # doğrulanacak
-  - {id: techafrica,       type: rss, url: "https://techafricanews.com/feed/",                                     category: genel-bt,           limit: 5}
-  - {id: globalgovfin,     type: rss, url: "https://globalgovernmentfinance.com/feed/", category: merkez-bankaciligi, limit: 5}
-  - {id: slashdot,         type: rss, url: "https://rss.slashdot.org/Slashdot/slashdotMain",                       category: genel-bt,           limit: 6}
-
-  # ============ 3. ÖNCELİK — Google News site: takibi ============
-  - id: gnews-oncelik3
-    type: google_news
-    lang: en
-    keywords:
-      - {q: "site:citizen.digital business",                           category: genel-bt,           limit: 4}
-      - {q: "site:arabnews.com business technology",                   category: genel-bt,           limit: 4}
-      - {q: "site:ibsintelligence.com",                                category: merkez-bankaciligi, limit: 4}
-      - {q: "site:atmmarketplace.com",                                 category: merkez-bankaciligi, limit: 4}
-      - {q: "site:ibtimes.com.au",                                     category: genel-bt,           limit: 4}
-      - {q: "site:zawya.com fintech OR central bank",                  category: merkez-bankaciligi, limit: 4}
-      - {q: "site:finainews.com",                                      category: merkez-bankaciligi, limit: 4}
-      - {q: "site:panewslab.com",                                      category: merkez-bankaciligi, limit: 4}
-      - {q: "site:gulfnews.com business technology",                   category: genel-bt,           limit: 4}
-      - {q: "site:diw.de",                                             category: merkez-bankaciligi, limit: 3}
-      - {q: "site:trend.az technology OR bank",                        category: genel-bt,           limit: 3}
-      - {q: "site:mlex.com artificial intelligence",                   category: ai-governance,      limit: 4}
-      - {q: "site:risk.net risk management technology",                category: siber-guvenlik,     limit: 4}
-      - {q: "site:thepeninsulaqatar.com business",                     category: genel-bt,           limit: 3}
-
-  # ============ Genel keşif (listenizde OLMAYAN siteleri yakalar) ============
-  - id: gnews-kesif-tr
-    type: google_news
-    lang: tr
-    keywords:
-      - {q: "yapay zeka düzenleme",       category: ai-governance,      limit: 10}
-      - {q: "merkez bankası yapay zeka",  category: merkez-bankaciligi, limit: 10}
-      - {q: "siber saldırı banka",        category: siber-guvenlik,     limit: 10}
-      - {q: "kuantum bilgisayar",         category: kuantum,            limit: 8}
-      - {q: "veri merkezi yatırım",       category: veri-merkezi,       limit: 8}
-      - {q: "dijital türk lirası",        category: merkez-bankaciligi, limit: 8}
-  - id: gnews-kesif-en
-    type: google_news
-    lang: en
-    keywords:
-      - {q: "central bank artificial intelligence", category: merkez-bankaciligi, limit: 10}
-      - {q: "CBDC digital currency",                category: merkez-bankaciligi, limit: 10}
-      - {q: "post-quantum cryptography",            category: kuantum,            limit: 10}
-      - {q: "AI governance regulation",             category: ai-governance,      limit: 10}
-      - {q: "financial sector cyberattack",         category: siber-guvenlik,     limit: 10}
-      - {q: "data center energy AI",                category: veri-merkezi,       limit: 8}
-      - {q: "banking operational resilience",       category: is-surekliligi,     limit: 6}
+# ── BLOK 2: DDG keşif sorguları (ddg-kesif listesine ek) ──────
+# Protokol takvimi JS/HTML yapısı bilinmediği için önce DDG ile;
+# verim iyiyse sonra HTML kaynağına terfi ettiririz.
+- "site:protokol.org.tr etkinlik teknoloji yapay zeka"
+- "site:suerf.org webinar"
+- "site:omfif.org meetings virtual"
+- "site:digital-euro-association.de events"
+- "site:finextra.com events webinar"
+- "site:iapp.org web conference AI governance"
+- "site:lu.ma Istanbul AI"
+- "site:lu.ma Ankara teknoloji"
+- "site:etsi.org quantum safe cryptography workshop"
+- "site:iqtevent.com"
+- "FinTech Istanbul etkinlik duyuru"
+- "ISC Turkey siber güvenlik konferansı Ankara"
+- "Siber Güvenlik Kümelenmesi etkinlik"
