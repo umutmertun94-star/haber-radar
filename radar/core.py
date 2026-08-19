@@ -127,7 +127,9 @@ def llm_filter(items: list[dict]) -> list[dict]:
             r.raise_for_status()
             text = "".join(b.get("text", "") for b in r.json()["content"])
             text = text.replace("```json", "").replace("```", "").strip()
-            scores = {x["i"]: x for x in json.loads(text)["results"]}
+            start = text.find("{")
+            data, _ = json.JSONDecoder().raw_decode(text[start:])
+            scores = {x["i"]: x for x in data["results"]}
         except Exception as ex:
             detail = getattr(getattr(ex, "response", None), "text", "") or ""
             print(f"[llm] hata, parti filtrelenmeden geçiyor: {ex} | detay: {detail[:300]}")
