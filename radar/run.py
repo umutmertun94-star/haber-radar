@@ -111,6 +111,8 @@ def main() -> int:
         print(f"[{src['id']}] {len(fetched)} haber tarandı, {len(new)} yeni")
 
     filtered = core.llm_filter(all_new)
+    from .ozet import ozetle, bulten_sayfasi
+    filtered = ozetle(filtered)
     # eşiği geçemeyenler depodan da düşsün ki dashboard temiz kalsın
     dropped = {i["id"] for i in all_new} - {i["id"] for i in filtered}
     for did in dropped:
@@ -119,6 +121,8 @@ def main() -> int:
 
     path, body = core.write_bulletin(filtered)
     write_dashboard(existing)
+    b = bulten_sayfasi(filtered)
+    print(f"Bülten sayfası: {b}")
     if filtered:
         yr, wk, _ = dt.date.today().isocalendar()
         core.send_email(f"Haber Radarı — {yr}/{wk}. hafta ({len(filtered)} haber)", body)
