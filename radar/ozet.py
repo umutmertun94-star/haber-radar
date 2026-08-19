@@ -83,7 +83,10 @@ def ozetle(items: list[dict]) -> list[dict]:
                      "messages": [{"role": "user", "content": prompt}]})
             r.raise_for_status()
             out = "".join(b.get("text", "") for b in r.json()["content"])
-            data = json.loads(out.replace("```json", "").replace("```", "").strip())
+            out = out.replace("```json", "").replace("```", "").strip()
+            # toleranslı ayrıştırma: metin içi çıplak satır sonlarına ve
+            # JSON öncesi/sonrası fazla metne dayanıklı
+            data, _ = json.JSONDecoder(strict=False).raw_decode(out[out.find("{"):])
             it["baslik_tr"] = data.get("baslik_tr")
             it["ozet"] = data.get("ozet")
             it["haber_metni"] = data.get("haber_metni")
