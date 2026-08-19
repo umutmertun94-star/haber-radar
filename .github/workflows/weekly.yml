@@ -20,9 +20,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Taramayı çalıştır
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
-                    OZET_MODEL: ${{ vars.OZET_MODEL }}
+                    ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          OZET_MODEL: ${{ vars.OZET_MODEL }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
