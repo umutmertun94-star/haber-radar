@@ -19,7 +19,7 @@ from . import core
 
 ROOT = Path(__file__).resolve().parent.parent
 BULTEN_DIR = ROOT / "docs" / "bulten"
-OZET_MODEL = os.environ.get("OZET_MODEL", "claude-fable-5")
+OZET_MODEL = os.environ.get("OZET_MODEL") or "claude-fable-5"
 MAX_OZET = 40          # haftalık üst sınır (maliyet emniyeti)
 MIN_METIN = 400        # bundan kısa çekimler "içerik alınamadı" sayılır
 
