@@ -1,306 +1,314 @@
 [
  {
-  "baslik": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "QuFi Launches Post-Quantum Verification Platform for Digital Assets",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "Simple, resilient and proportional: revisiting regulation for small banks - Bank for International Settlements",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Bank for International Settlements",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBpOVU4ZVg1NVl0M2N6OXpoTzUyQmp4dmJhV0U1bmlOWmwwanBuUEVrQkR2TkstMTN3bmdIbWVfd0I5OVBYeldIaGR3VWtGR0RHb3NTRDdwUEx6ZFc3cW1wazZrM3JJbG1faVFQODl3c2JvWWJENEctNDdFVi1jczRTRmRzX1FvX0ZYRlRjTUUxN3NkamowdVJVQmRKWWdBeUdfYWtUWjk5S2tXclp0QjFOS2dYZw?oc=5",
+  "baslik": "Matter Labs, Bundesbank'ın Test Ettiği Prividium Platformunun Çekirdeğini Açık Kaynak Yaptı",
+  "ozet": "ZKsync geliştiricisi Matter Labs, finansal kurumlara yönelik gizlilik odaklı blokzincir platformu Prividium'un çekirdeğini açık kaynak olarak yayımladı. Şirkete göre Deutsche Bundesbank, platformu kendi altyapısında kuran ilk kurum oldu. Gelişme, merkez bankalarının izinli blokzincir teknolojilerini kendi ortamlarında test etmesi açısından dikkat çekiyor.",
+  "haber_metni": "ZKsync geliştiricisi Matter Labs, finansal kurumlara yönelik gizlilik odaklı blokzincir platformu Prividium'un çekirdeğini açık kaynak olarak yayımladı. Şirket, Deutsche Bundesbank'ın platformu kendi altyapısında kuran ilk kurum olduğunu duyurdu. Matter Labs'e göre Bundesbank, platformu kendi barındırdığı bir ortamda çalıştırıyor; akıllı sözleşme ve token verileri merkez bankasının kendi ortamında kalıyor ve iki taraf tasarım ile test konularında iş birliği yapıyor. Bundesbank konuya ilişkin açıklama yapmadı ve testin amacı kamuoyuyla paylaşılmadı. Şirketin üst yöneticisi Alex Gluchowski, yayımı \"bitiş çizgisi değil, temel\" olarak nitelendirdi ve asıl zor sorunun, kurumların işlettiği zincirlerin birbirine ve halka açık piyasalara nasıl bağlanacağı olduğunu belirtti.\n\nAçık kaynak yapılan çekirdek, bir Prividium zincirinde rolleri ve erişim haklarını yönetiyor; kimin okuma ve yazma yetkisine sahip olacağına karar veriyor. ZKsync yığınının büyük bölümü zaten açık kaynak olduğundan, kurumlar artık ticari bir anlaşma olmadan kamuya açık koddan izinli bir zincir kurabiliyor. Yönetim konsolu, kullanıcı erişim araçları ve ana bankacılık entegrasyonu dâhil bağlayıcılar ise ücretli ürün olarak Matter Labs'te kalıyor. Prividium, işlem verilerini kurum içinde tutarak gizlilik sağlıyor; dışarıya yalnızca defterin doğru güncellendiğine dair kriptografik bir kanıt çıkıyor ve bu kanıt Ethereum veya uyumlu başka bir zincire kaydediliyor. Deutsche Bank'ın DAMA 2 tokenize fon projesi ve UBS'in dijital altın ürününe yönelik kavram kanıtı çalışması ZKsync kullanmış, Cari Network ise tokenize mevduatlar için Prividium'u benimsemişti.",
+  "kaynak": "ledgerinsights",
+  "url": "https://www.ledgerinsights.com/matter-labs-open-sources-prividium-core-as-bundesbank-tests-it-interoperability-next/",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "From analysis to action - AI in financial markets - Bank for International Settlements",
+  "baslik": "NYDF issues cybersecurity guidance",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Bank for International Settlements",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BdnBHbFRQZnhCeEFESnpUSFR5bGFGQTg0UTV1YlN1TTkydmk3Ukh6cHM1Znlpa2dVMW92eFhvblJ2c1JVdkpTLXQ5anJPUGkyZTRjWm1hSUQ0LTRDelhxVkJacUlYRGEzZ0xzWnBXWVJ2U1VKbFRTWjlJWnNTbXM?oc=5",
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/pressarticle/110879/nydf-issues-cybersecurity-guidance?utm_medium=rssfinextra&utm_source=finextrafeed",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Sparking the transformation of finance - tokenisation and the role of central banks - Bank for International Settlements",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Bank for International Settlements",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU3NJc1BaZ3hraHU0LXFyUTZ4M1FiZHJ4MVNLU2NBVHAxYUtwa2Jwbk8xNHlLWDVOVElabmkwbTdYdkp4NU1zZXlDN0oyYmRaM21HSmhEU0QtRXJtSGNjdm0tUm54eWYwWkZtcjN3NHJsUlZwSU9GaWtoR2hVelZDM1F5anphbUlYY0VGbnJJbDNKcUtidmFsN2lZb0N4bWtmUGE1VjV5Sl8?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Bailey warns AI could crash global financial system - Central Banking",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Central Banking",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWENqUzBBZV94WHBSV1hCT09QNmVLMjA5LU5fVW5PU2JtcVVOTWxPWlZQRjlMOWNaZDhlX01QOU5wT3BGVzhfMll1a1Q3ZTVBX0pBejA3bExUcHg4VTRGRXBRX3BySWFrbk5iQUVTa1dnd3RDLWhvSTFIbnYtbjJyRm9udnNYWklhNWd3NWR0ZDJkQllDelFZZ2lybDRPUUE?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Consultation on Proposed Amendments to the Payment Services Act 2019 for Stablecoins Regulation - mas.gov.sg",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "mas.gov.sg",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmhwM2ZhNGFValkycUc2RDhoSjEzTkdsYkhxcGNwQmg2M1dhalhfb3lqLUNOYUlPdjNwSEJmX1RDaTVDU01fT21jYUtxWjdWZ0drNnBReExTQ2h1ckthbFlXSkpWWHJ1QWdNN05ha2gtZE1OQUJwSnpzSGlxY2RDcjhLYzhFVjhrcVREX1I4ak9ja3hYWEFJRFNtdGlzYTNBYlBCTHlLR0ZPLUg3M1RXVnc5NE5sVmdzd3Z2TkZiVmh4cjRaN0FHeHlOX3dpYzFTUmNEZVBJR2pfcmFN?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Payment fraud increases by 27% to reach €179 million in 2025, Central Bank of Ireland report finds - Central Bank of Ireland",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Central Bank of Ireland",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnYyZFEyTWstdF9BWU9LR0tBVWxRbERRU2hseFJiWWR6aXQ1UzB4eTdHblFCM1BHRTFwQU9TV3BRc1NTTGdyaWMzXzFDdGVaMVNvemJ3OFppOEtSTFBHTmFaME9XRk41Xy03NUlwcEJmUndicFZIWjRIQlFBR0RJQ0VRaE1BVnl2SDJ5NzhqLTVKZzNTdXZJaGVzR2tpMnJxTGotYnNhNEdqOFU3eHoxQWExeVVNUF9NaHI0RGxmN1JmdU9kQlVYemFHMVl3V0ZjWDdRZHFVMXJYNl9VR0R1eGlYUQ?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "The $206 Billion Problem Hiding in Verified Bank Accounts: Inside VerityX’s Money Mule Whitepaper",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "fintechtimes",
-  "url": "https://thefintechtimes.com/the-206-billion-problem-hiding-in-verified-bank-accounts-inside-verityxs-money-mule-whitepaper/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Pay.UK’s David Crawford: AI fraud Is The Fastest-Moving Shift",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "fintechtimes",
-  "url": "https://thefintechtimes.com/pay-uks-david-crawford-ai-fraud-is-the-fastest-moving-shift/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Digital Hawala : Informal Money Networks are Reportedly Using Crypto and Fintech to Hide Billions",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "crowdfundinsider",
-  "url": "https://www.crowdfundinsider.com/2026/09/306858-digital-hawala-informal-money-networks-are-reportedly-using-crypto-and-fintech-to-hide-billions/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "TD Bank, Project Agorá Platformunda Canlı Tokenize Ödeme Testini Tamamladı",
-  "ozet": "Toronto-Dominion Bank, BIS İnovasyon Merkezi ve Uluslararası Finans Enstitüsü'nün yürüttüğü Project Agorá kapsamında canlı bir tokenize ödeme denemesi gerçekleştirdi. Test, tokenize fonların bankanın New York şubesi ile TD Bank N.A. arasında taşınmasını içerdi; takas aracılığını BNY üstlendi. Deneme, merkez bankası rezervleri ile ticari banka mevduatlarını ortak bir defterde tokenize ederek atomik mutabakatı hedefleyen daha geniş bir gerçek değerli test programının parçası.",
-  "haber_metni": "Toronto-Dominion Bank, Project Agorá platformunda canlı bir tokenize ödeme testini tamamladı. Denemede tokenize fonlar, TD Securities LLC aracılığıyla faaliyet gösteren New York şubesi ile TD Bank N.A. arasında taşındı; Bank of New York Mellon takas aracısı olarak görev aldı. Uluslararası Ödemeler Bankası (BIS) İnovasyon Merkezi ve Uluslararası Finans Enstitüsü tarafından yürütülen kamu-özel iş birliği niteliğindeki proje, toptan merkez bankası rezervleri ile ticari banka mevduatlarının ortak ve programlanabilir bir defterde token olarak kaydedilmesini öngörüyor. Bu tasarım, bir işlemin ilgili bacaklarının ya birlikte tamamlandığı ya da hiç gerçekleşmediği atomik mutabakatı mümkün kılmayı amaçlıyor. TD, testi tokenize paranın platformda ihraç edilip iki iç birim arasında anında taşınabildiğinin kanıtı olarak nitelendirdi.\n\nİşlem, Temmuz 2026 tarihli daha geniş bir gerçek değerli test programının parçası. Asya, Avrupa ve Kuzey Amerika'dan 28 finansal kuruluş ve merkez bankası, altı para biriminde toplam yaklaşık 800 bin İsviçre frangı tutarında işlem gerçekleştirdi. Program; kurumsal ödemeler, bankalar arası transferler ve ödeme karşılığı ödeme mutabakatı dahil 17 senaryoyu kapsadı. BIS'e göre, prototip mevcut gerçek zamanlı brüt mutabakat sistemlerine bağlanmamasına rağmen ödeme başlatmadan mutabakata ortalama süre yaklaşık 80 saniye oldu. Canlı testlere İngiltere Merkez Bankası, Fransa Merkez Bankası, Japonya Merkez Bankası, Kore Merkez Bankası ve İsviçre Ulusal Bankası katıldı; projeye Kanada Merkez Bankası ve New York Fed dahil sekiz merkez bankası katılıyor. Girişim deneysel nitelikte olup organizatörler bir üretim ağı taahhüdünde bulunmadı.",
-  "kaynak": "crowdfundinsider",
-  "url": "https://www.crowdfundinsider.com/2026/09/304457-tokenized-payments-td-bank-trials-atomic-settlement-via-project-agora/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "G7 Siber Güvenlik Çalışma Grubu kuantum sonrası kriptografiye geçiş için ortak eylem çağrısı yaptı",
-  "ozet": "G7 Siber Güvenlik Çalışma Grubu, kuantum bilişimin dijital güvenliğe yönelik tehdidini uzak bir olasılık olmaktan çıkarıp acil bir risk olarak yeniden değerlendirdi. Grup, kuantum sonrası kriptografiye (PQC) geçişin kurumların tek başına çözebileceği bir sorun olmadığını, kamu ve özel sektör arasında eşgüdümlü planlama gerektiren kolektif bir dönüşüm olduğunu vurguluyor.",
-  "haber_metni": "G7 Siber Güvenlik Çalışma Grubu, kuantum bilişim alanındaki son gelişmelerin ardından kuantum sonrası kriptografiye (PQC) geçişin artık ertelenemez bir zorunluluk hâline geldiğini açıkladı. Grup, mevcut açık anahtarlı kriptografiyi kırabilecek güçteki kriptografik açıdan anlamlı kuantum bilgisayarların (CRQC) varlığının teyit edilmesini beklemenin sistemleri kabul edilemez bir süre boyunca savunmasız bırakacağını belirtiyor. Bu kapsamda kurumların önce en kritik veriyi barındıran sistemleri belirlemesi, kriptografik varlıklarını kapsamlı biçimde değerlendirmesi, bağımlılıkları haritalaması ve aşamalı, risk temelli bir geçiş planı geliştirmesi öneriliyor. Grup, PQC geçişi için beş öncelikli alan tanımlıyor ve geçişin ulusal siber güvenlik otoritelerinin belirlediği takvimler içinde tamamlanmasını hedefliyor.\n\nRapor, saldırganların şifreli verileri bugünden toplayıp gelecekte çözmesine dayanan \"şimdi depola, sonra çöz\" taktiğine özellikle dikkat çekiyor. Bu risk, CRQC'ler ortaya çıkmadan önce dahi kamu verileri, hassas kişisel bilgiler ve uzun süreli gizlilik gerektiren ticari sırlar açısından geçerli. Grup, kimlik doğrulama mekanizmalarının ele geçirilmesinin ağlar içinde hızlı yatay hareketi mümkün kılarak birden fazla kurum ve sektörü etkileyebileceği uyarısında bulunuyor. Geçişin gecikmesinin kuantum kaynaklı risklerin yanı sıra rekabet avantajı kaybına ve kamu alımları dâhil gelecekteki sözleşme süreçlerinden dışlanmaya yol açabileceği ifade ediliyor. Yaygın uygulamanın önündeki başlıca engel olarak farkındalık eksikliği gösteriliyor; bu nedenle teknik rehberlik, yetkinlik geliştirme çalışmaları ve ulusal stratejilerle bütünleşik bir yaklaşım öneriliyor.",
-  "kaynak": "quantumzeitgeist",
-  "url": "https://quantumzeitgeist.com/g7-cybersecurity-post-quantum-cryptography-needs/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "NEC, yatırım getirisi endişesiyle kuantum bilgisayar geliştirme çalışmalarını durdurdu",
-  "ozet": "Japon teknoloji şirketi NEC, yatırım getirisinin çok uzun süreceği değerlendirmesiyle çalışan bir kuantum bilgisayar geliştirme faaliyetlerini 5 Eylül 2026'da sonlandırdığını açıkladı. 1990'lardan bu yana kuantum bilişim araştırmaları yürüten şirketin bu kararı, temel kuantum araştırmalarının ticari ürüne dönüştürülmesindeki güçlükleri ve özel sektör kuantum girişimlerini etkileyen zaman çizelgesi baskısını ortaya koyuyor.",
-  "haber_metni": "NEC, çalışan bir kuantum bilgisayar geliştirme çalışmalarını durdurduğunu 5 Eylül 2026'da duyurdu. Şirket, geliştirme sürecinin yatırım getirisi sağlamak için çok uzun süreceği sonucuna vardığını belirtti. 1990'lardan bu yana kuantum bilişim araştırmaları yürüten NEC, 1999'da süperiletken katı hal cihazıyla kübit işlemini dünyada ilk gösteren şirket olmuş, 2014'te süperiletken parametron devresiyle yüksek hassasiyetli kübit okuması gerçekleştirmişti. Şirket, NEC-AIST Kuantum Teknolojisi Ortak Araştırma Laboratuvarı üzerinden hem kapı tabanlı kuantum bilgisayarlar hem de kuantum tavlama yaklaşımlarını sürdürüyor, ayrıca Japonya'nın 2050'ye kadar hata toleranslı kuantum bilgisayar hedefleyen Moonshot programında süperiletken devre çalışmasının proje yöneticiliğini üstleniyordu.\n\nŞirketin süperiletken parametron ve Josephson Parametrik Osilatör devrelerine dayalı kuantum tavlama mimarisi, geleneksel tavlayıcılara göre daha uzun eşevrelilik süreleri sunuyordu; ancak sistem 8 kübitlik laboratuvar aşamasının ötesine geçemedi. Kübit sayısıyla ölçeklenen kablolama ve ölçüm donanımı ile seyreltme soğutucularının sınırlı kapasitesi başlıca engeller olarak öne çıkıyordu. Karar, Japonya'nın yapay zeka ve kuantum araştırmaları alanında uzmanlık kazandırmak amacıyla 30 bin genç bilim insanını yurt dışına gönderme planını açıkladığı bir döneme denk geldi ve ABD ile Çin'in kuantum bilişime yönelik kapsamlı yatırımlarıyla tezat oluşturuyor. Gelişme, köklü teknoloji şirketleri için dahi kuantum araştırmalarını ticari ürüne dönüştürmenin güçlüğünü gösteriyor.",
-  "kaynak": "quantumzeitgeist",
-  "url": "https://quantumzeitgeist.com/japans-nec-investment-quantum-halts-roi/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "How will EU's AI Act impact banks? - ATM Marketplace",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "ATM Marketplace",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OSHI5OGRrSzhtbnBkUnRmYkxzNExDV0IyMVdpalZpMHZlOWFUbHdwc0V3emxpc2NHVjdwNHcxVl9zR0hlSDM1QmFvLWJ4TGdnMW00cnBocWJJQzYwR1FiMkp2LW5xU2hudEdkdVkydjBjMnRXc20wX0Fn?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "GCC central banks step up cybersecurity, fintech co-operation - Zawya",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Zawya",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmdueXdlLUNORi1UVzROdktSTEYzNmJfSUN6Z0ZIcFJOZUNnbVNPNDZCVjEzTVI4Vk9Rcl9BUWZlSHdXemJBQXBDTDcxcHdGLVdtekxGbzBZOE02NmxLaW5OUF84ZHFELUZ3WW9qMnh4M1ktWkhOUW50WEtLNkhYUmxiakpucjlBelN6S0h6ODZmbHR5eWFzMFQ3NnNzZzFMVXI1MldmNTl6MjYzbndEVGcxa1FQM19pYnFLZDJ4Vzg?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "OpenAI agent breach strains IP rules built around human conduct - MLex",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "MLex",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTRQMEtTcVRVclY5cHc0bVlLTjdrbDZkYXF0UlNxeVNTamo5SEFrRUVWczNVMzMxTG1TcmJ0X0V6eVFIbnFvb2FCeFMyaHd3X1d4Yl9WWlB0OTRiRjktZnNMVk54d0MyTXF1cXMzZldyaWJVM0ppb0VXLUpPSlVFbkpRWWJlaXM1RmtkSjJnelJJNVlDR1d6RmI3bXBWT0NNVWlOUVNMckdHNzBWUFJuMmViYmNINDBnbDRabks2ZVZIT1VHQlZ0T21n0gFaQVVfeXFMT05TYlRVcnIxVU9ab3Y1NHVXZ3BodFF3OENpWWpPQVJiSVBxOEwtS3B0U3RNZmJZOFZnZGtsRUxEUVBxRHo2YlF6S19qMW9WbkJzc3lsTGU3eEV3?oc=5",
-  "kategori": "ai-governance"
- },
- {
-  "baslik": "India's top court scraps $45m customs penalty over AI-hallucinated cases - MLex",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "MLex",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUFXbVR1OHVsZzY2TEs1TDdZMlIweGJfbHduSWlFRktHQnhLODZ1b3NZMFVzVVVSd080S2hBVXYzbmdkZVlBUTlOdWRLaXB3LTR4RzRSdjJwU0FCMWFZMzNLSFJtNjFjUll0WVpsWlgwTVMyVW12RjZwUTgtZWRzOGdMSTZHNHZZSURURVM5dV9rQ2R4b0IxWGJPXzdDNHBFMzBaRnU0T3kwdTRvT00zM2ZBVUZKRlpHb3BHYm52d0FoOHVHelVra2d4TWJ5ZkRUdndBWtIBWkFVX3lxTE01UXo4dURxQWE5bUppVE95dGtkcjRJUWlsY25kLVhqUVRrWllHWDBlV2RFVVl4T1JWRkNwbkZNVTVDRVBZQ3dNaE5Ta2lRdzdJN2YwN2c0ZmREZw?oc=5",
-  "kategori": "ai-governance"
- },
- {
-  "baslik": "İngiltere Merkez Bankası Başkanı'ndan yapay zeka uyarısı: 'Ekonomiyi tehdit ediyor' - Euronews.com",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Euronews.com",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUdCbUwzNnZrVUc0Z2hvcmJoNkc2d09BQTJ3MUEteS1mcVhVYXhOc0wwdXFCYVBNY1dUcG5ycEt4VFJnQnpLeUpELS1seVM3S1Q3QW8yZ2xOWUNUNXJlNEdhRG5GY181ZlFUcHZjWUlUYlpadXBYYndBLTA5aEd0YnFwYzV4NndJOGNwLXF0azQtTHVsdE9rMHZEaDhoTV9vdWhxRWZEVlFPZTZpWWNieVVOai1fdEZB?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "İngiltere Merkez Bankası'ndan Yapay Zeka Uyarısı - Analiz Gazetesi",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Analiz Gazetesi",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEJWM1F4dFNnMWZDUW5vTnRtUHptT3l2TjlFdkJiWVRiUEkyMnJrVEdnVlJjZEluOW9QNTZPdFZObjh5cVJGWVhBV19hc1Z6YTUyTEtjeWpyMTVuYWs3cE1lendlYUpJLW93VGRSejk5NTlYTXg3dVdDVTB0bmFKSzk1RXZuQ25zczFPWUJCcTdkdnM?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Android cihazlarda NFC röle kötü amaçlı yazılımı hakkında uyarı: Banka hesaplarını çalmak için geliştirilmiş karmaşık bir yöntem. - Vietnam.vn",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Vietnam.vn",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDlIRXlFQ2N5cUI2RGlKa2FBTU1aSGpuTXNTaTBDZUZsdDRhblUtRlNvQU9vaGJ1OV9BRWlSVnN0S2hkUXZob3FCcDBCTE5Xbmhud1hWSWE5VkxvRlQySGtPem1CVG92RWNrdjZEdG4zcE9oWWxzcmhDb2ZrZWtMclNDX01waGpDOHcyQlNSbWNGR2V1Y2NyYkliY2VkVDZvZ3MtVkw1Nkt5bFcydkJ1YzJadw?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Putin’den Uzak Doğu’ya yönelik teknoloji hamlesi: Kuantum iletişim ağı 2030’a kadar Pasifik’e ulaşacak - t24.com.tr",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "t24.com.tr",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0ExR1EwSnJVSURxU1ZzZmYzcHQ0dTA4ZWRIWDRxcTFYUE0tV3FRTmZ0T09zYzdmUkktSkFELW1ySWdGYXZ5VWxMQzdfdUFYcGpMZnFsQlVDUjBlRUZoZklGWUlMZUo4MmhLSXhQZlJXRWVHaVh5aGFMSDRuYTdYajFPZTlUcUVzOVd5cFV0SEgtVkRabkRSN0R5ODByT3I1Uko5eUczZ3dvdy15ZzF1R1BsUXlmaEdDN0plMnc1VWpmUVduMl9rYlhMcDgycXhxaklod0I0eGp2WDNfYXVYVE93?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "Yeni OVP'de TROY ve dijital Türk lirası için yeni adımlar - TRT Haber",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "TRT Haber",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGVrS2FsRXlGYUFLTmRDUFBhNkMzanIzTjcxTVdWRmVoRUNnRXNUYjhOSjRPTFhBLTFGQU5ydU9EdURHMDZmSXJyYUtfeXRTbkswMWxNWXBNdGF5N1lfTnRkWklmd0dMZjh6cmJ2aFhfOFF0YnI0YXZNUVlXczJ2OVI1QnNHZmlKS3o0blo1blFYVWVFdjRyYnliWGt0eHJmU3FKY2lnME5TREE?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters",
+  "baslik": "AI boom poses new financial stability risks, BIS head says - Reuters",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Jackson Hole and G20 Map a Future of 24/7 Payments and AI - pymnts.com",
+  "baslik": "Artificial intelligence, growth and financial stability: challenges for central banks - Bank for International Settlements",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "pymnts.com",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHpobkMyczdjbGVPMC00VXNtM3RFMkxWRTd0S0ZtODBENE1XWFlla1FmZGhicDhTN01ZTGhiRkk1Zi05WURiVGVzbEUtal8xY3R2ZXpodDM5eUxHaDVpWTBXRXJqUGJkclBrak1oYUZwUElOd1U3eko4THloTDhJTWpQc0hleHNBempiSHhGY09Ddy1Pc2ZzZ2FGQU1ua1dyMnZkbFNHY0dmRm14UmFlSQ?oc=5",
+  "kaynak": "Bank for International Settlements",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlpES1hMSUxZLXBXNHk2YmtoczgzOXEzTlo2ZzZxVkF5U3UwMUx0UDlLOHdWN2RMeDhQelpHdE9hb0dqcERCNFl5c1FfNS15NWYwcS0zRGthcjBxZmVXdmFNTkJNa0VLQ242RTdudDE1T2NhdmpvNTQyQ3k2dy1kWXE2bTl6X0VMVVViRm9LX0o3RGxnMWh6ZTlUTmZaOHRIWkp3OVNnbTBVYkh6VHpoVkNISmhfTkhL?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "AI Could Outpace Central Banks and Disrupt Financial Market Control - Межа. Новини України.",
+  "baslik": "When machines attack: frontier AI cyber threats and policy responses in the financial sector - Bank for International Settlements",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bank for International Settlements",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVhNcnJET2tFWTlfRGdsQkNlZ2R2R3hjNE9rZGxFaXpOM0tFUDdPUG9vY0JZMFZsSDJScTdxSEloZ0RNeGgyZTR3QWt0ZlhaM0k0RF9teml1bHNpRUtXN0ZDaTFxdjRQMEEwdTFNeFpWbE5wV0M3ODlZWUV1RERuMmYtMXR6QnhKcUJEQ2RsWUljN0M5VXVEWkhiYzhBMFBtTW42YlFuYTV4dHRpMnk4QmJQNlgtZkQ1emN6RDd5TTVrZ0hvZFMtcVBR?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper - Bank for International Settlements",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bank for International Settlements",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV3NVcGRfNVNNV0wtZ3BYQkpBMk1BbGZNT2tJem5fNjJuVld2RGNJcERVelZZTXluaTRZdUU0RFJGUVlZaExuZVJQQjZLN1g1Rk9PMzU0Zks5bFBxNW52dTZjWkVtRDF2aEtaUWFlQVVJaDk4UUdSV25hcVV5QXBVbFEyLU1jdDF4Rk5ScnJicXFnYWxuZ0d2RTNQNVYzRXRIT2laUUk1Ml9TSGZh?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers - Bank for International Settlements",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bank for International Settlements",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQV95MEdpeFYxeFdGeWpaTWQydkktV2ZLc2g3M2tjV1d1UVJ5TVdieFA0ZWMtTFFYUmNZMFJwOUVVSHFtME1rN1lScVE5UFZtNzhrQ1hLOEJPU1JtQWlnOHI4b0FmdG1lWW1Sd1ZjMmgwVUloLUxxbXNTX2hmWjVSSUc2T3lCanN5M09nZ1pGeWo4LVIwR3ktRllsbjg4WTMxQVJCcV9IOWh4Q1JPVzZzMk1veGRURUdXYzJuTi0zeUIwTU1pMFNGOWhZQmdyVXJLUVJUag?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Brics governors announce central bank capacity-building hub - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3ZkS3lldmVVcGdxVzhvZmk0N1A3WGk2TEdKdUlzM3BNS1R2ZmVkSVpMMUlzWmlwQkpIenhta3hwTlUwQzFCcklnOTI3SmRnSmY0bU41QWI0OVdkZzR1TkhjSWZHamdPMlZQVUQ2ZG13cGc4MmNWV3RISkxhMjZ1NUl6UFk2V3ZFc0FRNWR1RlFjS3BQQm1wdnRpenIybjhuQndaWjV3aXB2dw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "OpenAI calls for mandatory frontier AI safety rules - National Technology News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "National Technology News",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2pObnBUQklzTEFUbEt1ck1NZmp6c2dxSzZWcjdaYWVNS0N2UWZycGk0eUw0YmN6TjhSX2cyVzF0SDhad3NWcTg1Z1prRkxZRzd3RE9ULXlXeXlFR1VYeGhZbndnVFI0X3A4MVFYOEtPT2huUXQ0QkJkNlJ4NmFmdW1wcldUY1F1amlCcWIxVXR2dw?oc=5",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "FinregE Publishes FCA Cryptoasset Readiness Framework for 2026",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "fintechtimes",
+  "url": "https://thefintechtimes.com/finrege-publishes-fca-cryptoasset-readiness-framework-for-2026/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Infleqtion ve Cisco, kuantum bilgisayarları ağa bağlamak için iş birliğine gitti",
+  "ozet": "Infleqtion ve Cisco, 10 Eylül 2026'da nötr atom tabanlı kuantum bilgisayar ve sensörleri Cisco'nun ağ altyapısıyla birleştirerek dağıtık kuantum mimarisi geliştirmek üzere iş birliği duyurdu. Ortaklık, izole kuantum makineleri yerine birbirine bağlı sistemlere odaklanan sektör eğiliminin bir göstergesi olarak öne çıkıyor.",
+  "haber_metni": "Infleqtion ve Cisco, 10 Eylül 2026'da Infleqtion'ın nötr atom tabanlı kuantum bilgisayarları ile sensörlerini Cisco'nun ağ altyapısına bağlayarak ölçeklenebilir, dağıtık kuantum hesaplama mimarisi geliştirmeyi amaçlayan bir iş birliği duyurdu. Nötr atom kübitlerinin, kuantum ağları için gerekli fotonlarla doğal biçimde etkileşime girmesi, sistemlerin birbirine bağlanmasını kolaylaştıran temel unsur olarak öne çıkıyor. Cisco Araştırma Başkanı Ramana Kompella, kuantum alanındaki bir sonraki büyük atılımın daha büyük izole makineler inşa etmekten değil, sistemleri birbirine bağlamaktan geleceğini belirtti. İş birliği kapsamında Cisco'nun, bağlı cihazlar arasında kuantum dolanıklığını dinamik olarak dağıtmak üzere geliştirdiği kuantum ağ yığını ve kuantum bilgisini koruyarak yönlendiren Universal Quantum Switch araştırma prototipi kullanılacak.\n\nTaraflar, Infleqtion'ın nötr atom kuantum belleği ve kuantum işlem birimlerindeki kuantum durumlarının uzun mesafeli iletim için optik kanallara dönüştürülmesini (optik transdüksiyon) araştıracak; sensörler ile hesaplama düğümleri arasında veri aktarımını düzenleyen mimarileri inceleyecek. Bu yaklaşımın malzeme bilimi ve finansal modelleme gibi alanlarda yeni uygulamalara kapı açabileceği belirtiliyor. Aralık 2025 itibarıyla yüzde 99,73 kapı doğruluğu gösteren 1.600 kübitlik kafes yapısı, deneyler için temel oluşturacak. ABD Savunma Bakanlığı ve NASA gibi kurumlarla çalışan, NYSE'de INFQ koduyla işlem gören Infleqtion, bugüne kadar 550 milyon doların üzerinde fon sağladı; ABD Ticaret Bakanlığı CHIPS Ar-Ge Ofisi ile geliştirme ilerlemesine bağlı 100 milyon dolarlık bağlayıcı olmayan bir niyet mektubu da bulunuyor.",
+  "kaynak": "quantumzeitgeist",
+  "url": "https://quantumzeitgeist.com/quantum-computer-networks-infleqtion-cisco/",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Revolut confirms customer data breach after fake government requests - FStech",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "FStech",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0xJWlhHRzNZdmtFWDVNMHZuazNfUnQ3TDFZalZPb1cyVG5HamZJd0hSY2s0S0twN1lVb1cwQl9qMTZwSzBxTTd1LUhMWkU5dXFENl9VRk4wMG1OSlRudzUzOTRncXUyaXFiemtFbjNSZUVWTy1pVTBtYWI4dDAwTVBFcktsc0t3VklTbHJYajJkMHdhcEtOTEhubzUxbVQ4UDln?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Russia launches CBDC as digital ruble goes live for everyday use across country",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "globalgovfin",
+  "url": "https://www.globalgovernmentfinance.com/russia-launches-digital-ruble/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Monetary Authority of Singapore reveals latest fintech funding programme",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "globalgovfin",
+  "url": "https://www.globalgovernmentfinance.com/singapore-monetary-authority-fsti-4-funding/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Japan weighs limits of current law on AI voice clones - MLex",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "MLex",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUQ1SnhVQzFuYU15QnMtRU1ScVZIUENQSHlfVGI2WnEyaHBWdWZwTDBVZE96bnozRTlKRDFGQ1RFWDYtSjZoUjk4NnBaNE5RZl95Ulc4T2FWYmdqajh4NXF2QWF0SlQ5WmRMSVpWRG56M0ZhaFlwUGVHVWVienBzRGlmSWs1T21HbVBlai1JODRCbDdZYjFUd3RocC1Eci1XRG0yLTRJQjJZeHRTcWEtemE5dm50azZUSTJwWQ?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "AB, yapay zeka için küresel düzenleme çağrısı yaptı - Habername.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Habername.com",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1Z5TWFZT3FIVlhIZ2pSdk5NMGg4dHFuUnNwYUszbXRsYjdXWkZuT19NSDM5OFVFRXhVT0dNaFQ0WVFjNkNzbmc0Mlh0cXMyN29NY1RnOU4zNWMwbkM3ck16dGZsdjE1WnNCclhRbkNqTW9BbG55NUJkTFVueXhQQTZEQzdsc0YyRGw5eEVydmhQNGxQQTg1OdIBqAFBVV95cUxQTTBYVGJGN3lhVXBlbEpMNWRlakxUZ3B4M2ZuRHVHaXRfTkItdnlQVFEza2d0bEpKejVWZzlzY1Rxa252a1dmZ245d2ZhaEwwd0lzZ21MYWZnQ2x6M3N3TTdmX2ItMFBabWgyVkY5MkN3WW92ZnNUX2QxZjhmR3hYbnlaVEpBRVp3SWxRaUZSSWx6TWFPc2JaOUI2dk5yWFc5Rk1UWkVUWWs?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "OpenAI: ABD'nin yapay zeka güvenliği için zorunlu bir ulusal düzenleme sistemine ihtiyacı var. - Vietnam.vn",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Vietnam.vn",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDl3LWw4bFZMMjNfeDNtc3g1Z0ljZm1zQkJ3ZVd2bXVQNlk4UVk2TGlhUVdDVzExVmMwTUJzTkFUZWxrN201ckp1akl1VDdLYmhwNmR1ajJmR1RjWmo5VEF2b2tlVGNBa0RMd0pkZHJ0QnpqQUpCY0pOTmpmdWVxWkY2dmw1YU9mSm9lNExZVFNNanRFdlI4Vg?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "\"Yapay zeka patlaması yeni finansal istikrar riskleri yaratıyor\" - Bloomberght",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberght",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2VNUm55X1pyNnRkbmQ1Y2htbE5CZ1lSUjlpSzVDWmxjYWN0T0dVWWdFT0ZZQUdLWEhMVENMVXVYMnl0SkxxZmFhaFJSWHdGdDMzaWVWYmpMbnBES0VfTnFsb0ZBM09lYUJudkNLbTFWM1h5Zll5OGRMd2FZcXkxdDB0b0l2M2NrdnBwTF96d0V1ZDNoWXJmM284Vi1uUjA?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Kuantum Bilgisayarlar İçin Kritik Uyarı: G7 Kurumları Harekete Çağırdı - CozumPark",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CozumPark",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0duQWtZWlZ2UVVqczhMZUhPRi1GWUZQZXRjMDRfY3FKNm1WM2Jwc1FhbnZodzAzRFNWRkJlM3BhMnBYRU42Uk9KRzRhYjJGdDQtY0o4QTNLZlRlNVJrUnFENEpna3h5bUF3M3pyWFhkeXczejMwd0JFdndxNm1wa0o5ZWtpT2NXZlphcnFxMlZUbEczcmFpNGxHS3c?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "ETH haberi: Ethereum, 2029 son tarihiyle kuantum direncini en üst öncelik haline getiriyor - CoinDesk",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CoinDesk",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmItT2NDVWFfUExaM3ZMMFZvQVdya3dJaktIOHZBQzdpdEdkNWstVENaSjVBcjRITXVKY01VZ0p4aXJ4QWVMSEkyVHE5VGV3S3pGZldWejM2QWVoV1pKTGxUWjlsVnA3VEFvWjhGX192Ym1tQUs5dFpnSFMwZks0RGxXbjU3WFQwSFNpbHI1QmpOVFZMVDhZWktrUmM5MjUxTjE3T19CeVREaVpkeTh3WkZEOA?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "LayerZero, Akita ile Kuantuma Dayanıklı İspatları 65 Kilobayta Düşürdü - Yellow.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Yellow.com",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0ZQUzF3WGZwN0FHVVNqVGVNbWJJdUNNbW9hMUxOWXlOTmdRVXU2eUdBU0ZiNGt2ZFNfdUV2Rld0OHA1NU15TmtReUN5dFprdTNOZUxrRU1TckdCejVkWDVWRktWRXlsbHVLM2IxbldITFltOXBVSWlfWFJ1Uk8yeGFKTmdIZi1hXzZIMkNPakpJWXZ2NlRKRk80TVZPeHc4RDVKNzc1bWVJVEVsb21Va1pKVGRPQXJJ?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Dijital TL geliyor, FAST genişliyor - Odatv",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Odatv",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkVkN09YQWJDcE5vWnpJR1hYdDFISE45Rm9Pb0tUNVZmMVEyZHNXTFdUakJ0NnVMX1FKV0w4OXFST2RQdHN6ZF9PSk16QVd2UG52RXhndFVQTjZscWxlWlU2Wm5KblNwamlMRy1tMGx6M1RSbTVxWmx4ajNrWnItaUxzZlNHVVk2bk9Hd1FaM0RmTUJlYVJ4OGo3YnNqNU9UcGtSWk5MR1dnQQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Bank of Korea Warns of Destabilizing Impact of High-Risk AI Trades - WSJ",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUVHaWQ5NkVFNW5PMmxHRFk4N1N5RDdCSjVBU3NiNFpmNUlVT1NBMmZSVFcxckFUcHBNZlR0ZURCN1hRLWx6QmpGLWhqc0lYbDduYWdFVGR0ZHNLVkdQQTR0Q0xvcldNd0I2UF8yUVlfakdoaEVSOVRwX1A2T1pjeG42VXhTNXRZQ05yWld5QVRfb3BiREFvVFRtNS03a2MwYzRvQ09hZFphYk5haGUw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Singapore Central Bank Urges Financial Sector To Prepare For AI-Driven Transformation - Crowdfund Insider",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Crowdfund Insider",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeG5jdlE4blc4aG9Ib0hNSF9reDlNUjhfSjVJSlRuVlpNSDM0UXlqc1lOQ1ppbW1NSmpHUGVmZ1R3b2hnSXFEYzhpSTAwR0plZDFhdVBIMlBiMHlpZGdKVkFXYVdTSjJEZnpYMkduSnFIbXprenU5b01kNExrSGo0THpRaHprLWk4eDNOSzN3YUpWcFRxT1VQUDU1a1JLcE02Wk02d3M1eWpKV1NUTUZESzQwUDUxVkVzejlPSWY5RldSMDBwSHZwNmw2cjR4ZHc?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "AI ‘Arms Race’ Still Poses Global Stability Risk, BIS Chief Says - Bloomberg.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQm1wZWRpLTd2RWtSSFU2eGVxNTBCQm5NenQ1cjBsODBaWVY5NmNMNEVNSkp4ZkJuUDRta3NlVjBVUGpGaF91WlBJaV94UDJwbHowOG5vaGxZTkhCWE9VZG0zVjVXd192UFZIMVFEc3EzN0NmdngxVG5LWGxCQ1d5MHRnUHlVcWh4RDlra3FHVGl5eEZ0cTFkeUZUTk1PTjhyZmsxMm9BYmVPWnpmSl9xRVR3?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "AI Investment Boom Raises Financial Stability Risks, BIS Chief Warns - Межа. Новини України.",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Межа. Новини України.",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51ZmluaHdwbm9abzZDTE0ybVZqdVEzMVFzTmg0dlR0ZGVleEpZUzZyQkdmdTdib3NXQ0p0NnBFeVlJWFRsbzM4S0M5YnhXQmxONWdldDQ1a2twdndZRkd4SjNuTQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zck5DY2diRFdjemY2RDNuMzJFM2d2VEFjSlR4U3ctU2NWQ0pFbnZuUVJEVUdMV2lmVEFHQ3NRRksxbTNVMjZaZGF3enJscVNpaGJXM3FRUjJqLU0tRHFhWXNxZ19RZw?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "AI could cause global economic downturn, Andrew Bailey warns G20 - bbc.com",
+  "baslik": "India plans AI registry as it looks to roll out agentic payments, sources say - 101 WIXX",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "bbc.com",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
+  "kaynak": "101 WIXX",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbEhJWTdDWF92aXh4cUp5QXhaeEMzdl9HX1htcVZWalVkQ2tEb0wzM0Q4b21tRmxPb3U1ODg4dTVmQWljLVJ6djlEYU45RHlVdVFiVzVwMG5ZeDdiUTNDR0NPSTNIcC1mRGp2aWF0czhRVDRlT1F4blJ4VGVQdnpPaTA1a09ndW80bXJtRXZMcUU1UnFvQWxvelV1aGk1dWNfbjRWTmRPWlE?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Fed Research Compares Wholesale CBDC Settlement With Tokenized Deposits - TradingView",
+  "baslik": "How Central Banks Can Win the Digital Currency Race - CSIS | Center for Strategic and International Studies",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "TradingView",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnJLcWhoVTM1c2dVYkJ4NmlxVGN1bzhBc2tHMXRXSldDQldzUThocDVTeVpkZ1IwSnFMck1qWlJXLUZuNUQyX0FZei0zbDBRMjNlNmlVVy04eG5WT0Q4UlhNZ1Q5bkM2dGtxcGoySEQ5N19hOGlEbHdKaWpMWThZUTRXT2NVSkt3NXJnRVNIaGV0bHBxQ2FPb3dwd3hnaDh2bWpyTFRmNnZDSnlJMHl1OXZwRmxBdnBLMGNTRENDSmFoYTg1RHZNNg?oc=5",
+  "kaynak": "CSIS | Center for Strategic and International Studies",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWdxNnVkZFdvbXJlVDJaenFDZVZmT2FncEJidW55anJrelZzYTRpYjE3eEJKVG5VN2tPY3hHN3BERHM2UkpQZGNneHg4ZUt6czltQ2pwbjRQYWRwN05nLXAtelNZdW84VmwxRm9laHhRUzdOZklENHBpUFFvb0ppVUhlaw?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "DoD asks for encryption software to protect military data - federalnewsnetwork.com",
+  "baslik": "South Korea CBDC plan draws warning over privacy risks - Crypto News",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "federalnewsnetwork.com",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1h3aFB3MnNqOHN0YkkxdU4zaUtvQWsxazA1bGozQTRqS3VHT192UVh0Zk52YXg0UkpkX0FfXzhNT1I5YnM2Uzh1ZTI2ZjgxV1lOZGxmcjJrUWJ5bmV4SXJULV9YeE1hWTZJbkE3SEhfa3hrdVp4N2Z6T0Zyc0xEUVhtemx6UHBEemswVFNieERWU0d5Wm1oVHJrenVpNWMtZkg5clp1TEJGT1BBWEs4?oc=5",
+  "kaynak": "Crypto News",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUlkM29JUUFUeWpXYmdWX3NkRFR2LVI4cjN0U2ozZTJYSFFUNUp0OWhRbWF2WjlmejdYcDFJQ1RIclRCX3JwQVR6WF9FSzVKUkZJS3Roc2p3bVRmdnJYVHVnRUs3S05RV0JWa2MzVkU5U0dkSHpGWERwOF9IYU45WQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Bank of Korea Advances CBDC Deposit Token Plan - CoinMarketCap",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CoinMarketCap",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXR3YW1PZ2pyY2YyWDdSZTJQU0tfZ3lzcnN1M1NKU3NOSGpweENzUDBTRWRIci14YUFTTS1oTVlSX28tM0VTYXB3NldVTUhyWTBaaWpiZkdvaHJOaGxOcDYtTzd5bGtfWnBGekEyVDRMYURKaWswem55cnVFMVNNdDFWLTRVbVVKSmh0amtn?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Post-quantum cryptography adoption and the national security implications - csoonline.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "csoonline.com",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1ZHMFFKQV9sNFVfcGZrMFJxcjFSRzRiR0VoYUhIR1c1cVZEa2lvS3Z6VlFpbTNWbUZEeUc0aTNXWGJ5RWVBU2RVczJSaU1JTmppMkJjWENPVFA1ZkNtajZraXB3d0l2UUtLME9FYV8tdDZfc2pGSkhzdy1qclhpUmp3VlNPdUNfU1ZzeTN1WXRRcjI2SzdoQkNzUzlCR0xFSXZNV1dZTmF6bm1VVlNXcmZ1R1htMnRTc0VXSA?oc=5",
   "kategori": "kuantum"
  },
  {
-  "baslik": "The G7 tells industry to hurry up and prep for post-quantum encryption - CyberScoop",
+  "baslik": "Post-Quantum Cryptography and India’s Digital Public Infrastructure - HackerNoon",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "CyberScoop",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nanU0T095VmEwX2hDT2RkV203SXBJb0dvWC1Jc1E2RjlzbnNPRkxiMm84Mm1HblU3cjM1NHk5SjBwamlIQTFWY0dKSEgyRXh0NVhYeXJRSTFTYnNYLVRqb1lNRmFnZms4QjJwOERSaFY?oc=5",
+  "kaynak": "HackerNoon",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWN3SjNfZWZmeXBMdjNLRUtfTERpOWhCYmlsaEMxdnZ1eVRKejdCdTRDa2R3czdqTGhzbjkxcVV0RG9IT2h1LXg0aXI5d1YwdUgwVmplZTFRaFBBTTVkUmFkb0NGR2xINnFwU0JNbjJYc3REOU5VTVU1RzJFQVNNX3FPeXZQbEcyY3Q3dEU5Z1RNZGs?oc=5",
   "kategori": "kuantum"
  },
  {
-  "baslik": "Crypto Agility: Why PQC Is Not a One-Time Upgrade - Cisco Blogs",
+  "baslik": "Agencies Need to Quantum-Proof Their Software, Not Just Their Data - GovCIO Media & Research",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Cisco Blogs",
-  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVbFhHTjFhbWNpRXl4MHQxUmJZcXBGMnhoalFXOF90YldCbHk5TEVUeXNSdzlEUWxMaG0xOXJnRWhQR1BRT0dBZA?oc=5",
+  "kaynak": "GovCIO Media & Research",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnBTVXNZVFFQdGJ6bEo0YjdLVXlLVFFjWXU4V0lmaWgzOHRvSDVGbmNmNEVydjlqUVBSUWdOay02V2RLNXA4V09QVWI2OWY2VFpLS0xoQXJ1cGlvd0lNc3FiX08yUTQ5a2xzR0VpVWlVa3pfaWZuT0QweTBTaEpqOUdJVVA5TXhLZ0cyNHVkR25oTEJk?oc=5",
   "kategori": "kuantum"
  },
  {
-  "baslik": "QuSecure Delivers Field-Ready Post-Quantum Cryptography and Crypto-Agility for U.S. Army at Project Convergence Capstone 6 - Business Wire",
+  "baslik": "OpenAI pushes for mandatory national AI safety rules - Reuters",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Business Wire",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX1U1ZzVXOVp2RVplOE1sNG9CdHY4RHFtQUJvSXpKZkRDTDVRclJfbkEzVDFSM0N6Ym14am16Y1JCcDFid0RON2tIQ0FTaFpZVUpsa2l1ZGU2TEJsODZJRTlpSFFrNF9WWnBrOW1DTUNoR1FlX2dKX1MxUVJmV3J5cHdQMUpWcUJWdHVwWkhXbGcwMVRuMUZ5a3haWjB0eHRmQ2lDSVhUWjIycU5GZkpvZElWeW1RdDkwZ2FXc3JTeHJOSkhnM0dmcWtJRS1yNUpiQUV4U3lvZ0YwV0Q0ZEtIVDJYLXY0QVVsZkhRMVlvMEZUcFdEYTV4cXpIeFlGT185NTBLNkJiN3FmcVE?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "U.S. pushes G20 Carolina Principles AI regulation at summit - qz.com",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "qz.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlNsaVlmLVJIem80ckxGOVU3eTEzemQ5N0x1VDRIRW9udVd4VGZQbUVUejBHYlpPUW1TZ0U3U0QzYmNtbGNndWkxS0JnX1NJWjYwQ0I1OTItMzE0a1FRcDhzWU5mTzQ1SHhZa1dXbi1FVDl3OG9VbWpDUTI0U3JGcVp3Yw?oc=5",
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
   "kategori": "ai-governance"
  },
  {
-  "baslik": "Patient rights and AI medical chatbots: Alignment between the GDPR and EU AI Act - IAPP",
+  "baslik": "Newsom signs legislation establishing framework for third party AI auditors - StateScoop",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "IAPP",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3RtVE5majJVeVZETUt3bVRLRVdteWFVVVdqb1Job1FrQ0NwUDJ2R1M3TXdVdG8xQVA2S2x6ZHFSb0w5dDRHNjdrS0doZVRkaHZSZk0tNTBZYUVicWh0cDJsRUlMSm1lWGx3aTh0MFptaHp5SVpzd0gyNDNISnpjN082ZUQwTUZSdzAxMjFMbHNNLXZXN1JCTVRLUldma3o1QW9Ia0tB?oc=5",
+  "kaynak": "StateScoop",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnNRd2V4ZUszbzlwbnBDQWI4eU5QREF3Szh6RWtiUE1XVXlTN19LZlZxdWxqXzl0ZnBqRU9EbFRqcXlQZXRwMklqRkdrQktLWlZzd1VIclZHemdMYWhCWUQtbm5DOGtRNm90NnpRVDBOQXBhYy1Hc25RdFBnQm5YZkFobkRQUzlqTmlzbl9TSEpYNGFra0FUZVc4ZGZqS1kt?oc=5",
   "kategori": "ai-governance"
  },
  {
-  "baslik": "Regulating Technology in Financial Markets - The Regulatory Review",
+  "baslik": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack - finance.yahoo.com",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "The Regulatory Review",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzNyRU9rdG9ybnlRZEhGRWI1QTNIY0xHaGhEdkQ0QWtHdTgwUDNFeTN1VTQxRm5SSENoOHdUdElJRjNic3NxenAtZkYySVBWenk0UTdqbi1CSVpwd1lzS1c1dVFHV1JuOC1UdUFXNTg0aGZQd3o3ZzlqeW5fd1B4azVkZERKYzBxZUU5Q2hYVTV0blpONW5nYg?oc=5",
-  "kategori": "ai-governance"
- },
- {
-  "baslik": "Cyber risk from frontier AI poses ‘most immediate concern’ to global financial system, watchdog warns - The Record from Recorded Future News",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "The Record from Recorded Future News",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0M3V0FkY0hCU21QaTlsMXZhNlBrTDA2c1NzQXFKNlpnUHk5bzZPMjEyRmdNRmVza0Ixd251SGFpLV9LRUljRTI0dGRNWDBpX09MWEFEMXZkei1xSG5XUWs4czF1SFk3YzAzX1huNmR1VTVjSGVJQ3czQVEyY0w3eVRSSzVWeXJ6NzM4UnE5UlVWT29sb0lB?oc=5",
+  "kaynak": "finance.yahoo.com",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUdOVExtemhDbDRNQU0wcV95cTIxYi1nanVBS2hJcklwd25mclZtc0JpeTA2Sy1oOHlvb3B3X3JST0llenhsLU1SVUtCQlByVHVVamV0SFpDNE1YVENqbnpnM1VhMW50X3BkdVFObFVTU2NIYjQ4ajFyN3VmZ05UX2x2UVB4SWRVeUR2V0hsaUtqcHl6VEtxUklnWlZId01hSmJJWA?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Booz Allen: AI models approaching autonomous cyberattack capability as critical infrastructure response windows narrow - Industrial Cyber",
+  "baslik": "CBN Warns Cyberattack On One Financial Institution Could Trigger System-Wide Crisis - Arise News",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Industrial Cyber",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcUpRUG1PZERTc21FT2V4a1V3SmhHLUhWRWUxWEtrNU5kalVZdUZZaVByeFZYNFJJY2VNQTlPdWJfQWRVcEZGSjJ0VWFZc0lxZUNNVHdMRFJNbkl4c2szVVZfSWpoV1l4Vlc4ekRyR0lRRFJFSmY2OFlYNFE3MWlKRjlHcXk5anpUX2IwZzJNTVVjdGllLW9GZmh6b0VVbHpQc2JxeTJSQzFYVHU4YVNrdTMtOUNVVXE0ZlRRSWFfX2ZCTzJVckdsSzNHOFFVWjFLVXZSNGYtd0lHeWtsdUlyOS1KRVk0QUhL?oc=5",
+  "kaynak": "Arise News",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWRNdXVvT0lJQ0Zlb3VmUUZRSENudWZfRm1BTTBCSEloUm1VUDlQcTNhVnFSNFVNQnZlWWhXOXIyS3VEc2c0NUwtdVpMS0h3MVc2VThhcEJINllGNEhocjdDUWIyRjRUVnhoV1AzN1c4SldxajYtR3FPYWFDTTVxRUtYNVdwNFJaSkswSVNuTkp4QThRRWZubXB4a19sb3VRMmVzbzc5Yk8?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "AI core banking puts governance to the test - QA Financial",
+  "baslik": "How to test AI models that banks do not control - QA Financial",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "QA Financial",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UVFpYQmFBMHZkSkpGUDlnS0VoT21DTEEzcnBmbGJadjJ5RkV6a25VODU0Smdodm16aDU2WkVjRkJyY25VRjcyZFNUV2pKSkxqMXhNdHR6dlY0aThpdklnUWlrdWpWem45YW9ZZ0JmZmVRd2tWWWdwdg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbGR0ODNWVjRaazBlVXZCUFBnTTNBajA5d3dzZnJROExUb0ZnR1RQa0tOdGJUbXNZNTMyajE4RDBhTEw0a2UtMHpQY1pMY3FURVZhOWtHQllZZ05ia0k0enFGVW1OOXVJTnRzSGdCQ0VrRmpP?oc=5",
+  "kategori": "is-surekliligi"
+ },
+ {
+  "baslik": "BIS warns AI could cut banks’ patching window to minutes - Crypto News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Crypto News",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVVhpdloxNXE4VFBvemRPV1p2cElZSmhCVEJ0elJHN1IwZjAzRUZjcEVwRWtLVnlLZGRsTGVfdEc0ckJLYmQ5cEhBSDZEb25uTVFsMVRUWk9iVl92OVA5TzJGMjBsa3dYSTB0TzZBYjZIUXc1bVRZbFRGa0w5Zw?oc=5",
   "kategori": "is-surekliligi"
  }
 ]
