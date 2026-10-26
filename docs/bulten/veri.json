@@ -1,90 +1,258 @@
 [
  {
-  "baslik": "ECB Yönetim Kurulu Üyesi Cipollone dijital euro ve tokenizasyon stratejisini anlattı",
-  "ozet": "Avrupa Merkez Bankası (ECB) Yönetim Kurulu Üyesi Piero Cipollone, Frankfurt'ta MNI Connect yayınında yaptığı konuşmada merkez bankası parasının dijital ortama taşınmasına yönelik kapsamlı stratejiyi açıkladı. Cipollone, perakende ödemelerde dijital euro hazırlıklarının, toptan piyasalarda ise Pontes ve Appia girişimlerinin tek bir bütüncül stratejinin parçaları olduğunu vurguladı.",
-  "haber_metni": "Piero Cipollone, 6 Ekim 2026 tarihli konuşmasında, dijital ödemelerin yaygınlaşması, dağıtık defter teknolojisi (DLT) denemeleri ve varlıkların token olarak temsil edilmesiyle değişen teknolojik ortamın hem fırsatlar hem de riskler barındırdığını belirtti. Dijital nakit sunulmaması halinde kamu parasının rolünün gerilemeye devam edebileceğini, token temelli finansın güvenli bir mutabakat varlığı olmadan kapalı ve uyumsuz platformlarda gelişmesi durumunda parçalanmanın artabileceğini ve paranın tekliğinin zayıflayabileceğini ifade etti. Avrupa'nın başka yerlerde kontrol edilen altyapı ve teknolojilere aşırı bağımlılığının dayanıklılık ve parasal egemenliği azalttığına dikkat çekti. ECB'nin yanıtı, kamu ve özel paranın bir arada var olduğu iki katmanlı parasal sistemi korurken merkez bankası parasını dijital ortama taşımak olarak özetlendi.\n\nCipollone, euro bölgesindeki 21 ülkeden 13'ünde yerel kart şeması bulunmadığını ve kart ödemelerinin üçte ikisinin uluslararası şemalara dayandığını hatırlatarak, tüm euro bölgesi ülkelerinde ve başlıca kullanım senaryolarında geçerli bir Avrupa dijital ödeme çözümünün hâlâ bulunmadığını söyledi. Dijital euronun bu boşluğu dolduracağını; çevrimiçi ve çevrimdışı kullanılabileceğini, kişiden kişiye ödemeler, e-ticaret ve fiziksel mağaza ödemelerini kapsayacağını aktardı. ECB'nin müşteriye dönük hizmet sunmayacağını, dağıtımın bankalar ve düzenlemeye tabi ödeme hizmeti sağlayıcıları aracılığıyla yapılacağını belirten Cipollone, amacın bankaların yerini almak değil, onlara dijital çağda rekabet edebilecekleri altyapıyı sağlamak olduğunu vurguladı.",
-  "kaynak": "ecb-press",
-  "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
+  "baslik": "UK and EU financial regulators seek answers from Google over cloud outage",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "finextra",
-  "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "url": "https://www.finextra.com/newsarticle/48637/uk-and-eu-financial-regulators-seek-answers-from-google-over-cloud-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Banks move to limit agents' access to customer accounts",
+  "baslik": "Take Five: AI trade meets the Fed - Reuters",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "finextra",
-  "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Who’s Responsible When AI Agents Go Rogue?",
+  "baslik": "The Half-Trillion-Dollar Silicon Gamble: Inside The AI Debt Boom - Forbes",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "pymnts",
-  "url": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/",
+  "kaynak": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHVPT05RNXJBMm9FVHVsVjVHSkR3RUpkVEQ1OWRFUktoNFdwQkpweEdqd0I0QkFMZHlOalJoWnFJU25BLTlGbVpuaFdvMlJBa1FLM3JFbU43SV9BeUo3V0VoWk9FdVR4UE96Qzhuemdtam9TZURteW9JRVpxUXFUSEM4WloxVHpKUlBhWFFDTU96SHA0dFUtQnBlWXVpbnlweDVKX1FUU2pSa3hUcThKVWpmbzdVMnFqaTViajRHdGhEYWRPVTBlcw?oc=5",
+  "kategori": "yapay-zeka"
+ },
+ {
+  "baslik": "Georgieva: love it, hate it or fear it, AI is here - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGNnNDB5RXVfUEs3eFlJbXJWU2RaUmdNQmhidVB5aDNaNFpXZjRVZ3lLYzRLRldKakx0aUxBdm9TdHhIQlhnUHdEMmxmMnpLa2tzUkpLSkhtNks5S1dBSWRsNUtXM01QYU1ySkNXZ3BKcFZ1SkItMEVxUlcyWDFpZDdvWUxLeGlrV3h1Z203RmstX21ZcWFVYWVR?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Ukraine Combats AI Cyberattacks",
+  "baslik": "Banrep paper proposes LLM-driven forecast method - Central Banking",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "cepa",
-  "url": "https://cepa.org/article/ukraine-combats-ai-cyberattacks/",
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDEtbzlnM0dZejYzQmFTOTVtbGg2VFJzckZtVTVncTYtMnNlbU1GckNKaG9hOThJWlY5RXNpS2d6MkI3akg4Z3ppVjFyUDEwb0ZpNWNfaWMzbldGYjRDSmhneWU1THFXajZrdHdDZFNSdFo0LTFaa20zbXVFMEFqQ2dRRWdjSjFpN0NRMjNzWUNpOU92S01takdKcW9vZ0JPb2VDSllWNzdNeWdKdUxXbA?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Three horizons of quantum: A business road map to the future computing economy - McKinsey & Company",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "McKinsey & Company",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaU1ZVzJfd0s1M00xbmpEZjJMU3dPcTNmX2o5aWxPQW8xcWdXOEVSbzlWNTNlTHB1YWRWcmI0QjRZY2xET2VwczROcHF2Nm9BV1Zka3NfaTdTc0RSRVhhWVJBTkltc0xzNEpIbTBZSjZ0NXB6UjhfZVZhdTdFNUpRS284WndRTU52RGpSeF9BU3FCdVhRaVo0akJjd0RSa3RXX00wV0w3aVR2YVM5WVdFa1liVG8teFhkdTZoVllPZGdBc3FTU2J0TE54LXQ4ZFZHckZ6Szlqdw?oc=5",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "“Some Observations on the AI Economy & Monetary Policy” - Remarks by Mr Edward S. Robinson, Deputy Managing Director (Economic Policy) & Chief Economist, Monetary Authority of Singapore, at the 2026 Beijing Financial Street Forum on 20 October 202 - Monetary Authority of Singapore",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Monetary Authority of Singapore",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjB3UFI0cnhPajVRSG1jcVp1Q2V4WFBBb1ZoeFd5Z1Rfc2tDWXRHWFF1di1xSTMxcE5QTmx2d2N1LXpGWnhQTE44OUduTlBzWE1nQ3Vybk9lbTNBdGRfd3JDbFVVZVYwTWJwN1NZcWlxeWJGUlV1OXNJdjE1TmRrT09mSE9iWEVCQzBQdksxRVZjOEx0dDRCNllpeHd2dw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Asia Market Daily: China's central bank pledges financial support for AI industry development (2026/10/19) - PANews",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "PANews",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HTkRPQTlrbDd6QTRLV08teVVSY1M0X296WTVqcDFRQm9CMFBWMThrQVM1eXNVSHo1akVydlVIQ2pmd2UwNHRFbUFyYjc4QVVaZXlpWGltaUdtLVlLSmdsSGo3eEUyaFFRMldCRXFKSG95dURBTjBrbmNwOE1yUTg?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "South Korea pledges to strengthen support for AI data-center projects - MLex",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "MLex",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEh3RkdRaV9BYjRvQkFvRXNRMlZ0TVNpUG1NNEhrVllnV2pPbGJ2SzhCS0VwaTFxQXlsVnFYbzZXZEdTeEliYWdvZ2tZclB5bWd5blVMUlVQQTJQVE11dHdCdjdJaS14T1gzR05sY1h0LVZ0eXJydlBpZDk2dG1hOExaaV8ydEJOVm5KUld2cHdjRjh6Y1pJTEZNMVdfUm1IcWt4TDJWTDR2dzlBTWt0TUM2WlUwbDYxNlB0TzJvSUhXeXRWMUlWd0JXZFZ2UF9SMHfSAVpBVV95cUxOV01aNHJCQjNmOGNaSU5GZWhYYjdkb3lwYmFnX1h1aVRnU3RpUDhDM0NJLUVKLVNGS0Ftd1cwQ3M2bDdnQVY5S0JxcVRKR3lyNWFjaWEyay1YTHc?oc=5",
   "kategori": "ai-governance"
  },
  {
-  "baslik": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
+  "baslik": "Yapay zekâ destekli dolandırıcılığa karşı yasal düzenleme çağrısı - İlke Haber Ajansı",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "ciodive",
-  "url": "https://www.ciodive.com/news/jpmorgan-chase-goldman-sachs-AI-security/833764/",
-  "kategori": "genel-bt"
+  "kaynak": "İlke Haber Ajansı",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWczelFiNV9DZXFCMXpkQWhmQWtNQkRsZlJ2d2NMWFlEMURJZERDMFY2VmpBc1dodm81dHF2RlR1T2diRnRXNmtkcVV3T055SzRlNnpVUHoyT0pFRWhyX3dVeHViNklraWtWd0h5YnRBdHF3RkdNcWdmQktBclo5ajRTX1ZjSnpXR1NHM003LTREQjJYQjdTSGNMd05FdE90WU9RVg?oc=5",
+  "kategori": "ai-governance"
  },
  {
-  "baslik": "Agentic AI helps hackers level up — even without detailed instructions",
+  "baslik": "Merkez Bankası, EVDS verilerine yapay zeka erişimi sağlayan EVDS-MCP'yi devreye aldı - Anadolu Ajansı",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "ciodive",
-  "url": "https://www.ciodive.com/news/agentic-ai-cyberattacks-harnesses-crowdstrike/833739/",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "AI accelerates path from IT compromise to OT targeting",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "computerweekly",
-  "url": "https://www.computerweekly.com/opinion/AI-accelerates-path-from-IT-compromise-to-OT-targeting",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "Malezya ve Tayland Merkez Bankaları Singapur'un BLOOM Dijital Para Girişimine Katıldı",
-  "ozet": "Malezya ve Tayland merkez bankaları, Singapur Para Otoritesi'nin (MAS) sınır ötesi işlemlerde dijital paranın kullanımına yönelik ortak yaklaşımlar geliştirmeyi amaçlayan BLOOM girişimine katıldı. Girişim, dijital para düzenlemeleri arasında birlikte çalışabilirliği artırmayı ve sınır ötesi mutabakat çerçeveleri geliştirmeyi hedefliyor.",
-  "haber_metni": "Malezya ve Tayland merkez bankaları, Singapur Para Otoritesi'nin (MAS) BLOOM girişimine katılarak sınır ötesi işlemlerde dijital paranın kullanımına ilişkin ortak yaklaşımlar geliştirmek üzere iş birliğine gitti. Açılımı \"Sınırsız, Likit, Açık, Çevrimiçi ve Çok Para Birimli\" olan BLOOM, dijital para düzenlemeleri arasında birlikte çalışabilirliği artırmayı ve sınır ötesi mutabakat çerçeveleri geliştirmeyi amaçlayan bir kamu-özel sektör girişimi. Üç merkez bankası; finansal kuruluşlar, ödeme ağları ve teknoloji sağlayıcılarıyla birlikte, farklı dijital para türlerinin kurumlar, ağlar ve yargı bölgeleri arasında nasıl kabul edilip mutabakata bağlanabileceği üzerinde çalışacak. Girişimin katılımcıları arasına Airwallex, Mastercard, Maybank, Monee, Nium, Ripple, ShopeePay, Visa ve Dünya Bankası Grubu da dahil oldu.\n\nGirişim üç alana odaklanacak: yargı bölgeleri arasında kabul ve mutabakat, dijital para ağları arasında birlikte çalışabilirlik ile kimlik doğrulama, yaptırım taraması ve işlem limitleri gibi programlanabilir kontroller. MAS, piyasalarda farklı dijital para türleri ve düzenleyici gereklilikler geliştikçe daha fazla koordinasyona ihtiyaç duyulacağını; ortak yaklaşımların finansal kuruluşların her karşı tarafla ayrı düzenlemeler kurma gereğini azaltarak uygulama maliyetlerini düşürebileceğini ve devreye alma süreçlerini hızlandırabileceğini belirtti. Tayland Merkez Bankası yetkilisi Daranee Saeju, girişimin özellikle sınır ötesi ödemeler ve toptan mutabakatta tokenize paraya ilişkin düzenleyici yaklaşımlara katkı sağlayacağını ifade etti. BLOOM ayrıca uluslararası standartlar ile yerel denetim gerekliliklerinin, ulusal düzenlemeler arasındaki farklılıklar göz ardı edilmeden sınır ötesi işlemlere nasıl uygulanabileceğini de inceleyecek.",
-  "kaynak": "crowdfundinsider",
-  "url": "https://www.crowdfundinsider.com/2026/10/320558-singapore-malaysia-and-thailand-central-banks-join-digital-money-initiative/",
+  "kaynak": "Anadolu Ajansı",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFl6ek1OX0dtQ0txZjJFVkhVVFJfbUprRjRsV0RIS200SGF3YVkzLWNwR21NZ1hXQjU0aW9ldkozWjRpSTkxdGJPMnpjVVV5aWkxVmZ0VUtzQjFheTVXOXN2T25zREYxNnlnQkptb0lFbzM1czAwRnJKS0VWTHFsOUdaTlVpdnR0SmZQTkU0YmRHcUpLc0lNaVV0OXBjWHpHMVJjVndxNW1fLXNJQUEwY3hWY05GWmJpRXNVX3ZxQUY?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "AI agents behaving badly",
+  "baslik": "Güvenlik uyarısı: Hackerlar sadece müşteri paralarını çalmakla kalmıyor, aynı zamanda banka kasalarını da hedef alıyorlar. - Vietnam.vn",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "omfif",
-  "url": "https://www.omfif.org/2026/10/ai-agents-behaving-badly/",
-  "kategori": "merkez-bankaciligi"
+  "kaynak": "Vietnam.vn",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczE5eEp2MktjcHVmOUlzcGRRcnJtLTAwSk9pSVkwellxUGNZYVZPY2NEdUVTaE9hMThLM3BSb3g4Z052VU1DdVBNVl9fU2xzUm1EUUZJdGdvZ0t5M0dHd1pieTJ5cWRib0d5X0pjb0NSNmN6UE1HdV9YYzlzY0k0UmlyVm5KZXdZbDJBbGhqdUUzdm1PNjFDUmp5X0NDX1p2NzF5dWJfZXFnVU9ETzZXeUV2Y012dw?oc=5",
+  "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Researchers Cut Cipher Cracking Time with New Quantum Attacks",
+  "baslik": "Hindistan’ın en büyük bankası hacklendi: Bilgiler karanlık ağda - Orta Doğu Haber",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "quantumzeitgeist",
-  "url": "https://quantumzeitgeist.com/quantum-attacks-reduce-block-cipher-cracking-time/",
+  "kaynak": "Orta Doğu Haber",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkdmSmRIYUw1TFhsMTlpZHFJbUZYMXJubUFMSU1sMUdjZzdVVjRDTC1qMEtlYTBZYW1wWTRXSndFM3pKSXJEV084ZGk2RXA1OXRuTE15LTN3aDQ2Njk4VC1VV2pXYkpmYTFGSGR3V3BQMnZHSEhOSmlGNkZSeG5WckREX1lKSXZ4NVVIeUtnd0ZROW93ZXVj?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "“Kuantum bilgisayarların ekonomik etkisi 2030’da başlayabilir” - Bloomberght",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberght",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGNXSzI2VmtFNFBrRmdSb2ZjNGk1T3ZKcGpQcmZ5MUowOVlhdTJHZURSTmlwdnYwUnZoa3p1YThBTXEtUTIxdlpGMkl1QWxTQ1g0S05jaFJzenlETjcwQXZvd1dud2tEbWVuWm9HRzg3eFluUldJY1NqRGoxcnJpS2w5NG9HNkRQeTkyWDZ4ZzdsVXU5aFhsVnlUVQ?oc=5",
   "kategori": "kuantum"
+ },
+ {
+  "baslik": "BTC için Q-Day: Kuantum bilgisayar Bitcoin’i kırarsa ne olur? - Traders Union",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Traders Union",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySDNIM29PUGhmdVc1N2JDZmpBLTViWWdEd29SUEl6c3BCcC01UWk5NS1Ua3p2bU1zWHktMmlYRkRmSmhIaFlBLXdsVkVVZTB4U1plTE9zUDBxMzJYYWtQc2xhNEd1TkttNVlDTms3YzJ0eENEdnl3bTZ0UG0zMXM?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Kaspersky Lazarus grubunun yapay zeka destekli yeni siber saldırı kampanyasını ortaya çıkardı - Anadolu Ajansı",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Anadolu Ajansı",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM0ZiR2dUVXlaNlRGTEhmY0U5WlRxeU1ZQWdORkZhZ0xaeEpWYzdhbGVWUVZKWVpJRWhicmFxeldjTl9XdWZkMWhHcTdhRUVyNk0xQ3M1ZGVDejhBT2JPdnpmZlQzSTRyZ0Itb2F3Q2FRd1BJaTYzMnVqRWFvYkhnZXpLQWNQVlFGZW03cVBFZWprbWotMzdBZVJIVmpyQ2xrRm9fWl80TlhBVzFYVmFMd3BGUjNUT2lTYWthNHliTzFVU3dWOVhPc3A0c0ZvV0JoRlRRVU9EYmNnMTQ?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Commercial lenders facing heavier AI burden than central banks: ICBC president - South China Morning Post",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1lBWTlKSzA0WUtQVDRYVmRIaVRKQ3NHcEVVNm5yYXIyd2Y0Z2gtWTNscGladWF3Y3Y0b2tYYUc1YndISVBXZDBzb01fbUpYUnJZb1F2ZmJJUEcxcEx2dC1PcVZLQk1KQXVsRjVJc3RXZEoyeGJoMkZQa3Bpd09zby14ektCcVFUXzUwRW5EVkpYMy1JTERNRU1peHlIcjdkVmZDUXNDRlNXMW1wQ2wxaVhIaVFaNFMybFZzc1JXVk5La1h2dGY2QjRLTFZwUFZWSFBKekVn?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Chinese central bank to employ 3-part AI strategy, says governor - CGTN",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CGTN",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVVOSDVLUDk2ek5Vc2NjaVc1cFV1OWxyN01PNURidE9iMDd0SXVIVV91U1BjeTFoVjVubGVTTmhyU0E0ZVVkd0J1eFN0T0ZNcVlQdUM3NVFoSGVfeXNQeml1WDBhT1Z4NFU1MnB0SDF1ZFQ5N0xqb1NuM2VEMWt4a0F6MWgxS0FiYVk3b2JaQkJ5VjUwcFk2Ql9uSmFsV2RrMFpNMGc0Sl9yWEpXRm9QdEdmNEI1M2dXLXFXOA?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "What Key Concerns Drive Global Central Banks' Collective Assessment of AI? - eu.36kr.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "eu.36kr.com",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRjRodFNyVTNPVFJRQWJzcDAyZFJ1alEwYVI4WW9ZTlUwQXhOYk1YVUY4Q1BRTERNWUFsaXU1SVRjd29JODVJSGxFYUFtZFJlLU9F?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "PBOC’s Pan Says to Monitor AI Impact on Economy, Monetary Policy - Bloomberg.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkh5N1NOcmFCYWtyVDZQX0ViZ3dTRWxpY0t0SUlnTGRBdjBnVkttaGJkRFJ5dzc4cmFuY2lqYXp2Wm9RODRVMHNXWVc1NUVwQi1OVktrSXIzWnRsTzdGWGx5RTNJMWNfYnUzLU5PTkVsZWYzTm5pRFU4WjJ1NzhacHV0UTRiZ09nU3ZTVVNkZTFYMml4NGZNNEZEM0stZ3ZJa2NkWVZBdXM2XzF5WU9MM0NjNGs?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Sweden Revives E-Krona Debate Amid Digital Euro, Stablecoin Risks - Global Banking & Finance Review",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Global Banking & Finance Review",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlZXOFBQQ1ZhR21zaUxrM1htMEtfOTdmOXNmRWdmZjFOUDhHSjlBV0xoeFdpS0lnQ0g5THoyN1l6VDZyVmJXRzZBa2lyd0xyelhta2FYZU8weTVHTXdxeDFDZzNDOXNMa3oxenRBaUQ1RE5GclQwdGdmR0lUNjA0cGJCXy16elN3S0lVSmxVcHRwNzNHVGhmdHJCNWlkZw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Bringing post-quantum cryptography to geographically fenced key management - Cloudflare Blog",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Cloudflare Blog",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcWpidGZ4RmVvNDJjUmNUMlRsS1l5bHlzZ09BQWQ1YUtPSndmVy1TcEpBNzlBM0YxT2xmMWxiMi03enE3cTBTMnM2bmxteXJPU2xMRERWZ0RFamRKWXVRZ1Zha2hiN1ly?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Lazarus hackers use post-quantum cryptography for malware delivery - BleepingComputer",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "BleepingComputer",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pRNE5NUG1xN2xRSUIwZE9oS0tRYmRQS2dGZC0wQ25MWi1nSlR6TkgtY0pPa2N6OEVDUnhSMHp4MllKakNSNGx3R2tXNnY2eHFWUDY3MDJMNmh4bnBVckxDS05wMkxrZnpwbkdLS1BHZVFIV0EzY3loZlplcjFrQURfTlVyeFJXSTZsSzV5emtEeTRYZXRpUkR3SmZUM0l0OEtmUTZqckd0Qlk1YkVmdHkxRHM?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "The Certification Bottleneck: How the U.S. Government Is Slowing Its Own Post-Quantum Migration - R Street Institute",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "R Street Institute",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFNlRjFvZGFIb2RyT3JqT0NuUV9aNF9oUGdSaHMwR01JYTU1WGsxMWZGOFBOaEVjRF9JZ1ZGeGk2a3dtWlVsbEtzbHhfX0tGcUk5WEhGS0I3SEpLNk14MDhsLVluZFhQZnBRSi1HeGJMakxUbmh0UTY2akkwc2trSDIxTTNYSlZxX0lkOUp4empkbUZVd2hjUTVfcHRvLURwYi1IalRZaXhFYmJab0ZhSEIxV2tUeE5KSjd1MUlXRzRpTndfb3h4dg?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "High-Risk AI and the Limits of Risk-Based Regulation - The Regulatory Review",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "The Regulatory Review",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUk1cGE1WVlWRkxxdzlSZXEtQnplZTE1YTNpbEpxNExzbXNjVmR4SzdYTXZoZExqZ3lUVE5WZWpDRDFfd2NUaFJ2dE4wVGFBSm5lUVZSVmFzbUUxNHhESkIzYmVKNlQzeFktblBfVnp1anVQaUhGWkJZLXlfU21QOWctMl8xODN3bmZkY0htRGNPUmJ4THFjcDhvUldPamFx?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "Haiti bank gradually resumes operations after suspected cyberattack, but remains down online - The Haitian Times",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "The Haitian Times",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXZKT3d5MDNROVNLMk80OFV3R2VKUDhXcGdscmVVa3o1dnRoYm9rYnAwMFdHenU2LUxDcVFHYVpTNDFvdks3dXhaMUZFbmJ2N2dJR1laYmZTdDZXalhEMHFSSXdfTXpZVmRTVlFlTDZ5M29VSk1wTmFjbVJZOW83NDVfcXFPZzNTVGczZlRleUxCZDdfNU1Z?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Japanese companies compensate users as cyberattacks buffet economy - Reuters",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalROR3UtSUJWekNjMEJyV1lUVHZqZ19BaU44dFQ3cEE2NnBHQXBEMmE0NVgyaDZtYlhqZk5ULXZvYUl5eVFaZUQ3T0t1eFdYYUZPQXJhM3Brby1xZGJic1Y4bFJ6YmIwVnNXS1ZoLWlvS0N2S1NUUHFadVJKLTJSZk9lZFF4bDBzdTMteVdKb281dHpOMHZuMTk1T2Q0eXhjcUM1ODJPUnVqR1NnQkJJSy1wdw?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Cyberattack Hits India’s Largest Bank, Exposes Customer Records - Bloomberg.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkxrd0FBbDVtbFF0WFZ1aE96V21qSGlHcmhoeU0xUVhFOVZFUm8zdWdPNGJRVWNuQTlKemZfNzdMaWsxNjFMYUZDVFlaWWVuZUJrVHpuR1JkS1VaMDZNT2FfYWRPZXFJRVJjbDhZNVZZWjFqak1IZE9ka1ZEREVXTHRNcXltTzBtQUZrY0dyb1lSZmcyc3ljMDRPVXdoTnNIRGctdENadXl1RFNUak1PUVU2UQ?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Bank of Japan warns of risks from AI market shock, cyberattacks - Reuters",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1Bzdk83R1VETzJZcEFxRXpBankyZ3JCcGJhZG1hRWlBUkkxWENWekxSTUFCLTQ0RE5XdzVsbllrQmI2emxNalRsaFdjUTUxdHViUnBFSkVTTzFKU0NyLXF4OHRjS25rQVJqTnh3Sm1yTW5VQjBZbk9TWlBGZmRpcGZLUklyZUhfa21rSUs2WUsyckM0T09uaEhDdVZobTEzcHFZWDFRSXp4Zw?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Security firm finds China-linked AI agent behind Japan cyberattacks - Japan Wire by Kyodo News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Japan Wire by Kyodo News",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVzBTNUlONjJ6R2k3Njh4eS0xVDgwYTJZYkdLUGh1QUV6RmNoRXpMVEdfWFQ1Y2RVSk9ZSlFSaTBEYlFQR21hMlpybXU3X0pJT2xOZVo4TTNFUQ?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "HKMA’s ART framework sets rules for agentic AI in banking - FinTech Global",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "FinTech Global",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlFhRU1CT3hwZngzOUREM24tWjRfSU80OWg0YjdRNlhXVW54clJoYWt1YWs3Y012Yk1aTV9GMTRObzBpeEoyQjZHcjNOREpoeloydGZHMmFReHk0b05BMEFVOEhTZXd4amxSNFk2ZVh4VnB0c2pWMU5qbm1OTzdoc1c5cTBYdEE4RExoUEs3UlUzYXp2RFE?oc=5",
+  "kategori": "is-surekliligi"
+ },
+ {
+  "baslik": "Google Cloud outage disrupts UK banks as regulators seek answers - Cloud Computing News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Cloud Computing News",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1p4eDh3dUVEaGJNckJwaERuenhLd1prelgtejhGamJuRk42dzFsaTMzMHNhbGNGa3k0eXlTZGJ2YnhZRTNGRUR6U3QwVGZLX1hTc2ZDRmlJczlQM0dFTDI1Q3ZMVXNlTXBab1U2NnFUcmF5YWwxRmxSdFB5LXluRVdPYXVNTkY3c0xj?oc=5",
+  "kategori": "is-surekliligi"
  }
 ]
