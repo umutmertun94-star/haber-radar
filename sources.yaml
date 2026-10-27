@@ -92,6 +92,29 @@ sources:
       - {q: "site:risk.net risk management technology",                category: siber-guvenlik,     limit: 4}
       - {q: "site:thepeninsulaqatar.com business",                     category: genel-bt,           limit: 3}
 
+  # ============ Siber güvenlik — genel teknoloji gündemi (2026-10-27) ============
+  # PHP2Shell gibi tüm sektörü etkileyen kritik açıklar finans odaklı sorgulara
+  # takılmıyordu. Hacim yüksek, eleme filtrede (kural 6 istisnası + kural 9).
+  - {id: thehackernews,    type: rss, url: "https://feeds.feedburner.com/TheHackersNews",                          category: siber-guvenlik,     limit: 10}
+  - {id: bleepingcomputer, type: rss, url: "https://www.bleepingcomputer.com/feed/",                               category: siber-guvenlik,     limit: 10}
+  - {id: securityweek,     type: rss, url: "https://www.securityweek.com/feed/",                                   category: siber-guvenlik,     limit: 8}
+  - {id: therecord,        type: rss, url: "https://therecord.media/feed",                                         category: siber-guvenlik,     limit: 8}
+  - {id: cisa-advisories,  type: rss, url: "https://www.cisa.gov/cybersecurity-advisories/all.xml",                category: siber-guvenlik,     limit: 8}
+  - id: gnews-siber
+    type: google_news
+    lang: en
+    keywords:
+      - {q: "critical vulnerability actively exploited", category: siber-guvenlik, limit: 8}
+      - {q: "emergency security patch remote code execution", category: siber-guvenlik, limit: 8}
+      - {q: "CISA NSA advisory vulnerability",      category: siber-guvenlik,     limit: 6}
+      - {q: "global outage cloud",                  category: genel-bt,           limit: 6}
+  - id: gnews-siber-tr
+    type: google_news
+    lang: tr
+    keywords:
+      - {q: "kritik güvenlik açığı",               category: siber-guvenlik,     limit: 8}
+      - {q: "USOM uyarı",                           category: siber-guvenlik,     limit: 5}
+
   # ============ Genel keşif (listenizde OLMAYAN siteleri yakalar) ============
   - id: gnews-kesif-tr
     type: google_news
