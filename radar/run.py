@@ -119,14 +119,27 @@ def main() -> int:
         existing.pop(did, None)
     core.save(existing)
 
-    path, body = core.write_bulletin(filtered)
+        # Bülten yalnızca bu koşunun yenilerinden değil, haftanın TÜM geçen
+    # haberlerinden kurulur. Aynı hafta ikinci kez çalışınca (elle tetikleme,
+    # tekrar deneme) önceki koşunun haberleri artık silinmez, üstüne eklenir.
+    hafta = dt.date.today().isocalendar()[:2]
+    def _bu_hafta(i: dict) -> bool:
+        try:
+            return dt.date.fromisoformat(i.get("first_seen") or "").isocalendar()[:2] == hafta
+        except ValueError:
+            return False
+    haftalik = [i for i in existing.values() if _bu_hafta(i)
+                and (i.get("relevance") is None or i["relevance"] >= core.THRESHOLD)]
+    print(f"Bu koşuda {len(filtered)} yeni haber geçti, haftalık toplam {len(haftalik)}")
+
+    path, body = core.write_bulletin(haftalik)
     write_dashboard(existing)
-    b = bulten_sayfasi(filtered)
+    b = bulten_sayfasi(haftalik)
     print(f"Bülten sayfası: {b}")
     if filtered:
-        yr, wk, _ = dt.date.today().isocalendar()
-        core.send_email(f"Haber Radarı — {yr}/{wk}. hafta ({len(filtered)} haber)", body)
-    print(f"\n{len(filtered)} haber bültende → {path}")
+        yr, wk = hafta
+        core.send_email(f"Haber Radarı — {yr}/{wk}. hafta ({len(haftalik)} haber)", body)
+    print(f"\n{len(haftalik)} haber bültende → {path}")
     return 0
 
 
