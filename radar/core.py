@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
+import re
 import smtplib
 from email.mime.text import MIMEText
 from pathlib import Path
@@ -42,12 +43,33 @@ def save(items: dict[str, dict], keep_days: int = 45) -> None:
         ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def _anahtar(it: dict) -> str:
+    """Kaynak ekinden arındırılmış, karşılaştırmaya uygun başlık.
+
+    Google News başlıkları " - Site Adı" ile biter. Aynı haber hem sitenin
+    kendi RSS'inden hem Google News'ten gelince bu ek yüzünden farklı
+    görünüyordu (ör. IDEMIA/KT haberi üç kez girdi).
+    """
+    t = it.get("title") or ""
+    site = it.get("site") or ""
+    if site and t.endswith(" - " + site):
+        t = t[: -len(site) - 3]
+    elif " - " in t and it.get("source", "").startswith("gnews"):
+        t = t.rsplit(" - ", 1)[0]
+    return re.sub(r"[^\w]+", " ", t.lower()).strip()
+
+
 def merge(existing: dict[str, dict], fetched: list[dict]) -> list[dict]:
     today = dt.date.today().isoformat()
+    gorulen = {_anahtar(i) for i in existing.values()}
     new = []
     for it in fetched:
         if it["id"] in existing:
             continue
+        k = _anahtar(it)
+        if k and k in gorulen:
+            continue
+        gorulen.add(k)
         it["first_seen"] = today
         existing[it["id"]] = it
         new.append(it)
@@ -75,17 +97,28 @@ Editörün seçim çizgisi (gerçek seçim geçmişinden çıkarılmıştır):
    varsa girer (model güvenliği, düzenleyici etki, finans sektörü bağlantısı,
    büyük yapısal kırılma). Ürün lansmanı, tüketici özelliği, uygulama güncellemesi,
    şirket magazini DÜŞÜK puan alır.
-6. Siber güvenlik: finansal sisteme/kurumlara dokunan olay ve politikalar yüksek;
-   genel yazılım açıkları (Windows/Linux/tarayıcı) ve tüketici güvenliği düşük.
+6. Siber güvenlik: finansal sisteme/kurumlara dokunan olay ve politikalar yüksek.
+   İSTİSNA: internetin temel altyapısını etkileyen KRİTİK açıklar (PHP, OpenSSL,
+   Apache, nginx, Linux çekirdeği, yaygın VPN/güvenlik duvarı ürünleri gibi)
+   aktif istismar, acil yama, CISA/NSA/ulusal CERT uyarısı ya da kitlesel etki
+   varsa 8+ puan alır. Bunlar her kurumun BT ekibini doğrudan ilgilendirir.
+   Rutin CVE duyuruları, tek ürünlü sıradan yamalar ve tüketici güvenliği düşük.
 7. Kuantum: politika, finans sektörü etkisi ve PQC yüksek; salt donanım/akademik
    ilerleme orta.
 8. Veri merkezi: yatırım/enerji magazini düşük; politika ve düzenleme boyutu varsa orta.
+9. Teknoloji dünyasının gündemini belirleyen büyük olaylar (küresel çaplı kesinti,
+   büyük bulut/CDN arızası, kritik altyapı açığı, sektörü etkileyen büyük ihlal)
+   finansla doğrudan bağlantısı olmasa da 8+ puan alır.
 
 {ORNEKLER}
 Aşağıdaki başlıkları değerlendir:
 - relevance: 0-10 (yukarıdaki çizgiye göre)
-- dup_of: bu başlık listedeki daha önceki bir başlıkla AYNI OLAYI anlatıyorsa o başlığın
-  numarası, değilse null (aynı olayın farklı sitelerdeki kopyaları elensin)
+- dup_of: bu başlık AYNI OLAYI anlatan başka bir başlığın kopyasıysa onun numarası,
+  değilse null. İki durumu da kontrol et:
+  (a) aşağıdaki listede daha önceki bir başlık → o başlığın numarası (ör. 3)
+  (b) "BU HAFTA ZATEN BÜLTENDE" listesindeki bir başlık → "E" + numara (ör. "E12")
+  Aynı olayın farklı sitelerde, farklı dillerde ya da farklı günlerde çıkan
+  haberleri kopyadır. Aynı konudaki FARKLI gelişmeler kopya değildir.
 
 SADECE şu JSON ile yanıt ver:
 {{"results": [{{"i": 0, "relevance": 8, "dup_of": null}}, ...]}}
@@ -104,17 +137,30 @@ def _prompt() -> str:
     return PROMPT_BASE.format(ORNEKLER=ornek)
 
 
-def llm_filter(items: list[dict]) -> list[dict]:
-    """ANTHROPIC_API_KEY tanımlıysa puanla + mükerrer ele; yoksa hepsi geçer."""
+BAGLAM_MAX = 150   # filtreye bağlam olarak verilecek en fazla önceki başlık
+
+
+def llm_filter(items: list[dict], onceki: list[str] | None = None) -> list[dict]:
+    """ANTHROPIC_API_KEY tanımlıysa puanla + mükerrer ele; yoksa hepsi geçer.
+
+    onceki: bu hafta daha önce bültene girmiş başlıklar. Her partiye bağlam
+    olarak verilir, önceki partilerde geçenler de listeye eklenir. Böylece
+    kopyalar parti ve koşu sınırını aşınca da yakalanır.
+    """
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key or not items:
         return items
     model = os.environ.get("ANTHROPIC_MODEL") or DEFAULT_MODEL
+    baglam: list[str] = list(onceki or [])
     kept: list[dict] = []
     for i in range(0, len(items), BATCH):
         batch = items[i:i + BATCH]
         listing = "\n".join(f'{j}. [{it["category"]}] {it["title"]} ({it.get("site") or it["source"]})'
                             for j, it in enumerate(batch))
+        if baglam:
+            son = baglam[-BAGLAM_MAX:]
+            listing += ("\n\nBU HAFTA ZATEN BÜLTENDE (puanlama, sadece kopya kontrolü için):\n"
+                        + "\n".join(f"E{k}. {t}" for k, t in enumerate(son)))
         try:
             r = requests.post(API_URL, timeout=90, headers={
                 "x-api-key": key,
@@ -135,13 +181,19 @@ def llm_filter(items: list[dict]) -> list[dict]:
             print(f"[llm] hata, parti filtrelenmeden geçiyor: {ex} | detay: {detail[:300]}")
             kept += batch
             continue
+        kopya = 0
         for j, it in enumerate(batch):
             s = scores.get(j, {})
             it["relevance"] = s.get("relevance")
-            if s.get("dup_of") is not None:
+            d = s.get("dup_of")
+            if d is not None and d != j:
+                kopya += 1
                 continue
             if s.get("relevance", 10) >= THRESHOLD:
                 kept.append(it)
+                baglam.append(it["title"])
+        if kopya:
+            print(f"[llm] parti {i // BATCH + 1}: {kopya} kopya elendi")
     print(f"[llm] {len(items)} haberden {len(kept)} tanesi bültene girdi")
     return kept
 
