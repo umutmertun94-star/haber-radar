@@ -2,7 +2,7 @@ name: Haftalık haber taraması
 
 on:
   schedule:
-    - cron: "30 5 * * 1"   # her pazartesi 08:30 TSİ (etkinlik taramasından önce)
+    - cron: "0 6 * * 1"   # her pazartesi 09:00 TSİ (GitHub saati UTC; Türkiye UTC+3, yaz saati yok)
   workflow_dispatch:
 
 permissions:
