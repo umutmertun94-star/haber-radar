@@ -3,11 +3,15 @@ from __future__ import annotations
 
 import hashlib
 import re
+import time
 import urllib.parse
 
 import feedparser
 
 UA = "haber-radar/0.1"
+# Google News, bot gibi görünen UA ve art arda gelen sorgularda sessizce boş yanıt verebiliyor
+GN_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 
 def _norm(s: str) -> str:
@@ -30,8 +34,17 @@ def make_item(title: str, url: str, category: str, source: str,
     }
 
 
-def _parse_feed(feed_url: str, category: str, source: str, limit: int) -> list[dict]:
-    feed = feedparser.parse(feed_url, agent=UA)
+def _parse_feed(feed_url: str, category: str, source: str, limit: int,
+                agent: str = UA, retries: int = 0) -> list[dict]:
+    for deneme in range(retries + 1):
+        feed = feedparser.parse(feed_url, agent=agent)
+        status = getattr(feed, "status", None)
+        if feed.entries or status in (200, 304):
+            break
+        # 429/503 vb. → feedparser hata vermeden boş döner; logla ve bekleyip tekrar dene
+        print(f"  [{source}] boş yanıt (HTTP {status}), deneme {deneme + 1}/{retries + 1}")
+        if deneme < retries:
+            time.sleep(10 * (deneme + 1))
     items: list[dict] = []
     for e in feed.entries[:limit]:
         pub = None
@@ -60,7 +73,8 @@ def fetch_google_news(src: dict) -> list[dict]:
         when = kw.get("when", "7d")   # son 7 gün
         url = f"https://news.google.com/rss/search?q={q}+when:{when}&{params}"
         items += _parse_feed(url, kw.get("category", "genel-bt"),
-                             src["id"], kw.get("limit", 15))
+                             src["id"], kw.get("limit", 15), agent=GN_UA, retries=2)
+        time.sleep(1.5)   # 40+ sorguyu tek seferde ateşlemeyelim
     return items
 
 
