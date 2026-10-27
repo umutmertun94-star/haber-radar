@@ -43,34 +43,69 @@ main{padding:0 24px 64px}
 .meta{margin-top:4px;font:400 12.5px "IBM Plex Mono",monospace;color:var(--mute);display:flex;gap:14px;flex-wrap:wrap}
 .rel{color:var(--accent)}
 .empty{margin-top:48px;color:var(--mute);font-style:italic}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:0 24px 12px}
+.row .lbl{font:500 11px "IBM Plex Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin-right:4px}
+.filters.row{padding-top:18px}
+.chip .n{opacity:.6;margin-left:4px}
+.act{margin-left:auto;border:0;background:none;color:var(--accent);font:500 13px "IBM Plex Mono",monospace;cursor:pointer;padding:5px 4px}
+.act:hover{text-decoration:underline}
+.day h2{cursor:pointer;user-select:none;display:flex;justify-content:space-between;gap:12px}
+.day h2:hover{color:var(--ink)}
+.day h2 .ok{display:inline-block;width:1em;transition:transform .15s}
+.day.kapali h2 .ok{transform:rotate(-90deg)}
+.day.kapali .item{display:none}
+@media (max-width:600px){.filters,.row{padding-left:16px;padding-right:16px}main{padding:0 16px 48px}.act{margin-left:0}}
 </style></head>
 <body>
 <header><div class="wrap"><h1>Haber Radarı</h1>
 <div class="stamp">son tarama: __UPDATED__ · haftalık otomatik tarama</div></div></header>
-<div class="wrap"><nav class="filters" id="filters"></nav><main id="list"></main></div>
+<div class="wrap">
+<nav class="filters row" id="filters"></nav>
+<nav class="row" id="tarihler"></nav>
+<main id="list"></main></div>
 <script>
 const ITEMS=__ITEMS_JSON__;
 const LABELS=__LABELS_JSON__;
-let cat="hepsi";
+const ANAHTAR="haber-radar-kapali";
+let cat="hepsi", tarih="hepsi";
+let kapali=new Set();
+try{kapali=new Set(JSON.parse(localStorage.getItem(ANAHTAR)||"[]"))}catch(e){}
+function kaydet(){try{localStorage.setItem(ANAHTAR,JSON.stringify([...kapali]))}catch(e){}}
+const TARIHLER=[...new Set(ITEMS.map(i=>i.first_seen||""))].sort().reverse();
+function chip(txt,on,fn,n){const b=document.createElement("button");b.className="chip"+(on?" on":"");
+  b.innerHTML=txt+(n!=null?`<span class="n">${n}</span>`:"");b.onclick=fn;return b}
 function render(){
-  const f=document.getElementById("filters");f.innerHTML="";
-  ["hepsi",...new Set(ITEMS.map(i=>i.category))].forEach(c=>{
-    const b=document.createElement("button");b.className="chip"+(cat===c?" on":"");
-    b.textContent=c==="hepsi"?"Tümü":(LABELS[c]||c);b.onclick=()=>{cat=c;render()};f.appendChild(b);});
-  let items=cat==="hepsi"?ITEMS:ITEMS.filter(i=>i.category===cat);
+  const f=document.getElementById("filters");f.innerHTML='<span class="lbl">Konu</span>';
+  ["hepsi",...new Set(ITEMS.map(i=>i.category))].forEach(c=>
+    f.appendChild(chip(c==="hepsi"?"Tümü":(LABELS[c]||c),cat===c,()=>{cat=c;render()})));
+  const t=document.getElementById("tarihler");t.innerHTML='<span class="lbl">Tarih</span>';
+  const say=d=>ITEMS.filter(i=>(cat==="hepsi"||i.category===cat)&&i.first_seen===d).length;
+  t.appendChild(chip("Tüm tarihler",tarih==="hepsi",()=>{tarih="hepsi";render()}));
+  TARIHLER.forEach(d=>t.appendChild(chip(d,tarih===d,()=>{tarih=d;render()},say(d))));
+  const herbiri=TARIHLER.slice(1);
+  const hepsiKapali=herbiri.length&&herbiri.every(d=>kapali.has(d));
+  const btn=document.createElement("button");btn.className="act";
+  btn.textContent=hepsiKapali?"Hepsini aç":"Eskileri kapat";
+  btn.onclick=()=>{if(hepsiKapali)kapali.clear();else{kapali=new Set(herbiri)}kaydet();render()};
+  if(herbiri.length&&tarih==="hepsi")t.appendChild(btn);
+
+  let items=ITEMS.filter(i=>(cat==="hepsi"||i.category===cat)&&(tarih==="hepsi"||i.first_seen===tarih));
   items=[...items].sort((a,b)=>(b.first_seen||"").localeCompare(a.first_seen||"")||(b.relevance||0)-(a.relevance||0));
   const list=document.getElementById("list");list.innerHTML="";
-  if(!items.length){list.innerHTML='<p class="empty">Henüz haber yok — ilk tarama sonrası dolacak.</p>';return}
-  let cur="";
+  if(!items.length){list.innerHTML='<p class="empty">Bu seçimde haber yok.</p>';return}
+  let cur=null,sec=null;
   items.forEach(i=>{
-    if(i.first_seen!==cur){cur=i.first_seen;
-      const h=document.createElement("section");h.className="day";h.id="d"+cur;
-      h.innerHTML=`<h2>${cur} taraması</h2>`;list.appendChild(h);}
-    const d=document.createElement("article");d.className="item";
+    if(i.first_seen!==cur){cur=i.first_seen;const d=cur;
+      sec=document.createElement("section");sec.className="day"+(kapali.has(d)&&tarih==="hepsi"?" kapali":"");
+      const h=document.createElement("h2");
+      h.innerHTML=`<span><span class="ok">▾</span> ${d} taraması</span><span>${items.filter(x=>x.first_seen===d).length} haber</span>`;
+      h.onclick=()=>{kapali.has(d)?kapali.delete(d):kapali.add(d);kaydet();render()};
+      sec.appendChild(h);list.appendChild(sec);}
+    const a=document.createElement("article");a.className="item";
     const rel=i.relevance!=null?`<span class="rel">önem ${i.relevance}/10</span>`:"";
-    d.innerHTML=`<h3><a href="${i.url}" target="_blank" rel="noopener">${i.title}</a></h3>
+    a.innerHTML=`<h3><a href="${i.url}" target="_blank" rel="noopener">${i.title}</a></h3>
       <div class="meta"><span>${LABELS[i.category]||i.category}</span><span>${i.site||i.source}</span>${rel}</div>`;
-    document.getElementById("d"+cur).appendChild(d);});
+    sec.appendChild(a);});
 }
 render();
 </script></body></html>
@@ -110,7 +145,13 @@ def main() -> int:
         all_new += new
         print(f"[{src['id']}] {len(fetched)} haber tarandı, {len(new)} yeni")
 
-    filtered = core.llm_filter(all_new)
+    # kopya kontrolü için son 7 günde bültene girmiş başlıklar
+    yeni_id = {i["id"] for i in all_new}
+    sinir = (dt.date.today() - dt.timedelta(days=7)).isoformat()
+    onceki = [i["title"] for i in sorted(existing.values(), key=lambda x: x.get("first_seen") or "")
+              if i["id"] not in yeni_id and (i.get("first_seen") or "") >= sinir
+              and (i.get("relevance") is None or i["relevance"] >= core.THRESHOLD)]
+    filtered = core.llm_filter(all_new, onceki)
     from .ozet import ozetle, bulten_sayfasi
     filtered = ozetle(filtered)
     # eşiği geçemeyenler depodan da düşsün ki dashboard temiz kalsın
