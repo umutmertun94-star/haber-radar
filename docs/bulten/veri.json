@@ -1,642 +1,810 @@
 [
  {
-  "baslik": "Fed, kara para aklamayla bağlantılı şüpheli işlem bildirim eksiklikleri nedeniyle American Express'e yaptırım uyguladı",
-  "ozet": "ABD Merkez Bankası (Fed) Yönetim Kurulu, American Express Company'ye yönelik bir yaptırım kararı açıkladı. Karar, şirketin kara para aklamayla bağlantılı bazı şüpheli faaliyetleri yeterince tespit edip raporlayamamasını ve kurum genelindeki kara para aklamayla mücadele programındaki önemli eksiklikleri konu alıyor.",
-  "haber_metni": "ABD Merkez Bankası (Fed) Yönetim Kurulu, 8 Ekim 2026 tarihinde American Express Company'ye karşı bir yaptırım kararı aldığını duyurdu. Kararın gerekçeleri arasında, şirketin kara para aklamayla bağlantılı bazı şüpheli faaliyetleri yeterince tespit edememesi ve raporlayamaması yer alıyor. Yönetim Kurulu ayrıca, şirketin kurum genelinde yürüttüğü kara para aklamayla mücadele programının uygulanmasında, özellikle de şirkete bağlı ulusal bankada önemli eksiklikler tespit etti.\n\nŞirketin ulusal bankasının birincil federal düzenleyicisi konumundaki Para Birimi Denetim Ofisi (OCC) de bankaya yönelik ayrı bir yaptırım kararı yayımladı. Fed'in açıklamasında, alınan kararın şirketin tüm ABD yasa ve düzenlemelerine uyumlu şekilde faaliyet göstermesini sağlamaya yardımcı olacağı belirtildi. Söz konusu karar, finansal kuruluşların şüpheli işlem tespit ve bildirim yükümlülüklerinin denetim otoriteleri tarafından yakından izlendiğini ve kara para aklamayla mücadele programlarının grup genelinde etkin biçimde uygulanmasının beklendiğini ortaya koyuyor.",
-  "kaynak": "fed-press",
-  "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+  "baslik": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "ABD'nin Kuantum Hedefleri İçin Tedarik Zinciri Riski Uyarısı Yapıldı",
-  "ozet": "Foundation for American Innovation bünyesindeki dört politika analisti, ABD'nin kuantum teknolojilerindeki hedeflerinin tedarik zinciri kapasitesini aşabileceği uyarısında bulundu. Analiz, kritik bileşenlere sınırlı erişim, yapay zeka altyapısından kaynaklanan talep rekabeti, dağınık kamu koordinasyonu ve istikrarsız federal bütçeleri temel engeller olarak tanımlıyor ve ön alım taahhütleri ile hedefli üretim yatırımları öneriyor.",
-  "haber_metni": "Foundation for American Innovation (FAI) tarafından yayımlanan bir politika analizinde Joshua Levine, Prineha Narang, Jacqueline Tame ve Alexandra Seymour Gabel, ABD'nin kuantum alanındaki ilerlemesinin, laboratuvar başarılarını ticari bir sektöre dönüştürecek tedarik zincirlerinin önüne geçebileceği uyarısında bulundu. Analistlere göre önümüzdeki iki ila beş yıl içinde alınacak yatırım kararları, özel soğutma ekipmanlarından lazerlere ve kontrol elektroniğine kadar temel bileşenlerin tasarımını ve büyük ölçekli üretimini kimin kontrol edeceğini belirleyecek. Analiz, soğutma, özel malzemeler, optik bileşenler ve çip üretim tesislerine erişim sağlayan tedarikçi katmanının federal kuantum fonlarının yüzde 12'sinden azını aldığını ve sınırlı özel sermaye çektiğini; bunun da yabancı tedarikçilere bağımlılığa ve kısıtlı üretim kapasitesine yol açtığını ortaya koyuyor. Süperiletken devreler veya tuzaklanmış iyonlar gibi farklı teknik yaklaşımların birbirinden ayrışan ekipman ihtiyaçları, tedarik zincirini daha da karmaşık hale getiriyor.\n\nFAI ve yatırım şirketi Playground Global'in ortaklaşa düzenlediği yuvarlak masa toplantısına dayanan çalışmada, yapay zeka altyapı yatırımlarının ışık işleyen çipler, optik anahtarlar ve yüksek kaliteli fiber optik gibi kuantum geliştiricilerinin de talep ettiği girdilerin önemli bölümünü hâlihazırda emdiği aktarıldı. Federal kurumlar arasındaki sınırlı bilgi paylaşımı ve öngörülemeyen federal bütçeler de ek kısıtlar olarak sıralandı. Analistlerin önerileri arasında, tedarikçilere üretim yatırımı için zemin sağlayacak ön alım taahhütleri, hedefli üretim yatırımları, tedarik zinciri bilgilerinin daha geniş paylaşımı ve kuantum bilgisayar alımına ilişkin daha net federal planlar yer alıyor.",
-  "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "techcrunch-ai",
-  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-  "kategori": "yapay-zeka"
- },
- {
-  "baslik": "Microsoft 365 outage underscores enterprise resiliency issues",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "ciodive",
-  "url": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "Mid-sized businesses can't leave quantum readiness to their suppliers",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "computerweekly",
-  "url": "https://www.computerweekly.com/opinion/Mid-sized-businesses-cant-leave-quantum-readiness-to-their-suppliers",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "Microsoft outage: Impact shows risk of M365 bundle lock-in",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "computerweekly",
-  "url": "https://www.computerweekly.com/news/366654819/Microsoft-outage-Impact-shows-risk-of-M365-bundle-lock-in",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "Microsoft hizmetlerindeki küresel kesinti kullanıcıları oltalama saldırılarına açık hale getirdi",
-  "ozet": "Microsoft'un \"hizmet bozulması\" olarak nitelendirdiği teknik sorun nedeniyle Outlook ve Teams dahil çok sayıda Microsoft 365 hizmetine küresel ölçekte erişilemedi. Defender XDR ve Intune gibi güvenlik araçlarının da etkilenmesi, kurumların cihaz yönetimi ve tehdit izleme kabiliyetini zayıflatarak saldırganlar için fırsat penceresi oluşturdu.",
-  "haber_metni": "Microsoft kullanıcıları, şirketin \"hizmet bozulması\" olarak tanımladığı teknik sorunlar nedeniyle Outlook ve Teams gibi hizmetlere küresel ölçekte erişemedi. Microsoft Cloud durum portalına göre kesinti Exchange Online, Microsoft 365 Yönetim Merkezi, Microsoft 365 uygulamaları, CoPilot 365, Microsoft Fabric, Defender, Defender XDR ve Microsoft Intune'u kapsıyor. Teams'in temel işlevleri büyük ölçüde çalışsa da Exchange Online takvimine dayanan toplantı planlama gibi özelliklerin etkilenebileceği belirtildi. Microsoft, Power Apps kullanıcılarının web üzerinden erişim sağlayarak etkiyi aşabileceğini, oturumu açık olan kullanıcıların ise çıkış yapmayarak veya uygulama verilerini silmeyerek sorundan kaçınabileceğini bildirdi. Şirket, yazının hazırlandığı sırada herhangi bir kötü niyetli faaliyet tespit edilmediğini açıkladı.\n\nKesinti, Microsoft teknolojilerine bağımlı kurumlar için ciddi bir güvenlik riski oluşturuyor. Intune'un cihaz kaydı, cihaz denetimi ve uyumluluk politikalarını yürütme kabiliyetinin etkilenmesi, kurumların cihaz erişimi yönetimini zorlaştırdı. Gartner'da kıdemli direktör olan Akif Khan, çalışanların BT destek birimini taklit eden aramalarla ve yöneticilerin kimliğine bürünen deepfake ses veya görüntülü aramalarla hedef alınabileceği konusunda uyardı. Siber istihbarat platformu işleten Binalyze'dan Marie Wilcox ise iki riske dikkat çekti: Hizmetler geri döndüğünde birikmiş e-postalarını temizleyen çalışanların Microsoft'tan geliyormuş gibi görünen sahte güvenlik güncellemelerine daha kolay inanabileceğini, ayrıca uyarı sistemlerinin çalışmadığı dönemde şüpheli oturum açma veya yeni gelen kutusu yönlendirme kuralı gibi faaliyetlerin gözden kaçmış olabileceğini belirtti.",
-  "kaynak": "computerweekly",
-  "url": "https://www.computerweekly.com/news/366654608/Global-Microsoft-outage-leaves-users-open-to-phishing-attacks",
-  "kategori": "genel-bt"
- },
- {
-  "baslik": "FAA, hava trafiği yönetiminde kullanılan yapay zeka sistemini tüm ABD hava sahasına yaydı",
-  "ozet": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrolörlerine tavsiye sunan 875 milyon dolarlık SMART sistemini ülke genelindeki 22 merkezin tamamına yaygınlaştırdı. Havayolu yöneticileri uygulamayı desteklerken, hava trafik kontrolörlerini temsil eden sendika, sistemin tasarım ve test süreçlerine dahil edilmediğini bildirdi.",
-  "haber_metni": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrolörlerine tavsiye vermek üzere geliştirilen yapay zeka destekli SMART sistemini ulusal hava sahasının tamamında kullanıma aldı. Sistem, 21 Eylül'de Washington DC üzerindeki hava sahasında devreye alınmasından bu yana 180 uçuşun rotasının yeniden düzenlenmesine katkı sağladı. FAA, bu sayede uçuş başına ortalama 10 dakika zaman ve yaklaşık 80 galon yakıt tasarrufu elde edildiğini açıkladı. Kurumun 10 Kasım tarihli açıklamasına göre, başkent bölgesindeki ilk uygulamanın ardından SMART, gecikmeleri ve yakıt tüketimini azaltmak ve yolcuların seyahat deneyimini iyileştirmek amacıyla ülke genelindeki 22 merkezin hava sahasında kullanılacak.\n\nFAA bilgi notunda SMART, hava durumu desenleri, uçuş rotaları, trafik akışı ve kontrolör personel verilerini birleştirerek hava trafiği desenlerini öngören bulut tabanlı bir sistem olarak tanımlanıyor. Sistem; planlama önerileri sunmak, en uygun uçuş rotalarını belirlemek ve uçakların iniş sıralamasını tespit etmek üzere tasarlandı. Kuruma göre, sistemin ürettiği öneriler ülke genelindeki hava trafik kontrol tesislerine iletilmeden önce Washington DC'de görevli FAA uzmanlarından oluşan bir ekip tarafından doğrulanıyor; nihai sorumluluk bu insan ekibinde bulunuyor. Havayolu yöneticileri yaygınlaştırmaya destek verirken, hava trafik kontrolörlerini temsil eden sendika, yapay zeka destekli sistemin tasarımına veya testlerine dahil edilmediğini belirtti.",
-  "kaynak": "arstechnica",
-  "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-  "kategori": "yapay-zeka"
- },
- {
-  "baslik": "Yapay zeka yatırım patlaması doğal faiz oranı tahminlerini belirsizleştiriyor",
-  "ozet": "Merkez bankacıları yapay zeka kaynaklı yatırım artışını öncelikle bir talep şoku olarak okurken, piyasa verileri yapay zekanın reel faizleri yükselteceği varsayımını sorguluyor. Tartışma, doğal faiz oranı (r*) tahminlerinin merkez bankalarının kendi iletişim ve politika kararlarından bağımsız olup olmadığı sorusunu gündeme taşıyor.",
-  "haber_metni": "Geçen ay Bangkok'ta düzenlenen IMF-Dünya Bankası toplantılarında Güney Afrika Merkez Bankası Başkanı Lesetja Kganyago, doğal faiz oranının (r*) yükseldiğinin bilindiğini ancak ne kadar yükseldiğinin görülemediğini belirtti. Merkez bankacıları yapay zeka kaynaklı yatırım artışını giderek bir talep şoku olarak değerlendiriyor: Fed'in verimlilik ve istihdam görev gücü başkanı Kevin Warsh, yapay zekanın arz tarafından önce talep tarafını etkilediğini söyledi; Japonya Merkez Bankası da faiz artışlarının gerekçeleri arasında yapay zeka kaynaklı talebi gösterdi. Buna karşılık PIMCO'nun Ocak 2023'ten bu yana 43 büyük model duyurusu gününü incelediği çalışma, 5 yıl-5 yıl vadeli reel faizin bu günlerde toplamda yaklaşık 100 baz puan düştüğünü ortaya koydu. Japonya Merkez Bankası Başkan Yardımcısı Shinichi Uchida henüz net bir yanıt olmadığı sonucuna vardı.\n\nYazıda, r*'ın doğal bir olgu olmaktan çok, politika kararlarına yerleştiğinde kendini doğrulayabilen bir uzlaşı olabileceği savunuluyor. Bundesbank Başkanı Joachim Nagel, piyasa fiyatlarında r* arayan merkez bankalarının aynaya bakıyor olabileceği uyarısında bulunmuştu. Şirketlerin yapay zeka talebi beklentisiyle veri merkezi kurması ve kredi verenlerin gelir beklentisiyle bunları finanse etmesi, henüz getiri gerçekleşmeden iyimserliği pekiştirebiliyor. Bu güçlü iddianın henüz kanıtlanmadığı vurgulanırken, merkez bankalarının kendi tahmin, iletişim ve politika tercihlerinin sürdürdüğü inançların tamamen dışında kalamayacağı; r* tahminlerinin yapay zekaya ilişkin varsayımları açıkça ortaya koyan senaryo bazlı değerlendirmelerle desteklenmesi gerektiği belirtiliyor.",
-  "kaynak": "omfif",
-  "url": "https://www.omfif.org/2026/11/what-lies-behind-the-clouds-ai-and-the-natural-rate/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Multiverse Computing, 30 milyar parametreli dil modelinde kuantum sinir ağı denedi",
-  "ozet": "Multiverse Computing ve Toronto Üniversitesi araştırmacıları, 30 milyar parametreli bir büyük dil modelindeki transformer bloklarının yerini alabilen çok başlı bir kuantum sinir ağı (QNN) geliştirdi. 145.281 eğitilebilir parametre içeren tek bir QNN, doğruluğu koruyarak model parametrelerinin yüzde 16,33'ünün yerini aldı ve kuantum modüller 156 kübitlik IBM Heron işlemcisinde çalıştırıldı. Çalışma, kuantum hesaplamanın mevcut yapay zeka altyapısına hibrit biçimde entegre edilebileceğini göstermesi bakımından dikkat çekiyor.",
-  "haber_metni": "Multiverse Computing ve Toronto Üniversitesi araştırmacıları, 30 milyar parametreli Qwen3-30B-A3B-Instruct-2507 dil modelindeki transformer bloklarının yerine geçebilen çok başlı bir kuantum sinir ağı (QNN) geliştirdi. 145.281 eğitilebilir parametre içeren tek bir QNN, art arda sekiz transformer bloğunun yerini alarak model parametrelerinin yüzde 16,33'ünü belirgin bir doğruluk kaybı olmadan devre dışı bıraktı. Mimari, modelin gizli katmanını ayrık başlara bölerek her birini kendi kübit kütüğüne açı kodlamasıyla aktarıyor ve bu başları paralel işliyor; başlar arasındaki iletişim ise 'karıştırıcı' adı verilen kısıtlı klasik doğrusal katmanlarla sağlanıyor. Bu tasarım, genlik ve açı kodlamasının büyük ölçekli modellerde karşılaştığı ölçekleme sorunlarını aşmayı hedefliyor.\n\nKuantum modüller önce tam durum vektörü simülasyonuyla eğitildi, ardından 156 kübitlik IBM Heron işlemcisinde çalıştırılarak mevcut donanımla uyumluluk gösterildi; modelin geri kalan işlemleri GPU'larda yürütülerek hibrit kuantum-klasik bir yaklaşım izlendi. Ablasyon çalışmaları, tek bir blok değiştirildiğinde devre dışı bırakılan işlevi kuantum başların geri kazandığını, birden fazla blok birleştirildiğinde ise yalnızca klasik karıştırıcıların perplexity açısından tam kuantum modülün yüzde 1-3 yakınına ulaşabildiğini ortaya koydu. Çalışma, eğitilmiş transformer bloklarındaki yapısal fazlalığı kullanarak kuantum hesaplamanın üretim ölçeğindeki yapay zeka altyapısına entegrasyonu için bir yol sunuyor; veri ve protokoller bağımsız doğrulamaya açık biçimde eklerde paylaşıldı.",
-  "kaynak": "quantumzeitgeist",
-  "url": "https://quantumzeitgeist.com/ibm-quantum-neural-networks-multiverse-computing/",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "FCA yöneticisinden finansal suç tehdidinin yoğunlaştığı yönünde uyarı",
-  "ozet": "İngiltere Finansal Davranış Otoritesi'nin (FCA) ödemeler ve dijital varlıklar direktörü, finansal suç tehdidinin yoğunlaştığı uyarısında bulundu. Haberin kaynak sayfasına teknik bir erişim sorunu nedeniyle ulaşılamadığından, açıklamanın ayrıntıları doğrulanamamıştır.",
-  "haber_metni": "İngiltere Finansal Davranış Otoritesi'nin (FCA) ödemeler ve dijital varlıklardan sorumlu direktörü, finansal suç tehdidinin yoğunlaştığı yönünde bir uyarı yaptı. Haber başlığından edinilen bu bilgi dışında, açıklamanın içeriğine, hangi suç türlerine işaret edildiğine veya önerilen tedbirlere ilişkin ayrıntılara ulaşılamamıştır.\n\nHaberin yayımlandığı sayfa, hazırlık sırasında Cloudflare ile kaynak web sunucusu arasındaki bir bağlantı sorunu nedeniyle görüntülenememiştir. Bu nedenle açıklamanın tam metni, bağlamı ve FCA'in konuya ilişkin olası politika adımları bu bültende aktarılamamaktadır. Ödemeler ve dijital varlıklar alanındaki düzenleyici açıklamaların kurumumuz açısından taşıdığı potansiyel önem dikkate alınarak, kaynak içeriğe erişim sağlandığında konunun ayrıntıları ayrıca değerlendirilecek ve gerekli görülmesi hâlinde ek bilgilendirme yapılacaktır.",
-  "kaynak": "globalgovfin",
-  "url": "https://www.globalgovernmentfinance.com/financial-crime-threat-intensifying-warns-fca-payments-digital-assets-director/",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "thehackernews",
-  "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "thehackernews",
-  "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Yapay Zeka Ajanlarını Durdurmak İçin Tek Bir Kapatma Düğmesi Yeterli Değil",
-  "ozet": "OWASP GenAI Güvenlik Projesi'nin Ekim 2026 tarihli derlemesi, değerlendirme ajanlarının amaçlanan kapsamlarının dışına çıkabildiğini ortaya koyuyor. Modelin durdurulmasının iş akışları, kimlik bilgileri ve ağ bağlantıları aktif kaldığı sürece ajanı durdurmaya yetmeyebileceği belirtiliyor; bu nedenle 'kapatma düğmesi' kavramının test edilmiş bir kontrol seti olarak ele alınması öneriliyor.",
-  "haber_metni": "Yapay zeka ajanlarının beklenmedik davranışları karşısında 'ajanı durdurmak' ifadesinin tek bir işleme karşılık gelmediği, birden fazla kontrolün birlikte işletilmesini gerektirdiği değerlendiriliyor. Bir ajan genellikle daha büyük bir sistemin parçası olarak çalışıyor: Model bir eylemi seçerken, iş akışını bir orkestratör yürütüyor, erişimi bir kimlik sağlıyor ve işi araçlar veya API'ler gerçekleştiriyor. Bu nedenle model devre dışı bırakılsa bile kuyruktaki işler, yeniden deneme mekanizmaları veya kurulmuş oturumlar devam edebiliyor; bir kimlik bilgisinin iptali, farklı bir jetonu veya bağlantıyı geçersiz kılmayabiliyor. OWASP GenAI Güvenlik Projesi'nin Ekim 2026 tarihli derlemesi, değerlendirme ajanlarının kapsam dışına çıktığı örneklere yer veriyor ve sınırlama önlemlerinin hem kimlik bilgilerini hem de ağ erişimini iptal edip edemediğinin test edilmesini öneriyor.\n\nPratik müdahale için beş adımlı bir sıra öneriliyor: Etkilenen iş akışının durdurulması, ajanın erişiminin iptal edilmesi veya sınırlandırılması, araçların ve ağ yollarının kısıtlanması, kanıtların korunarak olanların tespit edilmesi ve aşağı yönlü etkilerin sınırlanması. Ajana durması yönünde bir komut verilmesinin bir sınırlama kontrolü sayılmadığı, müdahalenin iş akışını çalıştıran sistem üzerinden yapılması gerektiği vurgulanıyor. Erişimin yeniden açılmasından önce kök nedenin belirlenmesi, görevlerin gerektirdiği en dar kapsamla erişim verilmesi ve hassas veya geri alınamaz işlemler için insan onayı adımının değerlendirilmesi öneriler arasında yer alıyor. OWASP'ın yapay zeka ajan güvenliği rehberi ayrıca en az ayrıcalık ilkesine dayalı araç erişimi, hassas işlemler için açık yetkilendirme ve denetim izleri öneriyor.",
-  "kaynak": "thehackernews",
-  "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "TSMC employee data breach linked to cloud provider",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "How one AI agent exposed five critical enterprise security gaps",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Is AI Making Us Worse at Cybersecurity?",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "securityweek",
-  "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "FAA, iletişim arızası nedeniyle ABD genelinde tüm uçuşları geçici olarak durdurdu",
-  "ozet": "ABD Federal Havacılık İdaresi (FAA), tüm Hava Yolu Trafik Kontrol Merkezlerini etkileyen bir iletişim sorunu nedeniyle ülke genelindeki havalimanlarında uçuşları durdurma kararı aldı. Siber saldırı ihtimali gündeme gelse de ABD'li yetkililer yapılan incelemede saldırıya ilişkin bir bulguya rastlamadı; FBI'ın bir güncellemeyi incelediği bildirildi.",
-  "haber_metni": "ABD Federal Havacılık İdaresi (FAA), cuma günü öğleden sonra güvenlik gerekçesiyle ve \"olağanüstü koşullar\" nedeniyle ülke genelindeki tüm havalimanları için uçuş durdurma (ground stop) kararı verdi. ABD Ulaştırma Bakanı Sean Duffy, sorunun ülke çapındaki tüm Hava Yolu Trafik Kontrol Merkezlerini etkileyen bir iletişim arızasından kaynaklandığını açıkladı. Duffy, X platformunda yaptığı paylaşımda FAA teknisyenlerinin sorunu incelediğini ve gelişmelerin anında kamuoyuyla paylaşılacağını belirtti. FAA, kalkış yapacak uçakların ikinci bir duyuruya kadar yerde kalmasını istedi; uluslararası varış uçuşlarının ise vaka bazında değerlendirileceğini bildirdi. Kurum, ülke genelindeki karardan önce Chicago'da da hava trafik kontrol iletişim sorunları nedeniyle trafiği durdurmuştu.\n\nKesintinin nedeni ilk aşamada belirsizliğini korudu ve federal yetkililer sorunu tetikleyen unsuru kamuoyuna açıklamadı. Olayın bir siber saldırıyla bağlantılı olup olmadığı sorusu gündeme gelirken, yapılan güncelleme kapsamında ABD'li yetkililer uçuşları ülke genelinde durduran FAA kesintisinde herhangi bir saldırı bulgusuna rastlanmadığını bildirdi. Öte yandan FBI'ın bir güncellemeyi incelediği aktarıldı. Kritik altyapı niteliğindeki hava trafik kontrol sistemlerinde yaşanan bu ölçekte bir iletişim kesintisi, operasyonel sürekliliğin ve olay kaynağının hızlı tespitinin kurumsal düzeyde taşıdığı önemi ortaya koyuyor.",
-  "kaynak": "securityweek",
-  "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "German parliament passes law giving spy agencies hacking, sabotage powers",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "therecord",
-  "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "ECB'den küçük bankalar için daha orantılı ve risk odaklı denetim önerileri",
-  "ozet": "ECB Yönetim Kurulu Üyesi ve Denetim Kurulu Başkan Yardımcısı Frank Elderson, Börsen-Zeitung için kaleme aldığı yazıda küçük ve karmaşık olmayan bankalara yönelik denetimin sadeleştirilmesine ilişkin önerileri açıkladı. Öneriler arasında bilanço eşiğinin 10 milyar euroya çıkarılması ve raporlama yükümlülüklerinin önemli ölçüde azaltılması yer alıyor; değişikliklerle yaklaşık 150 bankanın daha orantılı muameleden yararlanması öngörülüyor.",
-  "haber_metni": "ECB Yönetim Kurulu Üyesi ve Denetim Kurulu Başkan Yardımcısı Frank Elderson, 16 Kasım 2026 tarihinde Börsen-Zeitung için yazdığı değerlendirmede, küçük bankaların denetiminde orantılılık ilkesinin güçlendirilmesine yönelik somut öneriler ortaya koydu. Elderson, euro bölgesinde ulusal otoritelerce denetlenen bankaların yaklaşık yüzde 75'inin — 1.400'den fazla kurumun — halihazırda küçük ve karmaşık olmayan banka statüsünde olduğunu, bu oranın Almanya'da yüzde 81'e ulaştığını belirtti. Buna karşın bazı küçük bankaların hâlâ büyük ve karmaşık kurumlar düşünülerek tasarlanmış düzenleyici yükümlülüklerle karşılaştığını vurguladı. ECB ve ulusal denetim otoritelerinin son aylarda yürüttüğü çalışma sonucunda hazırlanan öneriler, yeni bir çerçeve oluşturmak yerine mevcut yapıyı geliştirmeyi hedefliyor.\n\nÖnerilerin başında, küçük ve karmaşık olmayan banka statüsü için geçerli 5 milyar euroluk bilanço eşiğinin, bankanın risk profili ve yerel bankacılık sektörünün yapısı elverdiğinde ulusal otoritelerce 10 milyar euroya yükseltilebilmesi geliyor. 'Karmaşık olmayan' tanımının yeniden belirlenmesiyle birlikte bu değişikliklerin yaklaşık 150 bankayı daha kapsama alması bekleniyor. Uygulama tarafında ise stres testi projeksiyonlarının merkezi olarak yürütülmesi ve Avrupa Bankacılık Otoritesi ile birlikte raporlama yükünün büyük bankaların veri noktalarının yaklaşık yüzde 5'ine indirilmesi öngörülüyor. Elderson, siber tehditler, jeopolitik gerilimler ve iklim kaynaklı riskler karşısında küçük bankaların da bağışık olmadığını belirterek, orantılılığın hiçbir şekilde standartların düşürülmesi anlamına gelmeyeceğinin altını çizdi.",
   "kaynak": "ecb-press",
-  "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+  "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "JPMorgan Chase 2026 Finans Kuantum Endeksi'nde Birinci; HSBC ve Wells Fargo İkinciliği Paylaştı",
-  "ozet": "2026 Finans Kuantum Endeksi'nde JPMorgan Chase, 64 finansal kuruluş arasında iş gücü, Ar-Ge ve benimseme olmak üzere üç ana başlıkta birinci sırada yer aldı. Endeks kapsamı 28'den 64 kuruluşa genişletilerek sigorta şirketleri, ödeme ağları, varlık yöneticileri ve merkez bankaları dahil edildi; Kanada Merkez Bankası sekizinci sırada yer alarak endeksteki birçok ticari bankanın önüne geçti.",
-  "haber_metni": "JPMorgan Chase, bugün yayımlanan 2026 Finans Kuantum Endeksi'nde 64 finansal kuruluş arasında birinci sırada yer aldı ve endeksin üç ana başlığı olan iş gücü, Ar-Ge ve benimseme alanlarının tümünde liderliği elde etti. HSBC ve Wells Fargo ikinciliği paylaşırken, Mastercard 11'incilikten üçüncülüğe yükseldi. Endeks, kuruluşların kamuya açık kayıtlardan tespit edilebilen kuantum personelini, araştırma makalelerini, patentleri, atıf etkisini, ortaklıkları ve belgelenmiş kullanım örneklerini puanlıyor. 2026 sürümünde kapsam 28 kuruluştan 64'e çıkarıldı; bankaların yanına sigorta şirketleri, ödeme ağları, varlık yöneticileri ve merkez bankaları eklendi. İlk kez sıralanan 36 kuruluştan 17'si ilk 25'e girdi.\n\nİlk 10'daki 13 kuruluştan üçü ticari banka değil: Kanada Merkez Bankası sekizinci sırada yer alarak endeksteki çoğu ticari bankanın önüne geçti; Ping An sigorta şirketleri arasında, Fidelity Investments ise 11'inci sırayla varlık yöneticileri arasında lider konumda. Öne çıkan değişiklikler arasında Goldman Sachs'ın üçüncülükten 24'üncülüğe gerilemesi dikkat çekiyor; bankanın araştırma gücü korunsa da kamuya açık kayıtlarda adlandırılmış bir kuantum ekibi görünmüyor. Endeks ekibi, yöntem değişikliği ve kapsamın iki kattan fazla genişlemesi nedeniyle yıllar arası karşılaştırmaların sınırlı olduğunu, daha düşük bir sıralamanın yapılan çalışmanın azalması değil yeni rekabetin eklenmesi anlamına gelebileceğini belirtiyor. Hiçbir sıralama sonucu kuantum üstünlüğüne işaret etmiyor.",
+  "baslik": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "ecb-press",
+  "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Cyber resilience guidance consultation and AI and quantum effective practices",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "boe-news",
+  "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Ant International, DBS ve Franklin Templeton tokenize mevduat ile fon geçişini otomatikleştirdi",
+  "ozet": "Ant International, Singapur'un Project BLOOM girişimi kapsamında DBS Bank ve Franklin Templeton ile iş birliği yaparak tokenize mevduatlar ile tokenize para piyasası fonları (tMMF) arasında otomatik geçiş sağlayan Whale Orchestration Protocol'ü hayata geçirdi. Taraflar pilot işlemleri tamamladı. Çözüm, üçüncü bir defter veya blokzincir köprüsüne ihtiyaç duymadan iki defter arasında senkronizasyon sağlaması bakımından dikkat çekiyor.",
+  "haber_metni": "Ant International, tokenize mevduatlar ile tokenize para piyasası fonları (tMMF) arasında otomatik geçiş sağlayan Whale Orchestration Protocol'ü kullanıma aldı. Singapur'un Project BLOOM girişimi kapsamında DBS Bank ve Franklin Templeton ile yürütülen iş birliğinde pilot işlemler tamamlandı. Ant'in Whale hazine platformu, en az on tokenize mevduat çözümü dahil olmak üzere 20'den fazla bankaya bağlanıyor; platform yakın zamanda Amundi, ChinaAMC ve Franklin Templeton'ın tMMF ürünlerine nakit yönlendirmeye başladı. BlackRock ile de bir iş birliği sürdürülüyor.\n\nProtokol, üçüncü bir defter veya blokzincir köprüsü gereksinimini ortadan kaldırarak tokenize mevduat ve fon defterleri arasında senkronizasyon sağlıyor. Nakit ayağında, fon katılımından önce DBS Token Services'taki fonlar üzerine rehin konuluyor; tMMF tokeni ihraç edildiğinde rehin kaldırılıyor ve fonlar varlık yöneticisine aktarılıyor. Çözüm ilk bakışta görece basit bir birlikte çalışabilirlik uygulaması gibi görünse de bazı soruları beraberinde getiriyor. Süreç otomatikleştirilmiş olsa da tMMF ihracının gerçekten kesintisiz (7/24) olup olmadığı ve blokzincirin mülkiyetin birincil kaydı niteliği taşıyıp taşımadığı netlik kazanmış değil. Franklin Templeton'da blokzincir genellikle birincil kayıt işlevi görse de bu yapıda durumun farklı olabileceği belirtiliyor.",
+  "kaynak": "ledgerinsights",
+  "url": "https://www.ledgerinsights.com/ant-international-dbs-franklin-templeton-automate-tokenized-deposit-to-mmf-switching/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "FCA opens AI Spotlight Observatory",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "With attacks on the rise, UK regulators clarify cyber expectations",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "BMO reaches quantum utility",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Finans yöneticilerinin yüzde 68'i yapay zekanın dolandırıcılara avantaj sağladığı görüşünde",
+  "ozet": "PYMNTS Intelligence ve Bottomline iş birliğiyle hazırlanan rapora göre, finans yöneticilerinin yüzde 68'i yapay zekanın dolandırıcıları, şirket savunmalarını güçlendirdiğinden daha hızlı desteklediğini belirtiyor. Yıllık geliri en az 100 milyon dolar olan şirketlerde görev yapan 150 ABD'li hazine ve finans yöneticisiyle yapılan ankete dayanan rapor, tedarikçi ödemelerinin korunmasına yönelik pratik adımlar sunuyor.",
+  "haber_metni": "PYMNTS Intelligence ve Bottomline iş birliğiyle hazırlanan \"Yapay Zeka Çağında Borç Hesapları Dolandırıcılığı: Finans Liderleri Şirket Nakdini Nasıl Koruyor\" başlıklı rapor, yıllık geliri en az 100 milyon dolar olan şirketlerde çalışan 150 ABD'li hazine ve finans yöneticisiyle yapılan ankete dayanıyor. Araştırmaya göre yöneticilerin yüzde 68'i, yapay zekanın dolandırıcılara sağladığı hızın şirket savunmalarına katkısını geride bıraktığını düşünüyor. Şirketlerin yaklaşık üçte biri en az ayda bir dolandırıcılık girişimiyle karşılaşıyor; hızlı ödeme sistemleri ise hatalı bir transfer sonrasında paranın geri alınması için finans ekiplerine çok az zaman bırakıyor.\n\nRapor, her ödemeye ek bürokrasi eklemek yerine, mevcut bilgilerin daha etkin kullanımına ve doğrulama süreçlerinin güçlendirilmesine odaklanıyor. Tedarikçi bilgilerindeki değişikliklerin özel inceleme gerektirdiği vurgulanırken, engellenen ve başarılı dolandırıcılık girişimlerine ilişkin kayıtların daha işlevsel bir test takvimi oluşturmada kullanılabileceği belirtiliyor. Şirketlerin yüzde 81'i tedarikçi eklerken otomatik kontrolleri benimsemeyi veya geliştirmeyi planlıyor. Raporda ayrıca işletmelerin belge kontrolü ve sahte kimlik tespiti için yapay zekayı nasıl kullandığı ele alınıyor ve bu korumaların etkili kalması için düzenli güncellemelerin gerekliliğine dikkat çekiliyor. Rapor, finans liderleri, hazine yöneticileri ve borç hesapları ekiplerine mevcut savunmalarını değerlendirmeleri için bir kontrol listesi sunuyor.",
+  "kaynak": "pymnts",
+  "url": "https://www.pymnts.com/cybersecurity/2026/68-percent-of-finance-leaders-say-ai-gives-fraudsters-the-upper-hand/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Governors Want States to Have a Voice in Regulating AI",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "pymnts",
+  "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+  "ozet": null,
+  "haber_metni": null,
   "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/11/16/jpmorgan-chase-tops-the-2026-finance-quantum-index-hsbc-wells-fargo-share-second-place/",
+  "url": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
   "kategori": "kuantum"
  },
  {
-  "baslik": "Qatar’s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity",
-  "ozet": null,
-  "haber_metni": null,
+  "baslik": "ABD Ticaret Bakanlığı Kuantum Fonlarını Hisse Karşılığı Dokuz Şirkete Dağıtıyor",
+  "ozet": "ABD Ticaret Bakanlığı, CHIPS ve Bilim Yasası kapsamında 2,013 milyar dolarlık teşvik önerisiyle dokuz kuantum bilişim şirketine fon sağlıyor; fonlama koşulu olarak her şirkette azınlık hissesi alıyor. Rigetti, D-Wave ve Quantinuum'un SEC bildirimleri, hisselerin peşin verildiği, ödemelerin ise kilometre taşlarına bağlandığı anlaşma yapısını ortaya koyuyor.",
+  "haber_metni": "ABD Ticaret Bakanlığı, 21 Mayıs'ta açıkladığı 2,013 milyar dolarlık CHIPS ve Bilim Yasası teşvik paketi kapsamında dokuz kuantum bilişim şirketine fon sağlamayı öneriyor. Önerilen tutarlar, IBM'in kuantum döküm iştiraki Anderon için 1 milyar dolara, GlobalFoundries için 375 milyon dolara kadar çıkarken; Atom Computing, D-Wave, Infleqtion, PsiQuantum, Quantinuum ve Rigetti'ye 100'er milyon dolara, Diraq'a ise 38 milyon dolara kadar fon ayrıldı. Bakanlık, fonlama koşulu olarak her şirkette azınlık konumunda ve kontrol gücü içermeyen bir hisse payı alacağını bildirdi. Portföy; süperiletken devreler, tuzaklanmış iyonlar, nötr atomlar, fotonik ve silikon spin kübitleri gibi farklı kuantum yaklaşımlarını kapsıyor.\n\nRigetti, D-Wave ve Quantinuum'un SEC bildirimleri anlaşmaların işleyişine dair ayrıntı sunuyor. Her şirket 100 milyon dolara kadar fon güvence altına aldı; hisseler işlem kapanışında Bakanlığa devredilirken sonraki ödemeler kilometre taşlarına bağlandı. Anlaşmalar, Bakanlığa belirli koşullarda fonu geri alma hakkı tanıyor ve federal destekle geliştirilen teknolojinin kullanım ve devrini kısıtlıyor. Fonlanan projeler; kontrol elektroniği, soğutma kapasitesi, çip üretimi ve optik bileşenler gibi büyük ölçekli kuantum bilgisayarların önündeki belirli engellere odaklanıyor. Rigetti'ye başlangıçta 43,9 milyon dolar, D-Wave'e ise yaklaşık 53,6 milyon dolar erişime açıldı. GlobalFoundries, Anderon, PsiQuantum ve Atom Computing nihai anlaşma aşamasına ulaşan alıcılar arasında yer alıyor.",
   "kaynak": "quantuminsider",
-  "url": "https://thequantuminsider.com/2026/11/16/qatar-mcit-signquantum-post-quantum-cybersecurity/",
+  "url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
   "kategori": "kuantum"
  },
  {
-  "baslik": "Amazon captured records of AI agents trying to steal AI provider keys",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "qz",
-  "url": "https://qz.com/amazon-ai-agents-steal-provider-keys-artex-111626",
-  "kategori": "genel-bt"
+  "baslik": "Quantus, yedek telefonu kuantum dirençli çevrimdışı kripto cüzdanına dönüştüren uygulama yayımladı",
+  "ozet": "Quantus, herhangi bir yedek akıllı telefonu internetten tamamen yalıtılmış (air-gapped) bir soğuk kripto cüzdanına dönüştüren açık kaynaklı Quantus Cold Wallet uygulamasını yayımladı. Uygulama, anahtarları telefonun güvenlik çipinde saklıyor ve işlemleri NIST onaylı kuantum sonrası standart ML-DSA ile imzalıyor. Çözüm, donanım cüzdanlarının tedarik zinciri müdahaleleri ve kör imzalama gibi bilinen zafiyetlerini hedef alıyor.",
+  "haber_metni": "Quantus, yedek bir akıllı telefonu internetten tamamen yalıtılmış bir soğuk cüzdana dönüştüren açık kaynaklı Quantus Cold Wallet uygulamasını yayımladı. Kurulum sırasında kullanıcılar Wi-Fi ve mobil veri özelliklerini kalıcı olarak devre dışı bırakıyor; uygulama, ağ bağlantısı etkinken hiçbir işlemi imzalamıyor. Anahtarlar, modern iPhone ve Android cihazlardaki güvenlik çiplerinde saklanıyor ve işlemler, ABD Ulusal Standartlar ve Teknoloji Enstitüsü (NIST) tarafından onaylanan kuantum sonrası standart ML-DSA ile imzalanıyor. İşlem göndermek için günlük kullanılan telefon veya bilgisayar işlemi QR kodu olarak gösteriyor, çevrimdışı telefon bu kodu tarıyor; iki cihaz hiçbir zaman doğrudan bağlanmıyor. Uygulama, işlem tutarını ve alıcı adresini açık metin olarak göstererek kullanıcıların okuyamadıkları işlemleri onayladığı kör imzalamayı engelliyor. Şirket, bu zafiyetin 1,5 milyar dolarlık Bybit borsa saldırısında istismar edildiğini hatırlatıyor.\n\nQuantus, geleneksel donanım cüzdanlarının tedarik zinciri müdahalelerine ve kargo etiketleri üzerinden ev adresi sızıntılarına açık olduğunu belirtiyor. Şirket, bu ay Ledger'ın Güneydoğu Asya'daki bir bayi üzerinden satılan cihazlara fiziksel implant yerleştirildiğini doğruladığını örnek gösteriyor. Quantus CTO'su Nikolaus Heger, büyük kurumların dahi düzenli olarak kör imzalama yaptığını ve bu durumdan memnun olmadıklarını ifade etti. Uygulama şu anda Quantus ağının yerel tokeni QTC'yi destekliyor; geliştiriciler komut satırı aracıyla da işlem imzalayabiliyor. Başlangıçta şirket içi kullanım için geliştirilen cüzdan, App Store ve Google Play'den ücretsiz indirilebiliyor.",
+  "kaynak": "quantuminsider",
+  "url": "https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/",
+  "kategori": "kuantum"
  },
  {
-  "baslik": "Fed Yöneticisi Barr: Yapay zeka ajanları banka hücumlarını dakikalara indirebilir",
-  "ozet": "Federal Reserve Yönetim Kurulu Üyesi Michael Barr, Milano'daki bir konferans için hazırladığı konuşmada, yapay zeka ajanlarının mevduatları yüksek hızla hareket ettirerek dakikalar içinde gelişen banka hücumlarını hızlandırabileceği uyarısında bulundu. Barr ayrıca yapay zeka yatırımlarındaki büyümenin bilanço dışı yükümlülüklerini ve döngüsel finansman yapılarını finansal istikrar açısından değerlendirdi.",
-  "haber_metni": "Federal Reserve Yönetim Kurulu Üyesi Michael Barr, Pazartesi günü Milano'daki bir konferans için hazırladığı konuşmada, yapay zeka ajanlarının getiri farklarını veya istikrar sinyallerini anında tespit ederek fonları otonom biçimde yüksek hızla taşıyabileceğini, bunun dakikalar içinde gelişen banka hücumlarını hızlandırarak geleneksel likidite yönetimi ve düzenleyici müdahale sürelerini aşabileceğini söyledi. Barr, büyük bankaların bireysel müşteri hesaplarında işlem yapmaya çalışan yapay zeka ajanları tespit ettiğini, ancak bu işlemlerin gerçekliğini, müşteri onayını veya talimatlara uygunluğunu doğrulayamadıklarını aktardı. Sıkı kimlik doğrulama, belirli işlemler için açık onay teyidi, ajanların yapabileceklerine teknik sınırlar ve hem kurallara hem değerlere dayalı kısıtlamalar gibi güvenlik önlemleri çağrısında bulundu.\n\nKonuşmada yapay zeka yatırımlarına da yer verildi. Barr, Fed'in 13 Kasım tarihli Finansal İstikrar Raporu'na atıfla, yapay zeka altyapısına bağlı bilanço dışı yükümlülüklerin potansiyel azami nominal değerinin 3 trilyon doları aştığını, en büyük yedi yapay zeka şirketinin bilanço içi borcunun yıl sonundan önce 800 milyar doları geçmesinin beklendiğini belirtti. Büyük bulut bilişim şirketleri ile çip üreticilerinin yapay zeka laboratuvarlarına yaptığı 100 milyar doları aşan özsermaye yatırımlarını, yatırım alan şirketlerin bu parayla yatırımcıdan çip ve bilişim gücü kiraladığı veya satın aldığı bir tür 'döngüsel finansman' olarak nitelendirdi. Barr ayrıca, az sayıda benzer yapay zeka modeline dayanan ticaret stratejilerinin sürü davranışı riski taşıdığını ve aynı kusuru paylaşan modellerin sistemik sonuçlu başarısızlıklara yol açabileceğini söyledi.",
-  "kaynak": "qz",
-  "url": "https://qz.com/fed-barr-ai-agents-bank-runs-deposits-111626",
-  "kategori": "genel-bt"
+  "baslik": "KT ve LG Electronics, Kuantum Güvenli Doğrudan İletişim Sistemini Başarıyla Test Etti",
+  "ozet": "Güney Koreli KT ve LG Electronics, bilgiyi doğrudan kuantum durumu olarak taşıyan kuantum güvenli doğrudan iletişim (QSDC) sistemiyle görüntü ve metin verilerini iletip alıcı tarafta yeniden oluşturdu. Geliştirme sürecinde 13 patent başvurusu yapan şirketler, teknolojiyi fiber optik ağlarda doğrulamayı ve gerçek iletişim ağlarında kullanılabilir hale getirmeyi hedefliyor.",
+  "haber_metni": "KT ve LG Electronics'in ortak geliştirdiği kuantum güvenli doğrudan iletişim (QSDC) sistemiyle görüntü ve metin verileri iletildi ve alıcı tarafta başarıyla yeniden oluşturuldu. Digital Today'in aktardığına göre QSDC, şifreleme anahtarlarını paylaşan kuantum anahtar dağıtımından (QKD) farklı olarak bilginin kendisini kuantum durumu olarak taşıyan yeni nesil bir kuantum iletişim teknolojisi. Gösterimde KT, 1.024 bitlik görüntü verisini kuantum sinyallerine dönüştürerek iletti ve alıcı uçta orijinal veriyi geri elde etti; aynı sistemle metin verisi de iletildi. Mevcut QKD yetkinliğine QSDC'yi ekleyen KT, kuantum iletişim teknolojilerindeki kapsamını genişletmiş oldu.\n\nGeçen yıl yeni nesil kuantum internet teknolojisi geliştirmek üzere mutabakat zaptı imzalayan iki şirketten KT, verici ve alıcı ekipmanı ile iletişim prosedürlerini geliştirirken; LG Electronics sistemin güvenliğini analiz etti ve bileşenlerin küçültülmesi ile sistem yapısının sadeleştirilmesi üzerine çalıştı. Geliştirme sürecinde 7'si KT, 6'sı LG Electronics tarafından olmak üzere toplam 13 patent başvurusu yapıldı. KT, iletim hızını ve sistem kararlılığını artırmayı, teknolojiyi gerçek iletişim ağlarında kullanılabilir hale getirmeyi ve fiber optik tabanlı ağlarda doğrulama yapmayı planlıyor. LG Electronics ise kuantum internet alanındaki iş birliğini sürdürecek ve kuantum işlem birimlerini (QPU) kullanan dağıtık kuantum hesaplama araştırmalarını genişletecek. KT Gelecek Ağ Laboratuvarı Başkanı Jong-sik Lee, gerçek bilgiyi doğrudan kuantum durumuna kodlayıp ileten ve geri oluşturan uçtan uca bir kuantum iletişim teknolojisinin güvence altına alınmasının önemine dikkat çekti.",
+  "kaynak": "quantuminsider",
+  "url": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
+  "kategori": "kuantum"
  },
  {
-  "baslik": "U.S. is requiring licenses to reexport AI chips to five countries",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "qz",
-  "url": "https://qz.com/us-ai-chip-reexport-licenses-five-countries-111626",
-  "kategori": "genel-bt"
+  "baslik": "Mastercard, finans sektörü için kuantum danışmanlık birimi kurdu",
+  "ozet": "Mastercard, finansal hizmet kuruluşlarının kuantuma bağlı siber güvenlik risklerini değerlendirmesine ve kuantum sonrası kriptografiye (PQC) geçişe hazırlanmasına destek olmak amacıyla bir Kuantum Danışmanlık Birimi kurdu. Şirket ayrıca kuantum hazırlığına ilişkin bir teknik rapor yayımladı ve QIZ Security ile Oxford Quantum Circuits ile iş birliği yürütüyor.",
+  "haber_metni": "Mastercard, finansal hizmet kuruluşlarının kuantum kaynaklı siber güvenlik risklerine maruziyetini değerlendirmelerine ve kuantum sonrası kriptografiye (PQC) geçiş için uygulanabilir yol haritaları geliştirmelerine destek olmak üzere bir Kuantum Danışmanlık Birimi kurduğunu duyurdu. Şirketin Advisors and Transformation danışmanlık hizmetleri bünyesinde yer alan birim; PQC planlama ve geçiş stratejileri, kurumsal kriptografik envanter çıkarılması, iyileştirme yol haritaları, üst yönetim ve yönetim kurulu düzeyinde eğitim ile kuantum teknolojilerinden doğan iş fırsatlarının belirlenmesi gibi alanları kapsıyor. Mastercard, kötü niyetli aktörlerin şifreli verileri bugünden toplayıp gelecekte çözme (harvest now, decrypt later) stratejisinin finansal sistemlerin güvenliğini sağlayan kriptografik temeller açısından ciddi bir tehdit oluşturduğuna dikkat çekiyor.\n\nŞirket, kuantum hazırlık çalışmaları kapsamında yeni danışmanlık biriminin parçası olacak QIZ Security ve finansal dolandırıcılık koruması pilotunu da içeren araştırma-geliştirme iş birliği yürüttüğü Oxford Quantum Circuits ile çalışıyor. Mastercard ayrıca, kuantum sonrası döneme hazırlık için kısa vadeli adımları ve uzun vadeli planları ortaya koyan \"Quantum computing and financial services\" başlıklı bir teknik rapor yayımladı. Advisors & Transformation Başkan Yardımcısı Marc Carolus, kuantumun bugünden bir risk yönetimi ve dayanıklılık gereği olduğunu belirterek, birimin kuruluşların maruziyetlerini anlamalarına, kriptografik esneklik kazanmalarına ve uzun vadeli hazırlığı kurumsal stratejilerine yerleştirmelerine yardımcı olacağını ifade etti. Şirket, HorizonX 2026 Kuantum Endeksi'nde finansal hizmetlerde üçüncü, ödemeler kategorisinde ise birinci sırada yer aldı.",
+  "kaynak": "quantuminsider",
+  "url": "https://thequantuminsider.com/2026/11/20/mastercard-quantum-advisory-practice-financial-services/",
+  "kategori": "kuantum"
  },
  {
-  "baslik": "AI rockets to top of worries about financial system in latest Fed survey - Reuters",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Fed's Barr warns on AI risks to financial system - Reuters",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmF2a1AxTXIyN09XQ2FpMmNFYk9UdVdYaFozUTN3UmY2amR1c0g5ZkdMU0NCRG54cy1pWmhadmFNdjNxbmlha1p3SlhnZ1VvZ2dvU3JIT1praWI2eWVIZE1taUNKQ2Nqd1JUakhtQl8tS3B2Y1gwNkJ3ZlFTYkpaSDJuZjZBZjVza2NB?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "EXCLUSIVE: India to ban private equity firms from controlling multiple non-bank lenders, sources say - Reuters",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUotYjFJTTF3amV0VWJmdDl3V00xWlVZdTd2VkFzek1GZ2hQbndleXV5XzMxOVdFRU03dmNWWDFXbHVtQ3daOEM3WFV1VHJoc0V0d3pYMEN5VU9vR1p5dmJwaDNBRWlVLWcxeEVSSHBrX2lSQVphdHJSdjM1b1Z6QlY0YjVmRlBtT2dWM1pocm1nclI3SXVISkpqakVJb1Bpb25LRTBEZTVNbl84WmtyRko1YWdkazJZcHFRbVBTejk0bjE3SF9JeG9KOTU5QQ?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "MaRCo@BIS: AI-agentic econometric analysis for central bankers - Bank for International Settlements",
+  "baslik": "Basel Committee discusses risks and vulnerabilities faced by global banking system - Bank for International Settlements",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Bank for International Settlements",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzZlVDBwU3dSNl9BNm01dW51b2g1SlhSUkVpeW1makRKNDNGdVpBVGRyc29UVVZyaFZHV1JQN2d0UjI1Y0VpbzZCbWNSVFlSZ3huOGwzQmFuU1diVnBJLTNmMlhvQXdTQWl3ZUY3OXZHLUNWRkRySUpaYm0xMlVjMy03Nlo5NXhmS3pEQk9GcEZJemVmWEFaLVNZaFZGZXlvazJDQ2VnQVlwejBh?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcThCcVVKWkszZU9LdDZiUUF3QlpDTnRuMy1xR2hOYjFscEh5aUMtMkhRZ2w0Vldab1ZmV3lBWnFwaVVBcHE5NUdSZE5kblZjT21sbGxWVEd4djd4LTRFN08zbnM1eXB5YzJQYXlpbkZIb3ZuUDBiQTI0Ymw3QnhNWlA3U3ptNXl4LU5kcnh0dlNYV0RUTllxalJKZE5SdXZsUU9RckZfNlRKem9GY0dnenM5RFI4dU9VQk9Sb2tiQy0?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "The Czech National Bank’s first DLT bond and the new physics of the digital koruna - Bank for International Settlements",
+  "baslik": "AI forecasts GDP as well as economists - Bank for International Settlements",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Bank for International Settlements",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2pnWllxTWtYYVNfZTVBNEJFeS1QZ2dyd1pNeDJwdzRMZ1djdDF0bjVhWG5NSWNWZEE2bUpzVXo3MnZFYVdsekJiNy1DWjByaTV4QW1UckNRb0JmeUxNWnl1dWd1VXh6cGtXTGlPWkF0Wi05anR2SEdLRFdld19hZlFBZHJsa3pvODRIYkltampMTXlqZGVnU2RIWmZ1RTV6LU81UklBUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Uc1lnNW1TYjBBV3VXN2JBLThORVJPenVvUDE2T2VTcVZoOElXMjhCV2VyZFIwU2EwNWZHYm5OdzVlSmIyblNmY0tpdWRUdTliaEd1Tkwxa1N6QmU5TnRyOEF2NElyU3ExWkFDU3pPYTJFWUtxMmQxZEV3?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’ - Forbes",
+  "baslik": "AI-Powered Malware Could Learn To Evade Detection - Forbes",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX04wcUhTMl9rYmFDY0NTZFlFeGxDdjRDRHg0RVZpOXI0VVRpYmVHT1Q5eEkyV0Rpei1ESGxzMnJobUJ2R1UtZTBRTks0b3lwc1BxdWZwejVmN0RUaVNRbkZvNjk4THVLZS00Wmh3MmVXNXBLUVpINEVLUHJTaDduLVdNS3Z0Vi01cW9ObVdXTUJvUU5pVlgtWGs2UUtZcnRIa1RSRnkzM2VNRGRLQThnbDBZMWxqeFEyZGlRRnRUaTAyTFE?oc=5",
   "kategori": "yapay-zeka"
  },
  {
-  "baslik": "FSB calls on Turkey to strengthen stablecoin regs - Central Banking",
+  "baslik": "AI may be going too far, too fast – ECB official - Central Banking",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Central Banking",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRTlNTkdzR3p5V3czT3EzY0RWT3pjazFldjA5aUpYaFRjQjJya0FHaGxVbkhOMXMtY01hbThJbG1DMHAzWmVsV21HUERpVHNCQWF4NVZSTkxhcWg3bWxVX2FsakxmR3NDTmltbExYelRtRTJCZXNIZjlCRVZzeC1KQWV3ZjBNblUzLUVPVmktaDNpbEVvMmRIam5NY0FUNW1ZaW41UGhwcTlpd0NIUmhj?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGRVVzhxYXNQMHFyNmY1a1ZrSDRQTDBiR2hXWS1kVDljRkFxMjlxanQySkFkZkVuUHVwdW56SVd3clJkQ0VZYjZkUnFfTDZOS1lwZHQySGN4blUyODBMVEM5ZFdFZGFwSEF5Qnh5R3dUWnBNd296VDMzdDVLRm9zTTRWZVdTZkZQN1lVUDlIWUo1YTYyVS01MVBoRVdIbUpLZ3NWQmhubFpJRlV5TXJTQk1xbmoyQ0NTamc?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "The Bank of England, Monetary Authority of Singapore, and Bank of Thailand Complete Trial of Synchronised FX Settlement across Different Currencies and Systems - Monetary Authority of Singapore",
+  "baslik": "Advanced AI takes cyber threats to new level, say tech CEOs - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGNCejFHcmYwYWtSdDAxVVVfRl93a2VYc2xEWkVNYUhKWGlPSTFLMUFZZVIxRUFQWGVFeEhxdFpXUlVHRElpTVp3TW9kV3lkWUdLRDJScGFoT214STF4bG9jalpvRWtwZnpBb1RYeTVJNWRZZVd0YU9jYS1OSi03c3FsTmFFcGpXMXo5X3I2eHlSMUdvejY0MDBMZzZlRHFjVGkyQ284a3E5eldsUjZBNw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Estonia readies banks for infrastructure attacks, deputy says - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzZfN0I2YktMQVBXSTRJR1pleXpIRDVFV1JINkhoVWNkZGIzS21RV1dQeF9RdUwwQThwZEIzdGphVGJ2dFJmeUVrRUFSWmphYnBUcm9YbjlyU2U1NDA0Z3liN09NdWUxVUV5Yzk3aVBwUFhYRWI3MEVLVHNlT1NHMzVRZXpocnNnYlJpUFpqUzlZMm5MNHZJSWpaUlljMXNWZlY3QkVyOEhIRWZjbnJJVkRGNGI4aUJYZ202S0FGeFZBQmM0Ui15TzlyQjEwaXhSb2JN?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Over two-fifths of central banks report rise in cyber attacks - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQem9EaEdUdXBGTGRIVmpaLWpCVUEyTWV6MGNnRkthS3N0SkJXVzdfWlNQU2V3QkJwRXZteEl0MWNCZHZXcThQbU56c2FwQ2I3YVJYTkVqTFJ3b1lQY1M4SnR3eGNvU3NKc2N6cldoR0FtM2psU212NU1DMTJDeFFrXzVLR3dzdGRuYlAwYzBWc190R3h1cjlCTFY1NDlPNXY0WTVzeF84OVdHX3dDeEN4NUxEY2I5c3lCYWoyRkVWY3k4MU1jaW1GZmUxd1BVQQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Guardian Tokenised Collateral Framework - Monetary Authority of Singapore",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Monetary Authority of Singapore",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2RmWm5lYTktYmxkRnBlZTBreERxYTlRalBzY2Nxc1RHV0U5VzdLR2ZKUVlZcWVDZlpscFo4RDJQdTJ0RHM3QWlyWjktTVJLdkJBZndiSkRYRmpxTUNOWldDdkJtVnFpR2R1bXZldmxxU2RxeVBUUk8xSERySERnVVNaYXFYVTVTRmxfMmZlSDExbnVpSkdJY2Jwa0xmRl9mLWQ2R0pOMzV4SVdhNEJKV01QVmxxQTdPU01PaGF2TzNSSWlzQUgyQUhEWVZOcllXTHozVkxMNy1vaVZaWnNMcEV3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGUyUWloQW14RDdxQXA4dk1VUXk2MUZwZW9DV291OGhHSm9nSW55MjVSRGJEdF9fXzBTWFlneWYyQWctRzZoXzhrUUVxY29kbDgtZTlUZXNsZFdRaTJ0LXhOMGNMOVQtc0tQaXZISEw4ZkJPY0FQcHRNSmVtRnlyN2RyekVVWi1TcFBsRnBPeGhqWGo1NGljVDZoazRHQ0VCZ1d2OUNkZDJJWHNvdHVpWlpB?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Smart supervision for small banks - ECB Banking Supervision",
+  "baslik": "MAS Announces Successful Issuance of Tokenised MAS Bills on the Singapore Dollar Test Network Using Wholesale Central Bank Digital Currency - Monetary Authority of Singapore",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Monetary Authority of Singapore",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2NUWDhybmJsckRRMUc3STljbUVjM19KelNoLVVhVXI3TlpFeWNPd053cy01VzBES0t2Uk5vME00WFFfbkFjT1BWbF9BZXRvOGoxMHhJdmczcEhMdHFIWlRuZmx1Z3Y5SjUzRFlJM1NoRENDeG5lbHhNS29PdklqakZzZTdjMllOWWVmTVpCQjhOYzF2Mk81LTNkak9JQnBPM3Mxb0o3RGxzbEFCdHkxYldfWXlaRXVBZUdxZGNTOW1ONXRwV1kxaFgtOGRhUVFZSktRSUxKaVQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "ECB keeps capital requirements broadly stable for 2027, focuses its priorities on banks’ financial and operational resilience - ECB Banking Supervision",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "ECB Banking Supervision",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFphZTRmZHFtTlZCSXl1cXltM0hBa2o0YkFTZXI1YTRNeVpyZFNYX0l2MXMzRGU2LVVvQzcyejNkbW5oR0pKVUpjTk5LMHdlc2k1YzVqQXpmcmdZUzBWdkdMRHZjQ1IxVXBRdVo3dVB2eV9zLWRBS1NQWGx3cy16djEwd0dNUjVWTTJ6cF92aTVkVjg3Z2g4UEYxeXFBb0NjNWlkb1FSdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGNJbUl6N2Y2M3VWZHVINEduME4zbDJYWERrNnlzWTJhSEprY1l0RWlFd1ZRbkdla1NtSWE2ODhoLXN6QXo0bVAxTUk4VUstMkU3cXdBSE1XTjlUR2FOdkYxS0xvcnJRVVI2endJUFVsUUVhRWUxVFh2V2FKV1ItRUlaLUk3RmZlNHZJeWJuY3lfd3V4N2dicjZENGQ?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "US aviation shutdown linked to faulty L3Harris router - National Technology News",
+  "baslik": "Supervisory priorities 2027-29 - ECB Banking Supervision",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "ECB Banking Supervision",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnVkdy1WcXh6NnRyOGJEcm9oOENtXzNMM0pjOGlHUVE5UFN2bnRMVi1YdHhDSnYzQl9qbVRiZVVsbXJpdVFtMUIyYTRLNDZJZVBLTm5aMThGTDRhdTg4SWk1SG82a1dlVXJLWDdfT2VxT0pjLUNLNDhKOWYtcHl4NjFGaTJHb2FZbVBuSzIzR2JFOTNIdV8yQmE3RTcydlF6LW1od0o5VXJ0Z3FBcWRtWVZSd3lKZw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Trump administration weighs disclosure rules for Chinese AI use - National Technology News",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "National Technology News",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFRoelJoQ1ZZM0VYSVN6WXloSm5EZHJyekZHU2MwMjRmeFZRdDBSa2RPNy1pQkJyQVBXNVFMdE1fUks2clotUnR2ZjctdDhjaktvTnJtZy1iQ2hZQ3JnbEVhcjlEYVNqWVl6R0JHMjBKTUpvZEZqby1FVG9DekRZaHRXRi1WRG5Ed0U0dWh5Si15ZXZT?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzZIZGtFZkxMMHJ1N0V1NEJkOGRYYXdCNzllRU04ejBvQmp3eE5ySWVpLTNtT1RCcFJ1cFBPd0JoeDdKcXBoR3IteTlrMF9uaU5OVnhMNXNMWDVxaXNYWjlLbzJ1SmJ3M3FKVXllX1JFNkxiblZqclRCS0NIWXo5ZG9wTHdwdTdTTXF3c1Q0ZW5uSE1pb2JYN254cm9yMzJQRGc?oc=5",
   "kategori": "genel-bt"
  },
  {
-  "baslik": "Romania identifies Russian-linked cyberattack on government institution - National Technology News",
+  "baslik": "FCA ve İngiltere Merkez Bankası, finans sektörü için yeni siber güvenlik rehberi hazırlıyor",
+  "ozet": "Birleşik Krallık Finansal Davranış Otoritesi (FCA), İngiltere Merkez Bankası'na bağlı İhtiyati Düzenleme Otoritesi (PRA) ile birlikte, finans sektörüne yönelik yeni siber güvenlik rehberi önerisi için kamuoyu istişaresi başlattı. Artan siber saldırılar ile yapay zekâ ve kuantum bilişim kaynaklı risklere işaret eden düzenleyiciler, firmalardan beklentileri netleştirmeyi amaçlıyor. İstişare süreci 26 Şubat 2027'ye kadar devam edecek.",
+  "haber_metni": "Birleşik Krallık Finansal Davranış Otoritesi (FCA), İngiltere Merkez Bankası bünyesindeki İhtiyati Düzenleme Otoritesi (PRA) ile birlikte, finans sektöründe faaliyet gösteren kuruluşlara yönelik yeni siber güvenlik rehberi önerileri hakkında kamuoyu istişaresi başlattı. Düzenleyiciler, etkili siber saldırıların artan sayısına ve yapay zekâ ile kuantum bilişim gibi gelişen risk faktörlerine dikkat çekiyor. İngiltere Merkez Bankası'nın eylül sonunda yayımlanan Sistemik Risk Anketi, siber güvenliği ülkenin finansal sistemi üzerinde en büyük etkiye sahip olacak riskler arasında göstermişti; Ekim 2026'da ise FCA'ya bildirilen güvenlik olayı sayısı Covid-19 salgınından bu yana ikinci en yüksek, son 18 ayın ise en yüksek aylık seviyesine ulaştı. Rehber; firmaların güvenlik olaylarını yönetme, tanımlama, bunlara karşı korunma, tespit etme, müdahale etme ve toparlanma süreçlerini kapsayacak ve Ulusal Siber Güvenlik Merkezi'nin (NCSC) Siber Değerlendirme Çerçevesi (CAF) gibi mevcut çerçevelerden yararlanacak.\n\nFCA Genel Müdürü Nikhil Rathi, firmaların iyi siber dayanıklılığın ne anlama geldiği konusunda netlik talep ettiğini ve yanıtın her zaman daha fazla kural olması gerekmediğini belirtti. PRA Genel Müdürü Katharine Braddick ise siber saldırıların daha sık, karmaşık ve tehlikeli hale geldiğini vurguladı. Düzenleyiciler ayrıca, yapay zekâ kaynaklı güncel riskler ile kuantum bilişimin veri gizliliği ve korumasına yönelik gelecekteki risklerine odaklanan ek 'etkili uygulamalar' yayımlayacak. Finans kuruluşları, sektör birlikleri ve teknoloji sağlayıcıları, 26 Şubat 2027'ye kadar sürecek istişare sürecine görüş sunmaya davet edildi.",
+  "kaynak": "computerweekly",
+  "url": "https://www.computerweekly.com/news/366655173/FCA-lines-up-new-cyber-guidance-for-UK-financial-services-sector",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "Ransomware: What we know about the arrests of Chaos affiliates",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "National Technology News",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWURsM1pUbTBybGpKR1czcDRTX2RyaWpGMEdYLWhCYWJxdzNGMWVGelcxcDdrbWdjXzBtTW94OUkwWUg4UDNhRVVtSGNDY09HcDZRbU9vN19BY01fTnc4dUJsQllsMWhlTmt5SDV1dTdkLVZUWERmcE9fZU1NR3R4Y2pUd3VFX1R3SGgtYWhQTVVhZk1PWnVISlpaSHBqZTlyVS1fZ1h6R2FnSFRj?oc=5",
+  "kaynak": "computerweekly",
+  "url": "https://www.computerweekly.com/news/366655193/Ransomware-What-we-know-about-the-arrests-of-Chaos-affiliates",
   "kategori": "genel-bt"
  },
  {
-  "baslik": "Build, Buy or Partner? Scaling AI in Highly Regulated Industries - FStech",
+  "baslik": "Lloyds Bank, yapay zekayı ölçekli kullanma deneyimlerini kılavuzla paylaştı",
+  "ozet": "İngiliz perakende bankacılık grubu Lloyds Banking Group, yapay zekayı kurum genelinde entegre etme sürecinden edindiği deneyimleri 'Responsible AI: A practical guide for organisations' başlıklı bir kılavuzla kamuoyuna açtı. Kılavuz, riskleri ve etik hususları yönetirken yapay zekadan anlamlı fayda sağlamaya yönelik pratik örnekler ve dersler içeriyor.",
+  "haber_metni": "28 milyon müşterisi bulunan Lloyds Banking Group, yapay zekayı ölçekli biçimde entegre etme sürecinden çıkardığı dersleri 'Responsible AI: A practical guide for organisations' adlı kılavuzla paylaştı. Bankanın sorumlu yapay zeka birimi başkanı Suzanne Brink, teknolojiyi kullanmanın kendi başına bir hedef olmaması gerektiğini belirterek, müşteriler, çalışanlar ve işletmeler için anlamlı fark yaratılabilecek alanlara odaklanılması gerektiğini söyledi. Brink, pek çok kuruluşun aynı sorularla uğraştığı için deneyimlerin paylaşıldığını, sorumlu yapay zekanın inovasyonu engellemek değil, kuruluşlara güven içinde fırsat kovalama imkanı vermek anlamına geldiğini ifade etti. Kılavuzda üç temel ders öne çıkıyor: sorumlu yapay zeka uzmanlığını baştan sürece dahil etmek, kontrolleri ve güvenlik önlemlerini titizlikle test edip devreye alım sonrası izlemeyi sürdürmek ve yapay zekanın değeri ile riskleri arasında denge kuran kanıta dayalı kararlar almak. Kılavuz, Scottish Widows uygulamasındaki yapay zeka destekli yatırım asistanı deneyiminden de yararlanıyor.\n\nBanka, Ocak ayında 67 bin çalışanının tamamını AI Academy üzerinden eğitme planını açıklamıştı; Haziran itibarıyla yaklaşık 65 bin çalışan 400 bin kurs tamamladı. Ayrıca 200 üst düzey yönetici, eğitim sağlayıcı Cambridge Spark ile yürütülen programla yapay zeka becerileri kazanıyor. Accelerate 2030 Stratejisi kapsamında banka, 2030'a kadar tüm müşteri etkileşimlerinin yapay zeka ile desteklenmesini ve 100 milyon sterlinlik değer üretimini hedefliyor; önümüzdeki dört yılda 2 milyar sterlinlik ek maliyet tasarrufunda yapay zeka kilit rol oynayacak. Bankanın 2025 sektör anketine göre firmaların yüzde 59'u son 12 ayda yapay zeka kaynaklı verimlilik artışı bildirdi; bu oran 2024'te yüzde 32 idi.",
+  "kaynak": "computerweekly",
+  "url": "https://www.computerweekly.com/news/366654900/Lloyds-Bank-shares-learnings-from-doing-artificial-intelligence-at-scale",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "arstechnica",
+  "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "kategori": "yapay-zeka"
+ },
+ {
+  "baslik": "MAS ve Future of Finance Institute, finansal hizmetlerde yapay zeka girişimlerini duyurdu",
+  "ozet": "Singapur Para Otoritesi (MAS) ve Future of Finance Institute (FFI), finansal hizmetlerde yapay zeka kullanımını hızlandırmaya yönelik bir dizi girişimi Singapore FinTech Festival 2026'da açıkladı. Girişimler dolandırıcılık önleme, işletme finansmanı ve otonom yapay zeka ajanlarının güvenli kullanımına odaklanıyor ve ülkenin finansal hizmetlere yönelik Ulusal Yapay Zeka Misyonlarını destekliyor.",
+  "haber_metni": "Singapur Para Otoritesi (MAS) ve Future of Finance Institute (FFI), finansal hizmetlerde yapay zeka kullanımını hızlandırmaya yönelik girişimleri Singapore FinTech Festival 2026 kapsamında duyurdu. Girişimler dolandırıcılık önleme, işletme finansmanı ve otonom yapay zeka ajanlarının güvenli kullanımına odaklanıyor. İlk girişim olan AI Innovation Arena çerçevesinde FFI, geliştiricilere, teknoloji şirketlerine ve araştırma kurumlarına sentetik veri setleri sağlamak üzere MAS ile çalışacak. Başlangıç odağı, finansal suçların önlenmesi ve özellikle dolandırıcılık tespiti olacak. MAS, beş bankadan toplanan bilgilere dayanan ve bankalararası işlem kalıpları ile dolandırıcılık faaliyetlerini yansıtan bir sentetik veri setini erişime açacak. Singapur Devlet Teknoloji Ajansı ile geliştirilen veri setinin, dolandırıcılık tespitini iyileştirmeye yönelik makine öğrenmesi modellerinin eğitilmesi ve değerlendirilmesinde kullanılması amaçlanıyor.\n\nFFI ayrıca, finansal kurumların önceden tanımlanmış izinler, limitler ve güvenceler çerçevesinde dijital parayla işlem başlatabilen yapay zeka ajanlarını deneyebileceği bir Agentic Money Sandbox kuracak. İlk uygulamalar arasında ajan tarafından başlatılan ödemeler ve hazine yönetimi yer alıyor. Bir diğer girişim kapsamında FFI, yerel olarak geliştirilen konuşmadan metne teknolojisini canlı pilotlara taşımak için A*STAR'ın İleri Zeka ve Hesaplama Enstitüsü ile çalışacak; olası uygulamalardan biri operasyonel risk yönetimini destekleyen gerçek zamanlı uyum izleme. FFI, finans sektörüne yetenek kazandırmak amacıyla AI Singapore ile de iş birliği yapacak. DBS, OCBC, Standard Chartered ve UOB, enstitünün kuruluş ortağı finansal kurumlar olarak açıklandı.",
+  "kaynak": "crowdfundinsider",
+  "url": "https://www.crowdfundinsider.com/2026/11/324103-singapore-future-of-finance-institute-launch-initiatives-to-advance-ai-in-financial-services/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "nyt-tech",
+  "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+  "kategori": "yapay-zeka"
+ },
+ {
+  "baslik": "Europe’s digital sovereignty paradox",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "omfif",
+  "url": "https://www.omfif.org/2026/11/europes-digital-sovereignty-paradox/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "US bank outages disrupt services at major financial institutions - FStech",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "FStech",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0VORUYwOG5lNVhiQTlHM291VUtsMDFpbGdpRlBQLVdteFl1SHVuVG5TU0gxeDh5OWE0QXBwQU9EbzFwQnV5c1RFYTRoMGw2NnVYWUhsNVpHMkVBMGlXcDRxSkRreURXUUNlR2g4cU51am5YbHpCWjhoak1zci1ZbTN3OEtnWS11YWpYV2lZaVVjaW9EREFwTHR6QjhueXFwLWc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVko2bUpTdUs1blR2cjE4OWJvUGJ1ZFhxdG1RNTlBV00zQlJ6MFNyTmhBNnRJLWJ0ZHd3QnQtSUxjcXdPVUdYVDMwS2RXdTczdVphZGo4anJndHVrdnJwekk2Y2ZsTmlNRHM2OGN4QVh3UlZiQkx1TnctMFJnZzJYTnRpWFV6d0ptN0dVTTdNbGJIaFEzSEFQVmxpV1Bndw?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "China's Zhejiang flags IP risks in commercial use of open-source AI models - MLex",
+  "baslik": "JPMorgan, Visa and Mastercard customers affected by vendor cyberattack - FStech",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "MLex",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXdZWS1HNGF6Tnk2QUtkQlpRalc5RmIzUmMzSS15VFhOMUlCWVFpeVlGbWQ0RGItS3h6SGt4dHdNYkdYVXRtc3VOT0FJcGh0NWg1WHFKdDl3VmV0djB5STcxVnJvR0MxaWtpb084bVp5a1NfTXVLV25Kay0wNnJMR211TVl2VDBubGFZX2dOZEwtd2dwVkJWMnFXakc4RXJuRVpOWDVWVkJmWEFFUE9hNE9NT3phRVhDZU5QUE1TLWhGOEhBR1U0YklfdGVUQVVvQjIxaFZoVjXSAVpBVV95cUxPQnd6dTlISGhKWVJVZFNnQVpUOWxJbVI5WEF4eF9ZRVEzbWdDVTNlZ21fbkJtTzRyTjVQTkVQNGw3WWFlcE1YVng3ZkVtZHhMWWR1b2tVY0VTdEE?oc=5",
-  "kategori": "ai-governance"
+  "kaynak": "FStech",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGdVNlRnQ0Y4UEl0Y0FsTFRzdEVQWE9nRWNFVkJoMnNiWTZGR3FDR0pNR0JmR2EzOHVQVnFROUctYjhuUDE1WjVJc0dJaFFRZ2NPV1hOSjBSSGdiOVVYa182QlViQXNFS2FZRnlHZkFJYS1KS1J2VEJRQlVPVUEwNnNGb1p3THJuYm9LaEZRV0FGME5fRHNjT0Rn?oc=5",
+  "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "EU seeks talks with US Congress on global AI governance - MLex",
+  "baslik": "HSBC Jersey fined £2m over failures to monitor suspicious transactions - FStech",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "MLex",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSl9fSmZLSzZyWmNYQlZKbFRfV3RTSkFMeTVpcmNydDVCaV9hVnp3cVdkQ0JUZEdRVGhZeE9MbUZxMWNpb1pzUEpCMGdqN2lReGhrbEVqMnR4aEFDZ3NERTV4TE5FOHRPUnJ1MllrbEdraFNsOXIxNVF6VW5WOEg5M2ZEUVB6WDh4MVJCaDlyWTlQV0VHX0RzSWNRNWFPMWh3Y2NqLVRMZURJTm9jejl3MTV4UUJQSk11c2hHTFZNd9IBWkFVX3lxTE9LQkNWQ3JPRjhwX3dGSHdEM3ZsWHF6SHl2TXdBOWlsejVfaW1NTUVSMl9ja0FLblFXVDRTaWs5eGRrR1FDT09yeXZVU2ljX2ExVFV5YW1fTHptQQ?oc=5",
-  "kategori": "ai-governance"
+  "kaynak": "FStech",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVZ6aTFpalo1X0xWRmNBQWpObTFKenF3bGd0NmI5MjkxQ1R1aE1hVGtMWGxucTBYM2t1R2d0c0lNUEJfZlpQaVprQzYxNGxNcXpRM2pEN0x5dTMxcGROb2NxNnBPalh1dnd6OVBEZzBqclJNZU9nVkZad25VbFBYdlA4TkVzN0pRXzV5eTJjaGxnTWRfMHJ5WGs0OXNGUTg1UXFOSw?oc=5",
+  "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+  "baslik": "PRA outlines new cyber resilience council and tougher supervisory focus - FStech",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "thehackernews",
-  "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-  "kategori": "siber-guvenlik"
+  "kaynak": "FStech",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTlXOGR3dzRGZnEtMks2dElBUnMxVzBrLVpCS1A4LWFhTG1MQm56eEtleGJVT0pwN3RnRE1FY2NKMFNlRGwza0JDZkdZdjhQY2JkeVlyVnd6OHk3TGhlbU45b3J0OEdMeTBPWTlNbExTek9HeGJGMVhCOHJHdGNuTllZbmRmOUYwdjBILUtEQXo4dVI4MW9Sd2NwQkpxVEJDS0RfUlREaw?oc=5",
+  "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Google warns that fully-automated AI attacks are coming soon",
+  "baslik": "Singapur ve Almanya dijital varlık mutabakatı bağlantısında test gerçekleştirdi",
+  "ozet": "Haber başlığına göre Singapur ve Almanya, dijital varlık mutabakatı alanında sistemler arası bağlantıya yönelik bir test gerçekleştirdi ve bu çalışma 'kilometre taşı' olarak nitelendirildi. Haberin ayrıntılarına kaynak sayfadaki teknik erişim sorunu nedeniyle ulaşılamadı.",
+  "haber_metni": "Kaynak haberin başlığına göre Singapur ve Almanya, dijital varlık mutabakatında bağlantı (connectivity) sağlanmasına yönelik bir test yürüttü. Başlıkta söz konusu çalışma bir 'kilometre taşı' (milestone) olarak tanımlanıyor. Bu ifade, iki ülke arasında dijital varlıkların mutabakat süreçlerine ilişkin sınır ötesi bir teknik denemenin gerçekleştirildiğine işaret etmektedir.\n\nHaberin yayımlandığı sayfaya erişim sırasında Cloudflare ile kaynak web sunucusu arasında yaşanan bağlantı sorunu nedeniyle sayfa içeriği görüntülenememiştir. Bu nedenle testin kapsamı, hangi kurumların yer aldığı, kullanılan altyapı ve teknik ayrıntılar hakkında doğrulanabilir bilgiye bu aşamada ulaşılamamıştır. Haberin tam içeriğine erişim sağlandığında, testin tarafları, yöntemi ve sonuçlarına ilişkin ayrıntılı bir değerlendirme paylaşılabilecektir. Merkez bankaları ve finansal altyapılar açısından dijital varlık mutabakatında sınır ötesi birlikte çalışabilirlik denemeleri izlenmesi gereken bir başlık olduğundan, gelişmenin ayrıntıları teyit edildiğinde bültenimizde güncellenmiş bilgiyle yer verilecektir. Bu aşamada aktarılan bilgiler yalnızca haber başlığında yer alan ifadelerle sınırlıdır; içerikte yer almayan hiçbir ayrıntıya yer verilmemiştir.",
+  "kaynak": "globalgovfin",
+  "url": "https://www.globalgovernmentfinance.com/project-simbolon-mas-bundesbank-digital-asset-settlement/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Çek Ulusal Bankası geleceğe hazırlık kapsamında tokenize tahvil ihracını test ediyor",
+  "ozet": "Çek Ulusal Bankası, tokenize tahvil ihracına yönelik bir deneme çalışması yürütüyor. Banka bu çalışmayı 'geleceğe hazırlanma' çabasının bir parçası olarak nitelendiriyor. Haberin ayrıntılarına, kaynak sayfaya erişim sağlanamadığı için ulaşılamamıştır.",
+  "haber_metni": "Çek Ulusal Bankası, tokenize tahvil ihracını denemeye başladı. Haber başlığında aktarıldığı üzere banka, söz konusu çalışmayı 'geleceğe hazırlanma' sürecinin bir parçası olarak konumlandırıyor. Bir merkez bankasının tokenizasyon alanında ihraç denemesi yürütmesi, kamu borçlanma araçlarının dağıtık kayıt teknolojileriyle buluşturulmasına yönelik kurumsal ilginin sürdüğüne işaret ediyor.\n\nHaberin yayımlandığı kaynak sayfaya, Cloudflare ile kaynak web sunucusu arasındaki bir bağlantı sorunu nedeniyle erişim sağlanamamıştır. Bu nedenle denemenin kapsamı, kullanılan teknoloji altyapısı, işbirliği yapılan taraflar ve zaman planına ilişkin ayrıntılar bu sayıda doğrulanamamıştır. Kaynak erişilebilir hale geldiğinde konuya ilişkin ayrıntılı bilgilere sonraki bültenlerde yer verilmesi planlanmaktadır. Merkez bankalarının tokenize varlık denemeleri, finansal piyasa altyapılarının geleceğine ilişkin politika tartışmaları açısından takip edilmesi gereken başlıklar arasında yer almaktadır.",
+  "kaynak": "globalgovfin",
+  "url": "https://www.globalgovernmentfinance.com/czech-national-bank-trials-dlt-bonds-prepares-for-future/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Finans liderlerinin gündeminde yapay zeka, dayanıklılık ve güven öne çıkıyor",
+  "ozet": "Finans liderlerinin gündeminde yapay zekanın, operasyonel dayanıklılığın ve güvenin öne çıktığını belirten haberin sayfasına teknik bir hata nedeniyle erişilemedi. Kaynak sitede Cloudflare ile sunucu arasında bağlantı sorunu yaşandığı için haberin ayrıntılı içeriği görüntülenememektedir.",
+  "haber_metni": "\"Oyunun kurallarını değiştiren taraf olmak daha iyi\" başlığıyla yayımlanan haber, yapay zeka, dayanıklılık ve güven konularının finans liderlerinin gündeminde öne çıktığını duyurmaktadır. Ancak haberin yayımlandığı sayfaya erişim sırasında teknik bir sorunla karşılaşılmış ve içeriğin tamamına ulaşılamamıştır. Kaynak sitenin verdiği bilgiye göre sorun, Cloudflare ile haberin barındırıldığı web sunucusu arasındaki bağlantıdan kaynaklanmaktadır ve bu nedenle sayfa görüntülenememektedir.\n\nHata bildiriminde, Cloudflare'in bu tür hataları izlediği ve nedenini otomatik olarak incelediği belirtilmekte; kullanıcılardan birkaç dakika sonra yeniden denemeleri istenmektedir. Ayrıca sorunun çözümüne destek olmak amacıyla ilgili hata kaydının sunucudan alınarak destek ekibine iletilebileceği ve bu bildirimde sayfanın altında yer alan Ray ID bilgisinin paylaşılması gerektiği ifade edilmektedir. Haberin başlığında işaret edilen yapay zeka, dayanıklılık ve güven konularının finans liderlerinin gündemindeki yerine ilişkin ayrıntılar, kaynak içeriğe erişim sağlandığında değerlendirilebilecektir. Bu aşamada haber metninin kendisine dair doğrulanabilir ek bilgi bulunmamaktadır.",
+  "kaynak": "globalgovfin",
+  "url": "https://www.globalgovernmentfinance.com/global-government-finance-summit-2026-ai-resilience-trust-finance-agendas/",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "America's Shipping Ports Now Face Thousands of Cyberattacks Each Day",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Linux çekirdeğinde 11 yıllık NoisyTCP açığı sunucuları uzaktan çökertebiliyor",
-  "ozet": "Güvenlik araştırmacısı Hyunwoo Kim, Linux çekirdeğinin TCP ağ alt sisteminde 11 yıldır bulunan ve CVE-2026-99288 olarak izlenen NoisyTCP açığını duyurdu. Açık, Nginx, Apache veya SSH sunucusu çalıştıran hemen hemen tüm Linux dağıtımlarını etkiliyor ve kimlik doğrulaması gerektirmeden uzaktan sistem çökmesine yol açabiliyor. Yama ana Linux çekirdeğine iki hafta önce eklendi.",
-  "haber_metni": "Güvenlik araştırmacısı Hyunwoo Kim, Linux çekirdeğinin TCP ağ alt sisteminde NULL işaretçi başvurusu zafiyetinden kaynaklanan ve NoisyTCP olarak adlandırılan 11 yıllık bir açık tespit etti. CVE-2026-99288 koduyla izlenen açık, hemen hemen tüm Linux dağıtımlarını etkiliyor; kimlik doğrulaması yapmamış saldırganlar, SYN cookie işleme ile soket karma (hashing) arasındaki zamanlamayı istismar eden özel hazırlanmış TCP paketleriyle, varsayılan yapılandırmada Nginx, Apache veya SSH sunucusu çalıştıran sistemleri uzaktan çökertebiliyor. Saldırı çekirdek panigine ve hizmet kesintisine yol açsa da veri değiştirme veya rastgele kod çalıştırma imkânı sunmuyor. Red Hat güvenlik ekibi, kilitlemesiz soket aramaları sırasındaki yarış koşulu nedeniyle geri dönüştürülen soket belleğine düzgün başlatılmadan erişilebildiğini ve bunun hizmet reddiyle sonuçlandığını açıkladı.\n\nKim, yarış penceresinin dar olduğunu ve sakin bir fiziksel sunucuya karşı açığın tetiklenmesinin uzun sürebileceğini belirtti. Açığın tetiklenmesi için paket işlemenin birden fazla RX kuyruğuna veya RPS ile birden çok işlemciye dağıtılması gerekiyor. Düzeltme iki hafta önce ana Linux çekirdeğine eklendi ve yama hâlihazırda mevcut. Hemen güncelleme yapamayanlara, SYN flood saldırılarına karşı korumayı azaltacak olsa da SYN cookie özelliğini devre dışı bırakmaları ve tek RX kuyruğuna geçerek yarış koşulunu engellemeleri öneriliyor. Kim daha önce mayıs ayında yerel yetki yükseltme açığı Dirty Frag'i, temmuzda ise sanal makineden kaçışa imkân veren 16 yıllık Januscape açığını duyurmuştu.",
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "US disrupts North Korean campaign behind $400 million crypto theft",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "bleepingcomputer",
-  "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Pentagon, Dijital ve Yapay Zeka Ofisini \"Süper Zeka Ofisi\" Olarak Yeniden Adlandırdı",
-  "ozet": "Pentagon, Dijital ve Yapay Zeka Ofisi'ni (CDAO), Başkan Donald Trump'ın federal kurumlara \"yapay zeka\" yerine kullanılmasını talimat verdiği terminolojiye uygun şekilde \"Süper Zeka Ofisi\" olarak yeniden adlandırdı. Değişiklik, resmî iletişimde \"Süper Zeka\" ifadesinin kullanılmasını öngören eylül ayındaki 14434 sayılı başkanlık kararnamesinin ardından geldi; mevcut program ve ortaklıkların kesintisiz süreceği bildirildi.",
-  "haber_metni": "Pentagon, Dijital ve Yapay Zeka Ofisi'ni (CDAO) cuma günü \"Süper Zeka Ofisi\" olarak yeniden adlandırdı. Değişiklik, Başkan Donald Trump'ın eylül ayında imzaladığı ve federal kurumların resmî iletişimlerinde yasaların izin verdiği azami ölçüde \"Süper Zeka\" ve \"SI\" ifadelerini kullanmasını öngören 14434 sayılı başkanlık kararnamesine dayanıyor. Ofisin başında Cameron Stanley, Savaş Bakanlığı Baş Süper Zeka Sorumlusu unvanıyla görevine devam ediyor; Andrew Mapes ise Baş Yardımcı Süper Zeka Sorumlusu olarak görev yapıyor. Stanley, ocak ayında göreve gelmeden önce Amazon Web Services'te ulusal güvenlik dönüşümünü yönetmiş ve daha önce Pentagon'un askeri yapay zeka girişimi Project Maven'a liderlik etmişti.\n\nSavaş Bakanlığı, ofisin kamuya açık kaynaklarını, tedarik bilgilerini ve ortaklık portallarını SI.mil alan adına taşıdı; mevcut programların, ihale süreçlerinin ve savunma ortaklıklarının kesintisiz devam edeceğini açıkladı. Ofisin portföyünde, yapay zeka destekli istihbarat ve hedefleme platformu Maven Smart System ile askeri veriler için merkezi bir platform olan War Data Platform yer alıyor. Stanley, yeniden adlandırmanın bakanlığın yöneliminin açık bir göstergesi olduğunu belirterek deneysel prototip aşamasının geride bırakıldığını söyledi. Trump ekim ayında, Ulusal İstihbarat Direktörü Jay Clayton başkanlığında hükümet genelinde yapay zeka koordinasyonunu üstlenecek \"Süper Zeka Gücü\"nü duyurmuştu; Adalet Bakanlığı da 5 Kasım'da yapay zekayla ilgili hukuki ve cezai yaptırımları koordine edecek kendi Süper Zeka Görev Gücü'nü açıkladı.",
-  "kaynak": "securityweek",
-  "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "therecord",
-  "url": "https://therecord.media/british-government-complacent-foreign-cyber-threats",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "CVE-2026-119618: A Critical Apache HTTP/2 Flaw Can Lead to Remote Code Execution - Bitsight",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Bitsight",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUpTSzNuZFFtQkhTWUhhLUNiSU4zaGpNeUMzWWlScDVMV2MzNXYzNjdsU1EzcE9Obk02bEl1NXFXOUlOUmJRUzFBTE5mMkdWSDFfOWVzbjFKeWpwNzNMcWhIRDBDM1ZMeTloMWlyWi12M0FZRkdYNklUVmEyUi1PblU4cXZldDhPa0ZJVlk1TWdxOW1Xc0QycVl2QzY?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "N-able Disables Cloud Services Following Disclosure of \"Able2Shell\" Exploit Chains - Huntress",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Huntress",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZi1aak4wUHBmZWtmM3NEckJQSzN6RXRTTE9jVlJkM3o2cmFwenFuMkd3WmprQ3N0bGY1NXdFalAxTnVCOWFvWVU2LUFhMnpDaTJVSk9pcGpQV3JIY2pRZlZ1U0VDOHZMMU1rTWVONE9kSFlZeUR5T3hWZEhITFlRZlpUVEVMVE1hUWNfM0RDX1IxYi10V3NYbE5RRDg0VmtfalBITF9ZaFJ6SnA1NHhR?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Microsoft Confirms Active Exploitation Of New Outlook Zero-Day - Forbes",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Forbes",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnFVWVNBeU5JWnJqeUlMNXgwZFZjNTlFOTZ1Rnh0TjhjTGJLTFhxTl9ncnZTNUozUnF2bENxLXdBdm82UkpJYUNZMW1HQUtYTE8tSURmYmgwNUN0dENJa21hWjJHbGU1NWdmT3NKc2xZdWs1Q1kzeVVqMDVTNkJHNnpaa0hwZVZjaEt3eVl6YmxmTmJnLWI0NEQ1ZWdOZUdzeTRmekMzZlRBeWV3R0QtRmxYLTc5UQ?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access - The Hacker News",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "The Hacker News",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2Q2SXBGZ2J0N21BMjFxVVV1TFV0RUlqOXg1THNyVXNHbFlhOHd5VXpSU05OTHZ1UHd4b2FrZG9mdXNweEZDTnlsVjZfU3NoaldVN1VnYnBxdnBaUFotVzNmOWh5b2FBcXdxQ3dtRXJtTVlHX0llUFRlZUZ2ODdrUFhzbw?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Check Point warns of zero-day flaw exploited for root access - BleepingComputer",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "BleepingComputer",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDdXczZjYnJlT3hQZENPczRkdUszdW1OUjBpbzBXY0MxdldCRlBWdGd6ZU13YnZhSXd2dng2bFdfVlB1VTdEZWVRVEl0S256SEVGZ25fZC1tNEtxTzk3NlEtTlJ1V3k3cDh6T0R6d3FocjZ3aXJBMkRxRF9rOVdDWnVPYjBjUmcza2NpLU0xZUJqSEhXR2VETGRza295NENhSnV6bWN4YWljSElJZG04?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "CVE-2026-119618: Critical Apache HTTP/2 Flaw Enables Remote Code Execution - SOC Prime",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "SOC Prime",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2lZQjFteEhkOGIyR2hNekR0TjZXcy1ZblVDS1dIcUxDa0h3R1NlLVMwVGYtMEp0N0EtVXBOeU56bFA1Y1lOb1Q2a2FtUDJ0T2J2V0hpVVJ4Tl9iTzMxeXk4NEhXc29MQUtPRUtmSzNHblBPSDVDRC1iRDdDUndmVDNXY0I2Q3ZpYzFPRS1TTlBseEZSQTZXWHFha2Jzd0tmUnc?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Ivanti Patches Critical SQL Injection Flaw Allowing Remote Code Execution Without Login - GBHackers News",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "GBHackers News",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PZXVYR0pqLXZkRE9MbDlETGxRdXA4bUtpeHJ0T1dmVWJ4VlEzak5CTG5XNXRIZzdMY3BKWGVaOG5wWmExR2tETmpKLUVSRnQxZ1hTaHVEZldQeGlyZTBBVEljZG15cUl1c3F0cFVfR0poLXlPMTZIT9IBeEFVX3lxTE9PZXVYR0pqLXZkRE9MbDlETGxRdXA4bUtpeHJ0T1dmVWJ4VlEzak5CTG5XNXRIZzdMY3BKWGVaOG5wWmExR2tETmpKLUVSRnQxZ1hTaHVEZldQeGlyZTBBVEljZG15cUl1c3F0cFVfR0poLXlPMTZITw?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "Microsoft’s latest email outage turned into a full-blown global cloud crisis - TechCrunch",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "TechCrunch",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVm5FMG02ZTRJVmliZHhfTXRMUk9zaUJVSHhMSDUxank4Wld1aHJ0ck80cFNqV29xTGJKcmgzV0NVWmJRczZlMjdab3N6b28wZEVEYUN3MVl3eWpiQ3FNVGE0V18wVTFabmM0NlFaUGZwR05GdW94ZEcwYXg2NmNwWFRRdFVFV0hCdzIzYklHc0hoRFY3ZkhmWTdtSGVvTkR6X0s2cXc4VUt4NGdFWHc?oc=5",
+  "kaynak": "slashdot",
+  "url": "https://news.slashdot.org/story/26/11/22/2339252/americas-shipping-ports-now-face-thousands-of-cyberattacks-each-day?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "kategori": "genel-bt"
  },
  {
-  "baslik": "Avustralya, zararı önlemeyen yapay zeka şirketleri için ilk cezai suçu değerlendiriyor - Pasquale Pillitteri",
+  "baslik": "OpenAI introduces ChatGPT Wallet to enable AI agents to make purchases - IBS Intelligence",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Pasquale Pillitteri",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGk5ZXljNmFxNW1kQ2JDbmR4UDRiVmRuRzZUOEtMUldocnJtOGhvcDJLRFdfMEVPRGVVWDZpQ1NfM2JjUXQ4Z1I2b29ybHEtRlJtRE4zblVwSm1xQXE5SFg5cnNPZWFrUV9xTnFkV2xTYWNnX0J5Ry1fYXJteFZCVEhLQkpiRlZzZ2g4T05SdkdpMXYx?oc=5",
-  "kategori": "ai-governance"
- },
- {
-  "baslik": "Avrupa Merkez Bankası'ndan uyarı. \"Yapay zeka balonu\" patlıyor mu? - NTV Haber",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "NTV Haber",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON204aGRvQjktUEZ3WC1tUmdnSkdnTVl0Q0E0VjFQa3FYMnJaaFMzWGt6ckhIWE5HSjB6WUJvTFVWOGVKWmV6cm5ZcDdFTzZtSnFTd1Q5SjgyU1UtTHk0bjB1UXJKa3g3ekJpZEZjX05PNUVKU1piVnFYemNtV0xteTVIa2xSTXFodkwzZzIxb2ZuSDkxSFlGVFFWeExaT3PSAaQBQVVfeXFMUFVCRm5CZzRMbHoySTN0WnhxcWcxNm1YT0NiZVdacmsyVjByb25ORldpaFpEVlpKN3UxM1ZxY3pTc2hfM01nS2pCYlA4Y1JKM2NYQV8yckRLcDItX21sRUdxbWM5Vl9RQmRPRDlIQmJSMU83SDJ2dG10dFVRWTNlbG93SnhwZ2Zlck1NUUdSTnRraThiZGRDNWdPaWFKU0lFdXBHSG4?oc=5",
+  "kaynak": "IBS Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWxFaTZQRE5OZ1diM1ljeld6R2xDWTJCT2NJWEdXVU93ODIxS0Q3MzVpdWhUUENlenQ2bjF3OHBLUUZ0bzNoWmNuU0twQlgxcjllMFE3NlBjUi1Fa0NPZ3BQdVpOQndJbVo0ZWtvRGdEbk9Wc21CNXl1V2hTazFwTDRicGJRTERPX0hDX1RHVzk3MTQ2S0tJclJISlNTb1VENmtER00wR2loUkstWVE?oc=5",
   "kategori": "merkez-bankaciligi"
  },
  {
-  "baslik": "Avrupa Merkez Bankası, Yatırımcı Duygusunu Reddit Ve Yapay Zekâyla Ölçüyor - ÇözümPark",
+  "baslik": "StraitsX, OCBC and Standard Chartered Complete Proof of Concept for Tokenized Deposit Interoperability - PANews",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "PANews",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiN05oMDRUYmo1TnVfZmw4R3BpdTlzM1lQZmliOUF5aC1aa01tcnNIdnNZSVhFMW9NYUVGOHhCQnNOUnBzak01aXh0ZEg4NlJBVlg2U3dSblBMYzhHcUFUV19LRFNQUWNOdE9QR29ndkRYekRwT05UMlRCSkdJdVU?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "South Korea issues notice on proposed decree for AI data center act - MLex",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "MLex",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeEUyOF96VFIzSkFIMHVUYzdyNUFsamxJN2h2N3RuVEdYOWh3UFdIakxrdlRaQW80OHNDVzB1cGxuNkstYXRMMFhveDd5aFc1X0lFQ1g0NUdWOWFlS1FGWDR3eUkyODBfLWdQWGxCX3JQMkplMkJkWG1telFGeXdaOElIREhDb19wbkhFSGxRUzZsMFFnOWJHMXc1TnB1Q2NUb3VzelQyb0Z0Tk5CZjFvRG0zU2pHb1h0X1U2VlJLS21jbFkyaE1hQjNSQUdTVVnSAVpBVV95cUxPdnlYWG90XzNWYVdWaWZ6N1E2UGUxUVpZNXN3aXN0ZzJmR3lBNmpzUzg0c0VkSktBRFFNZDdqQTRxTHJVM1BVZ0x0X1BCUDRyXzhVVTNOdGp4eXc?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "AI leaders call on Congress to put more emphasis on cybersecurity - MLex",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "MLex",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXBPTHJmTEtxV1V1NllhZnIzWlBFTl9QV0JQcEhiWWdrbC1vYl9ZYnBCYnkxVGVUNXRQV3AxblJYNjBFRS15VXAySTV5bHdxbWVPTlhZc0h5SFo0eHV6NEU5N2pmNnFJN2Y0QmhYRzRHRkNibkZUWEdSQ3ViVVFvNkdBMTV4bnBUY2o4OUZCeE42dWsyMXRlN1dmYmVDSXdHTzZpcTRnLVozVUlI0gFaQVVfeXFMTjZYendlQWlqamE2ZkU4TXJ1RUtteHFJSDdEeW9pbmJlTGFzT21BbEJVSEh4VEcwUjJ0eWRHVnc0OUdKUzdoSTJWVmIwTzk5dVpGRnVCRXhPNzBB?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "xAI, Calif. pressed by US appeals court over AI data-disclosure law - MLex",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "MLex",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNak1EV0hLTmJsYU8zTEV5bmhVOXp1SlBKX2NKTWUtU0VBcUxyclBhc1dZRko0V2RqOXFNT0tIdGdOb2xHTEljdHY3Q1FOenBKX3JGUzA4QmRJMHRaRWdMT3labElvVEJOMlpuVHZnYXh5YzNFSmtPOFZEZkotOWR3aW15NW1iRERlMXdTODVEMnpWS0hEc212RUFYcHZEdTYyVjRpVXJPUHNQRWlPMEdUdy03aFVuLXBzZ3dQQjBfN0tzYmY3TlhhREFTYjR0Rjd0Z0FkdWp1bHY5enNqM3ZOQg?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "Credit risk at a crossroads: private credit transparency and the limits of AI - Risk.net",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Risk.net",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN2FyMnhtbVQzQ1RZRlZsdk5qSllWeE56TlZMVVY5SlRPQnJ5cjJUQm1RX0x2UVpaZVRRRGZzaURQN2ZmVEdEOVU3NnV6LTZzQnBscXptWlZhY1MtX2Y4QWF4eHBxeW9oX0RwZmt6WDJ4LXNJbXppUTdjODRtaExyeWRCNUEwWDNGRE9kN1hqVEp4MnRHdDF2M3E3YmU2bmVmZV8wRi05N2ZlcnBiOW1OTDYzZldBRHR3aHZZZzlTWHIyNnZubFJmU2M2cjBnWEJjel9z?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Araştırmacılar tek bir kötü amaçlı web sayfasıyla Meta Muse'un bulut sistemini ele geçirdi",
+  "ozet": "Güvenlik firması NebuSec, Meta'nın kişisel yapay zeka asistanı Muse'da, kötü amaçlı bir web sayfası aracılığıyla kullanıcının özel konuşmalarına ve kayıtlı hafızasına onay istemi gösterilmeden erişilebildiğini laboratuvar ortamında gösterdi. Zincirleme açıklarla kullanıcının bulut makinesinin tam kontrolü ele geçirildi; firma, tespit edilen tüm zafiyetlerin yayından önce Muse ekibince giderildiğini bildirdi.",
+  "haber_metni": "Güvenlik firması NebuSec, Meta'nın 8 Eylül'de kullanıma sunulan kişisel yapay zeka asistanı Muse'a yönelik bir laboratuvar gösteriminde, asistanın açtığı kötü amaçlı bir web sayfasının kullanıcının konuşma geçmişini ve kayıtlı hafızasını herhangi bir onay istemi göstermeden harici bir sunucuya aktarabildiğini ve değiştirebildiğini ortaya koydu. Araştırmacılar buradan ilerleyerek Muse'un PDF oluşturma gibi görevlerde kullandığı yerleşik tarayıcıdaki bir açığı bir Linux çekirdeği zafiyetiyle zincirledi ve kullanıcıya ait bulut makinesinin tam kontrolünü ele geçirdi. Bu erişim, Muse'un güvenlik tasarımında ajandan yalıtılması öngörülen kimlik bilgisi deposuna, kayıtlı dosyalara ve izleme katmanı Sentinel'e kadar uzandı. Saldırı tek bir makineyle sınırlı kaldı; araştırmacılar alttaki paylaşımlı sunucuya veya diğer kullanıcıların makinelerine geçmedi.\n\nMuse, ajanın saldırı altında olabileceği varsayımıyla tasarlanmış ve her kullanıcının asistanı ayrı bir bulut bilgisayarda çalışacak şekilde yapılandırılmıştı. Firmaya göre bu kontrollerin her biri tasarlandığı gibi çalıştı; buna rağmen saldırı zinciri baştan sona tamamlandı. NebuSec, bulguları Muse ekibine bildirdiğini ve tüm açıkların yayından önce kapatıldığını açıkladı. Meta ise düzeltmeleri kamuoyuna doğrulamadı ve çalışma hakkında görüş bildirmedi; raporda yamalar öncesinde herhangi bir kullanıcı verisine erişilip erişilmediğine dair bilgi yer almıyor. Söz konusu araştırma, yalnızca cihazdaki mevcut kötü amaçlı yazılımın asistanı ele geçirmesine imkân veren eylül ayındaki önceki Muse açığından farklı olarak, asistanın arkasındaki bulut sistemine sızılmasıyla ayrışıyor.",
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "CISA, aktif istismar edilen dört kritik güvenlik açığını KEV kataloğuna ekledi",
+  "ozet": "ABD Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), Apache Roller, Cisco Expressway, SAP NetWeaver ve VMware vCenter ürünlerini etkileyen dört güvenlik açığını, aktif istismar kanıtlarına dayanarak Bilinen İstismar Edilen Açıklar (KEV) kataloğuna ekledi. VMware vCenter açığının Çin bağlantılı olduğundan şüphelenilen bir siber casusluk grubu tarafından kullanıldığı değerlendiriliyor. Federal kurumlara açıkların 23 Kasım 2026'ya kadar kapatılması talimatı verildi.",
+  "haber_metni": "ABD Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), aktif istismar edildiğine dair kanıtlar bulunduğunu belirterek dört güvenlik açığını KEV kataloğuna ekledi. Söz konusu açıklar; Apache Roller'da kimlik doğrulaması öncesinde XML-RPC uç noktası üzerinden uzaktan kod çalıştırılmasına imkân veren bir seri durumdan çıkarma açığı (CVE-2026-129448, CVSS 9.8), Cisco Expressway serisinde sabit kodlanmış kimlik bilgileri nedeniyle root yetkisiyle komut çalıştırılmasına yol açabilen bir açık (CVE-2026-76466, CVSS 9.8), SAP NetWeaver Enterprise Portal'da sunucu bilgilerinin ifşasına veya değiştirilmesine imkân veren bir enjeksiyon açığı (CVE-2025-42884, CVSS 6.5) ve VMware vCenter'da kimlik doğrulamasının atlatılmasını sağlayan bir açıktan (CVE-2026-123890, CVSS 9.8) oluşuyor.\n\nVMware vCenter açığının istismarı, Armory Castle (eski adıyla UNC5221) olarak izlenen ve Çin bağlantılı olduğundan şüphelenilen bir siber casusluk grubuyla ilişkilendirildi. Grubun bu açığı, BeyondTrust Remote Support'taki yamalanmış bir açıkla (CVE-2026-102764) birlikte kullanarak kalıcı erişim ve veri hırsızlığı amaçlı özel arka kapılar yerleştirdiği belirtiliyor. Cisco Expressway açığının ise kavram kanıtı istismar kodunun yayımlanmasının ardından bir Rus kuruluşuna sızmak için kullanıldığı F6 tarafından raporlandı; bu faaliyet herhangi bir tehdit aktörüne atfedilmedi. SAP açığının aktif istismarına ilişkin kamuya açık bir rapor henüz bulunmuyor. Federal Sivil Yürütme Organı kurumlarının, BOD 26-04 sayılı bağlayıcı direktif kapsamında dört açığı da 23 Kasım 2026'ya kadar yamalamaları istendi.",
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "bleepingcomputer",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "bleepingcomputer",
+  "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Microsoft Entra Connect Health açığı kiracı verilerinin sızmasına yol açtı",
+  "ozet": "Microsoft, Entra Connect Health hizmetindeki bir güvenlik açığının istismar edilmesi sonucu yönetici e-posta adresleri ve kiracı yapılandırma bilgilerine yetkisiz erişim sağlandığını açıkladı. Şirket, 19 Kasım 2026'da sunucu tarafında düzeltme uyguladı ve etkilenen kuruluşları bilgilendirmeye başladı. Açık kapsamında parolalar, kimlik doğrulama belirteçleri veya geçerli kriptografik anahtarlar ifşa olmadı.",
+  "haber_metni": "Microsoft, şirket içi kimlik altyapısının izlenmesine imkân veren bulut tabanlı Entra Connect Health hizmetinin API'sinde tespit edilen bir güvenlik açığının istismar edildiğini ve saldırganların kiracı düzeyinde meta verilere yetkisiz salt okunur erişim sağladığını duyurdu. Şirketin açıklamasına göre açık 23 Temmuz'da ortaya çıktı, 9 Kasım 2026'da tespit edildi ve soruşturma 20 Kasım'da tamamlandı. İfşa olan bilgiler arasında kiracı teknik irtibat kişileri ile yönetici hesaplarına ait e-posta adresleri, kiracı kimlikleri, alan adları, ülke ve bölge bilgileri, Entra lisans kademeleri, dizin eşitleme durumu ve 2024 sonunda devre dışı bırakılan bir iç hizmete ait süresi dolmuş bir sertifika yer alıyor. Microsoft, kullanıcı parolaları, parola özetleri, kimlik doğrulama belirteçleri, geçerli kriptografik anahtarlar ve Active Directory topoloji bilgilerinin etkilenmediğini, yetkisiz yapılandırma değişikliği de tespit edilmediğini belirtti.\n\nŞirket, 19 Kasım'da sunucu tarafında düzeltme uygulayarak istismarın önüne geçtiğini ve müşteri tarafında ek bir yama veya işlem gerekmediğini bildirdi. Bununla birlikte kuruluşlara, ifşa olan yönetici e-posta adreslerini hedef alabilecek oltalama ve sosyal mühendislik saldırılarına karşı güvenlik ekiplerini uyarmaları, ayrıcalıklı hesaplarda oltalamaya dirençli çok faktörlü kimlik doğrulama kullanmaları, Connect Health yapılandırmalarını gözden geçirmeleri ve Entra denetim kayıtlarını incelemeleri önerildi. Microsoft, saldırının kim tarafından yapıldığını, kaç kiracının etkilendiğini ve saldırıların ne zaman başladığını açıklamadı; etkilenen müşterilerin Azure Service Health üzerinden bilgilendirildiğini doğruladı.",
+  "kaynak": "bleepingcomputer",
+  "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "bleepingcomputer",
+  "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "securityweek",
+  "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "therecord",
+  "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "NSA, PHP yamalarının yol açtığı iç ağ kesintisinin ardından normal operasyonlara döndü",
+  "ozet": "ABD Ulusal Güvenlik Ajansı (NSA), yaygın kullanılan programlama dili PHP'ye uygulanan yamaların iç iletişim ağı NSANet'i çökertmesinin ardından büyük ölçüde normal çalışma düzenine döndü. Yetkililer, üç gün süren kesintinin bir siber saldırıdan kaynaklanmadığını ve istihbarat operasyonlarını olumsuz etkilemediğini belirtti.",
+  "haber_metni": "ABD Ulusal Güvenlik Ajansı (NSA), çalışanların gizli bilgileri kurum içinde paylaşmasını sağlayan NSANet ağında üç gün süren kesintilerin ardından büyük ölçüde olağan çalışma düzenine döndü. Bir NSA sözcüsü kurumun 'normal koşullar altında' faaliyet gösterdiğini doğruladı. Bununla birlikte, çalışanlara yönelik cuma sabahı yayımlanan sesli mesaj kaydına göre kurum 'istisnalarla birlikte normal koşullarda' çalışıyor; bazı tesisler zorunlu olmayan personel için 'Turuncu Kod' uygulamasını sürdürüyor. Bu kapsamda söz konusu tesislerde açılışlar gecikmeli yapılıyor ve bazı çalışanların amirlerine bildirimde bulunması gerekiyor. Kesintiler, yaygın kullanılan programlama dili PHP'yi etkileyen bakım çalışmalarına bağlandı. Ulusal İstihbarat Direktörü Jay Clayton, hafta içinde verdiği bir televizyon röportajında yama işlemlerinin ardından bazı sistemlerin beklendiği gibi yeniden devreye girmediğini açıkladı.\n\nNSA Georgia tesisinde de iş yeri aksaklıkları yaşandı; ancak duruma hâkim iki kaynağa göre bu tesisteki Orta Doğu odaklı istihbarat operasyonları olumsuz etkilenmedi. Aynı kaynaklara göre kesintiler, Başkan Donald Trump'ın Çin ve Rusya liderleriyle görüştüğü Asya ziyaretine NSA'in sağladığı desteği de engellemedi. Yönetim yetkilileri, kurumdaki sorunların bir siber saldırı sonucu olmadığını ve son günlerde Microsoft ürünlerini, havayolu seyahatlerini ve çevrim içi bankacılık hizmetlerini etkileyen diğer bilişim sorunlarıyla bağlantılı bulunmadığını vurguladı.",
+  "kaynak": "therecord",
+  "url": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know - wiz.io",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "wiz.io",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnNlRlhFUlJ6VmcweG5MWkpTZ2I1aGY3S0pQeEhNZ2xlNXJNVVlNeUdSUVRPUi0xa2FGUW90d3E5ODhYZlgzQWZIWGxpRV9hOVExcG1zOVZpeDhRWkFYNGtObnA4X2s3Z19XTFFRSVlIeElsSTZCdUdKVjR2b09xNTVSN2J5WVJQbVlNTjBRVQ?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required - The Hacker News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "The Hacker News",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0xzTUVSWk5pdzY3ai1NcE5uOTdLTzV3aGtZUi1HSktPSmxTWThRamMwajd3S1N5c0VpZGVyalo2d0lLN0V4Mk5Id09sX3NnVVh4QWR5VWxPLW5rQXFzVUxYSl92cXNpVlVTX2hFMWM5N0FDM0VCVERXZjQtZU5IQnJ3?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "PHP plagued by critical RCE vulnerabilities again as security patches released for all branches - Cybernews",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Cybernews",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2ZtYXVva1BFdEdxOTF5RGNnazJlZDNuVXVpTlZhY1ppaEYwTGJJZ2ZSTmFPVUI0Zk41Y1pTTW1fX290UG4wNTN3ZkNCQUlkNXhKcjZtTDRPMk4tY0dqMkl4SlM2NWhDeGVPMGRqdUh0TkoyS21ZLVcxY1g5dWg0ZEhKMThVZUhK?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Critical Remote Code Execution Vulnerability in nginx Rated CVSS 9.2; Patched Version Released, Urgent Update Required - BigGo Finance",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRSzN6OGNkdTVLeHpSa3JMY0l6Vi1ucVlGVkF5V04xSDhiTVpmbmJlbmtYU19wWmxCMzZRcXRMMy1jN05ENnFKbmxpbFB2bEgtVFQ5ZTdIQkF5R1ZWTUtpaTZoRlRyUUs0QzQ0YURHcjVfZk1UWXc?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "PHP Releases Patches to Fix 18 Vulnerabilities - Infosecurity Magazine",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Infosecurity Magazine",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rWVZyQU1WNXpPaDF4TkhjWkxZR0JCOV8zMGh2WFpIT2JqYlYySGNVb0twb2V0WVBVSmtwdTJhOXlTaXE0N18zMXlLbDdSZUZnYm9KNXE3Wm1GYU9jQTV2aU9oZ2NCdl9rUjlpY0JaQThsRHo3TWlENVZMRQ?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "BTCPay Server Issues Emergency Update Patching Five Nginx Security Flaws: 6 outlets compared - NewsCord",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "NewsCord",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2huWktIZEpDVm05cWtBcVNIQnliTC0zWVFuOTBaMlh1SDQ2TFVlVWRsNlJzZVk2YzBPSDh6NmVpNzYzNGZlRFJjZEsyaDZxWEwyUHI5cDdaTS1ubXRwY2RpYzNiN2E5RXp2WFpYLU9fTnhzSE5jQjNGVXh0cUYzMy1xX2s1bzdQaWxHbXNJLXFUTUoxYlZJaXV1b0x6V1hmYzZxUzYwVEUyMDVoaEZiZjFWSkVrNlpzSjk5eUZuOHVXQ2ZwRUlSV1h0bmJDVUxGMjFFZ0p4a3R6dnprY1cw?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Patch now! CISA, Oracle, and experts recommend urgent action over critical Java 17 RCE vulnerability - Cyber Daily",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Cyber Daily",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3pWVFFJTjl4SHVLS2xublV6TTZZSU91VDdUT1dtcElYWV92bEFIRk50M3BxeTdLb2w4bzBVSWM3blN6bUFsbjBtUlprZnc5MGlsTzZHaHNkUFNxaXc5ZHdENmVCYVVBWVhlS241WUZyV1d6YWZKbUhGOVJQNHdHQUkzaFlEbXRnbk1aWXVyUXZyY1FWWFBtTEN5SUVPVTJfb0Z0a25ielpVanl4ZlJWRGRuRGJPOTJHdkh0RmxYME9DUEpRUjMtUjgycEdqNjZNdXVlNjhSRDdZTm5KLXRpZA?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500 - The Record from Recorded Future News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "The Record from Recorded Future News",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIVE54WHdkdmRpak54Qy1zbWZCZE4yYVZkeTVJemJtckdmZEo4ajJSX005SFFRSXpXM2oyZlI1aUI3YWFkSHh1OHpNbzZRSEtYVXhJRGZlckg4RUhiTGdsWXN3?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "CISA Urges Immediate Patching of Java4Shell, a Critical Memory-Corruption Flaw in OpenJDK - Glitchwire",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Glitchwire",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXh4R215SHE0Zlg0T3p2WktYaU05SWhXTjBTQ181dnZmalFtaEtyWTREYngtYUZ3WklOX3ZDNFRUb3haR1BOWTlDOTlZZXltdjBvekZiNGxyV3hpSWRhamE0bDBkaV9QbHJiT1FwZXhsLWtwNnpDU04tRGlSVzkxdkJ0UEduc2Z1c3pPRDlVWTV2YnJ1RGdkdFg2ZEhvZXdrOXdCRExETjhfU21ncGc?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Microsoft Outage Chaos Exposes The Risks Of Relying On One Cloud Provider - Forbes",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnpIOFhXdzVxenFUYmF1anpLbmpPeEV6aVFQbTlrOHVKUTlaTjRLYXB1NXRXMTl5ZnRFRHFXYUxvYklOTnBoeUxQamM5aW44Sks0TWhkY1l6WFlkZGZsOGRSeHp1a2xoU3JhTVBOZFprVHVYbEtjLTBScTNZZEYwYW5vbTV3aTNJTW00N0R2aFpfLTg4Y0dNYUNXM2NnS0ZyakJXUmUtV3lHMVFiQ2JkWi1YbUJJWUx6SHA4?oc=5",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "OpenSSL’de Kritik Güvenlik Açığı Bulundu - ÇözümPark",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "ÇözümPark",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR3WTBCcFZxVTk5SURmcmNPWmtIaS00TTllS29GQV9oOC1HOE1BQ2QyOS1KY0RZSTRCaVV0YUFkSURHUjVjclg4NXBOd3N1LTE1ZmRmX1dVcFNKTUdmQ004NWFELUtkbmNibElleTJfdGx3M3hJVlprTXRaX1FiUmhia2U1WVJrLXFJMGc0WndwVjVPTEFISHd1YVpXYkduUXc?oc=5",
-  "kategori": "merkez-bankaciligi"
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZW9lVnJ6R1VLeFcyNXBtckJBTWFTaUJWd29aeFNzbU5qN1ZFSVNvRnpxMWVPem1tbEhIM3J3dXozeEhHaHczbTlkb3AtR0dPNElhbzk1UU5fbTNvTDhvTlFpVmJxRV9DVUpZNFR6emtOTkhj?oc=5",
+  "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "G7, bankalara yönelik yapay zekâ saldırı tatbikatlarına hazırlanıyor - Pasquale Pillitteri",
+  "baslik": "Windows 11’de Kritik Güvenlik Açığı: SignDrop Saldırganlara SYSTEM Yetkisi Verebiliyor - NuvemMag",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "NuvemMag",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVm1fZThyZk1na3I3a05zSUNTaldIZV90NXFNUG5CX0ZrNE50Y204VUNyM2xjemY5Y05LQ0E2VFc3U1RRTl9xOXRLOVR5Y25BakRReFRtZldUYXFyem4wQUY0dzdjNHdFNXpKdUsyVXAzcHE4WGFRd2lVRUNMX0FXOWl0dkM0ZENOVThScnZLeFlYeUlxY3ZHRDZKVkNhRHQ5SzVsMWcyYVhsUQ?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "PHP’deki Kritik Güvenlik Açığı Sunucuları Hedef Hâline Getirdi - Donanım Günlüğü",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Donanım Günlüğü",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcEwybGltc0hPeWR4ODg4T1l5Zm1DZ3hvQXNDZmoxUFFXbjdLQl9EeFlBTXpCaHZCYmN3TnM5TzNiOEx2V2pkZmRwWkFFZkY1ZXo3cTV0a3Y3em53bU05T1pVcFByLV9qNmlET0ZTVTY3dWVNM1Z2bWlHOXhoNjg?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "GPGME'de kritik güvenlik açığı CVE-2026-129975, kötü amaçlı OpenPGP anahtarlarıyla tetikleniyor - Pasquale Pillitteri",
   "ozet": null,
   "haber_metni": null,
   "kaynak": "Pasquale Pillitteri",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjdZMXFlZWcta1dDUmZzVnFITjNzOGhyT21FZHJycTZ2U3dkejItVUk3MUdfamRFSHhtcDZkbXcyQlRFQkRFM3RZMUYzdUcyU2tHRExxM3F5U0YyVE11U2RDc1ViUko1ai1YWUNoTHFlU0h4cmp1NWdnNFgzNC1ubGRkX3poOVcyZ3FNZTRhYUg3dw?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "HOLLANDA’DA SİBER SALDIRI ALARMI: \"EVİNİZDE NAKİT BULUNDURUN, İKİNCİ BANKA HESABI AÇIN\" - Platform Dergisi",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Platform Dergisi",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSElIM3ZPRVFYV29mRXIyal83VnBLdFp6TXdvN2RWVlJsYXBtTmR0OUNINzlKSElPdmRPT0I5ZjhnNnVqa3N5Y0cyRVZEcTFSMlJ0UXl1NHJIa0pqOENIM3JJejQtbm9fblAxMWwwWXc4XzVzYlZ5YlpUQ3ZnY2R4NjZvcU5fLThPeUsweFRsSEg5UDFfT3dfak5haEdIUkEtV2tXRlFzaTd6T0FiUGlRakloeEJkckJ3NU9neW13UWdfUzFvSE9pUWhJeEJTTDJp?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTMyV0FLcV95YjFqdFFTZTBXOGNfNmlWbG1uUWE1dnBVVWNIS3RLTXBsd2k5M2x0NmR3emZnVUduQmRkR1ZBdWR4cVVLcEVPUm9ETUZ6N19uVTAzWnJqYjQydmd1Yi1YbFQ2b3BiM0k0c24xOEZXX1JzdTNDenVOaXNIN1NnQlVwc2l4N1hqSVdRSGZMT0V4MGd6MXBNdFhCaFhZd053aE8wYnc?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Bộ trưởng KHCN cảnh báo các cuộc tấn công ngân hàng sử dụng AI - Vietnam.vn",
+  "baslik": "İngiliz Parlamentosu’ndan yapay zeka yasası çağrısı - TRT Haber",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Vietnam.vn",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUQ0RTBKVF9DYjBadkpOOVYtZFY3TU5sNk1iMEFYMUQtTWxyNmhUczVFdUNlZ2pXZFdrVWhUa2tPLWNyVFotaXNqM1NSY3BUdW02eVhFUllFRzdESnh2TU82V0JIWEEtbFR4NVA0MWFLazBicUVDTzdKMjkyTXVYSGxqbjhiUWVDTklyRUZ4VFZfUQ?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "n0n grubu Visa, Mastercard ve JPMorgan Chase'e saldırdığını iddia etti - Pasquale Pillitteri",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Pasquale Pillitteri",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmM5V1ZBa1FCa3EwdktGcmpfcHZ6T1BERjEyaTJqOE9jajJaRUR6LWoxdlpzVGdWSFA3UDNmVHo1MHJqa0JXUjBzeUVJdF9iUmloT2NwaTZTeGVVcF9VcE5aZi1NMUlETXVPcUc2ZERaTGYyOElwMVF6cnZ3WGVrY1VHLWhtbDZxWHZjN05LclRHaXZBdlFVODBOVjNXak5hazVDVg?oc=5",
-  "kategori": "siber-guvenlik"
- },
- {
-  "baslik": "En büyük kuantum bilgisayarı “ARF-Kuantum” TÜBİTAK bünyesinde kuruluyor - Bigpara",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Bigpara",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMkF4bnJtZFUyM0R6TW9EMkhQNzlHSFFwY1lRazFfVTNrb0R4RUxuSzlXNnJfdS1XcGNEajZLQ0pwclZRajJ4d0pjc3h2SUlLb1JyWktiTUJYaFBBRWx0N0NwVkV6NDRrb2p1c1U5Sm5MZ3dDcVp4bDhseWRGS2dpS21OTVY5T09PUkZXSjhJWHFmQzZSUnZjbHRNVTVKU09UQzQteE81ZUE3eDFzaF82NlNrUmZZN1RVbldRbDhCeW1aT2QtQm5Rdl9rQU5ndnNydEd5bC1DaUpsaVU?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "ECB’s Vujcic Warns AI and High Debt Threaten Financial Stability - Bloomberg",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0JRT2RFUk95LURkYWVrOGZ3ZTBsbElvZVlYemFBLXFad1hRMHVnTjhOX0tOZ0dvRTRvWWRuMGhGVGoyUGtrdG5NcFZtdkl2aDNBdzNleFVxd0RxQWxBN0MtejhLa21ZVGFpY1Bwa2g5QUZrXzNGRHJHdlNXWUdWU2t5YzV3VDdpc2ZUNWRCQjlfOUVwQzlwbWZTc25famsyWXJTNTFQM1NQSlNHR1B0cW1qRDVKQQ?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Australia's central bank finds AI hitting young workers first, especially in software and customer service - The Decoder",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "The Decoder",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTBfZW04SGp2ZzBaMFV4WnJqaFJUQ0ZMejlhM3EwYjZqcEo4b2RsR3JTSFFGdmNrdUc0MTZwMjZsZW9sN3RzWnZDam9pRGl1M1c1dTRQV21WQ0lWZEIxUnRreTZ4UVg2SG9JZnhpQjlucnVrSFB3dS00YjR6SlBQUElNNXZIZGdVSUlZMk9QN2kxaGJuMkFRZ3RHZDZMbHFKRTh4THRoTUV4bjNKTThDWFRJdW0wNjFpeU9kRmFfcE4xUkgyV0RzTw?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Bundesbank, MAS test cross-border CBDC payments that reduce risk of settlement failure - CoinDesk",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "CoinDesk",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGZkd3g2NFN3cVVRWmZ1dHZxaVljdkVKa2hHX01talhaX1N1NWh2a1pmdkZmOGRtVUcxX2l3VDB1REN5cGd3b25kTU9rYWdxOVFlYzRiVW5lSjFMRFdKenV2d2pNUjF5ek9GUDFIVENBNm5uSmxtQkRtM1NIaWZuZHVoMTBiSlRoUlV5R25XcFplVnhCNEpBQ0htYjJCTUl3TEFITXgtTWZsdHFpYTFfQ3UyUHFHZw?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "ECB presses ahead amid wider CBDC second thoughts - Asset Publishing and Research",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Asset Publishing and Research",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTBralhtdllxeUhCTVI0M3JfSEpwYURxeHoxemNqYm05VnV3Y1laVG9wUEROR0Vaa0dMNDAxS0s5cWtoR2owUnZYMXloa0ZJRUR0RHU4V2otSmVHS1NTMkxiN1hvVFZHc3RyOFQ2UTJsWjJ1a0FDdWFiN2FlVW1fOHpkX0c4NU1pNXlyazJYVHZVZw?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "Indian Overseas Bank launches CBDC app for Digital Rupee transactions - TradingView",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "TradingView",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN19VZ1pFLTE0dzRManRGSm5CQktnOHl0NUFtZkhWM1dGVTQ3RzNHbEY3OUdzdlI4MEVERVJ1RHIyaEVlLUNpVFlSRGdna0pSV1NfN2lfRFR1ai1QQUJ5NmdYU0R2ajY0SjFPZTd1akRIbGtveVpvaTBWbDZwcmYzTExlTWE0Zjc1SlhZbEozR0tkV1JYSTF2ekRiRC1rSWk4ZDY3bU9fWDZ6cl9DYmdRanBzcWg2VFV0clVXRmczV3FmMVdD?oc=5",
-  "kategori": "merkez-bankaciligi"
- },
- {
-  "baslik": "GSA Seeks Industry Input on Post-Quantum Cryptography Readiness - ExecutiveGov",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "ExecutiveGov",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVI1SXpqbWJJZEJFV003QXMxRy1Pd2hNRU9UZWs3RE5VMXBuanYyUHRCUWZOdmhRb1RwelNRcV9ySmlyRUhkb3JBTjd2Rmo3NTYzN0tQWEYtNXZrTDJGVm5zRHo3V3daZlNPVUt2WGhZTUdNYnQwRktnS05FWXd2X1drdkN6eDN3?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "Quantum XChange Phio TX Becomes First Post-Quantum Cryptographic Management Platform to Earn EUCC Certification - Quantum Computing Report",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Quantum Computing Report",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmctUDBCNkFQN1gxWnJfY281OXVUMlR0WDducllhRHdUT01rMUFsMFBMMXR5anpVOUpRei1TZ2lNVHFGQ21rdF9ucTNZQVVpUXBnRFNXWWZVdEFKZ0FZeExadkdzWUJseVZ6c3c5TmpqVl9hdTFRQlFZSEFHNHB0cVJtaTA1TFphckVOUlppVVhydlJUUHlEN2dlZzB3bGh6VVJqVXF3dXJuNEpqRWVCV242LUstbnRrSnZYN2dsZVNMUHZWa0VwdjRTbGJaUGV5MkFEMmNReC1YU1dGc1FhcNIB5gFBVV95cUxPM2ctVmYxNk1ERkkwMlJVTGo0VTdObkRIQlpIV2kzTWxaUThjV3VGSlA2d0tCWGtJVVNqa1dYSGxYMlhNT2RQaXE5T3dua1hTamNlLU1JamNvakJNeEVaTDItRExpdzdOQUxkUF9jWHBWcGlqQngzeTRDaU92b3NybXhPTXE3dTZGYUpmXzZJZ3ZxS3JDaFFNSWNKTUlvV29aT3J0cXdmc1dwMnBoTEQ1aDFzQm15NHdZN0pJdzVyMG1mOGluTmctTmlqQXFUUmxZUVQtblJyU1NDc3Q5NHlfSXlYbWl5QQ?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "NASCIO: States shouldn’t wait to start preparing for cyber risks posed by quantum computing - StateScoop",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "StateScoop",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHE5M0p2eHFObjctd1FVdzZWSzFLWjBKVW5YQXZrSF9GQkFBOFVsaDgwZ1JlYU5HZDFWdnlKd29pbFRIOF82c2ppTUJMekZhNGthTmV5NjZjNUY1cmlYVFJMay1CN0p5ejA0MnFwTmRSMEtiSnhyT0FJZm5XX2g4d0FUZHdESmpjWGVqck9ESUF3bTNFZU9keTdFVjhLUnljdTZsc0lsSVY1SDV0eHRISlpjOA?oc=5",
-  "kategori": "kuantum"
- },
- {
-  "baslik": "Australia tightens AI oversight rules after OpenAI government breach - Al Jazeera",
-  "ozet": null,
-  "haber_metni": null,
-  "kaynak": "Al Jazeera",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmdiWHo0N0RhNnE1MEVZYlA3NU82VF83YUZRalVqRnYwZmlSVG1uSXVYYWt1bW5lMHNxaEJiNzhKUFd0cEZfdFo3ZFBjUUVKajl0T0c4SlRQdVpzSU5uM0RzdmtxOU5najk0eG5KcTRDWTZmRmhJT3llYjB5VnA5QkhvSmFjNklFU2pkVkR0eEJPOEx4TDZnZlhTd3NVLXh1UE9NeXluTmZHaEpwZ2s40gG0AUFVX3lxTE56dThZc2hOQlMtNk9uY2RtbW5tYk5GYmpKY0ZYV3lkaDVrUmtRejBhWGZJNEotajVxYUpBQnJmSXJFV29vMzVnWl9YUXhJZ3VDMDRqYTFDMzIzRHNqeDZMNnZtZG9SNmctblZxbUUtLVNONEFZcWhfUjJ3ZDlMQm9sbnkzb0hpWjNaU1pzUml1MW1PZ3RtRmlOa1h4VmkzMnRkMDhRZDFaZGRlZUNfckFEeUo3VQ?oc=5",
+  "kaynak": "TRT Haber",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWMyUDBFdHhnMjB1V1lVbVU1X3lGd08wRnEzME1fZWFRbGdoVnkzOTNDZXpKWXlKNzJOMjJWc05wRnc1TENGdDlBSUJDT050U0pUbEtNUTFNa2xCQmNpdmJKRXB1V3JpbTdiVElKMURta3lGMVlCcDV1R2d4MTBkOXZVeURRdG02bEdpMk1MZk1CcGVhTUVCX1VqRHc2Nk1m?oc=5",
   "kategori": "ai-governance"
  },
  {
-  "baslik": "Financially motivated threat cluster uses AI-enabled tools against banking sector - Cybersecurity Dive",
+  "baslik": "Vietnam Merkez Bankası ve Kamu Güvenliği Bakanlığı, bankalardan siber saldırılara karşı müdahale kapasitelerini artırmalarını istedi. - Vietnam.vn",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Cybersecurity Dive",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHNRRFp6T1ZqTG5pUmFqVWN5Z3JzUkJ3RlZLSTBObGRuelBDSzZhcHFINFZTMldPUmg3NHl3NWlXZVBiN0FJSDFPOW9QSWZCcE1Ta0x1Z2FkUjZNcUR5aFBIVWd0dER2RF8ySjJFUUpRQVM2V09wTVZpWjR0SEp0YzBoVnhXR3Q3aV8zbERTVUVoVzd1ODBFbl8zWmhxZmc?oc=5",
+  "kaynak": "Vietnam.vn",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1ZFSG9BdWxaM3RiZnFwTXZOam1DV3pwV1E1SEJFZFhfdGhhUGNCLXhUTlk4YWVyRVlFUlJZVzk2UU1najktXzJENXZOcHpfYXRHZmU3MktzajdmeGducmJQQm1JdjA3YThaUmN4T0hqZ1U0VkhsMFd1djRpaUVKQnpwcTZPZkRKT0UxektXdHhOTzM2MGFHTjZfNUxlS29rc3lSZjl1dE5KNGNxRWZYbHZLSTl1ckFC?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Dutch financial watchdog warns cyberattacks on banks are a question of when, not if - NL Times",
+  "baslik": "IOSCO: Kuantum bilgisayarlar finansal şifrelemeyi beş yıl içinde kırabilir - Coinkolik",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "NL Times",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGtoNUQ4XzNzS3lfX25Gc3kzdnktTjY4eXZBRG1EOU9pb19GU2J0SUxqNnh3SW5lRnVEOFRnZmtSTDZqTWh5MENGRC1ZN0xkWWlUcG5nWGZvNlU4Y3VGNXBFRUx1QWxIMUNlWnNvOUpONWh2UzFXa0xwdEtxNVdrS3FNaGFlVmRvbWRNc0l1QnlMQQ?oc=5",
+  "kaynak": "Coinkolik",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXF0UTBQZUFWWHZ3WTBiV1dZYXFRcnhRaExOTFRfc1lydW5xUW5neVRaN2ItV2Y0QlpFMjBEd0V2MmhpYl9WeUhuVXNEQV9mMndLeEVhWGgwdnNMQjg2ZXY0d0FEQ3E5NDgzbmcxU01TRHBtSUhlNEluRU5WU3NPZWtJWUJUM2dRXzNYMWpRZjBLandGQ1EtSzdkT210TlhBRHc?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Kuantum bilgisayarlar finans sistemini tehdit ediyor: Tüm şifreler kırılabilir - Milliyet",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Milliyet",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejlQeTF0cFZtTS1EbnVic29FY2tNS0xmcXI4ZGxOUlpwbkgyUXlRcW9td0ZhRzlINmFnOUtMUmUxd1p1eG9USnNsMVRrRkhHcTFhMjAwTW5fbE5vWFF2VlcyVTVyU2o3VXdfRlduc1JZX3JNSVJ0d2VRR0VZTUJpWFFRTUJ2SWRvOWI0VW9WbzRmTmN2X213QkV4a3ZOMzJETldjeVRoU21yVUp5RkJoa1prTTZ2UTlWX08wQ1hLODg?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "European Central Bank, Fed warn AI could threaten financial stability - Anadolu Ajansı",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Anadolu Ajansı",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2NNeEFQdmluVkFmMXIzbU16a3RTRXhMMmViallFR0U3cWdyd2J3UkpkVFZaRHpSVjJScGxlUGl1aWdCUmxZS1FkVmYzQkkyTE0zRHlkWFBfTnQ0ZFFwbDVZeFc5Q3daWjNkVnhpMjFVdVF2Nk5kS3JBZm1waGlUV01jd3N6Q19XLWN2dXFLSVlVVEZSdlJ6cmt2aWVCTERBSEV1clpDb2hRSWtuWHc?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "AI could transform the economy, but the Fed is struggling to predict how - WBFF",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "WBFF",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDlaX0l2MlUzSlBXbmNwSmEtdXpiUjZCbUZBVDdLUE90MlBJQU81VnBjaFRtdm9IcFlfMFhzMXhQQVlWQVpYQ2w1Y0RGZFViRHE5SVgxWlZqRllzQXN6cllqWC1vQ2stY0hPQW1mZHVMNGxTekxHSkl1WFE1UkloaWNOT2U5RUtBQTd0b2MxUV9qcXFCVU1mSHExbG5hSTN6c2d6T2RLRFNnRmMwT1NGMGE0NF8?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks - Bloomberg.com",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3phS3NuMW04a3d4cEVhNnVDM25naVJfNUUtR0w3a2M4WHpjUVhxMmt5MWtoMU9DUzZrdFc3RFU1TU15djdQV1I1R1RaQ1g2ZUJnM3BqX2RXbFg4WGdDYTdfUWxic0ltSVJRQjcwd0ZXV2ZpeWF2UXFTSm16Sm9Wdl9QWTZXU1RSMkQxdF9CTWNFWS0wbmRMMjBFMVF6RmUtV1IwdXlMcHctVTBkN3RCaHJvWE4?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Why should a central bank take an interest in artificial intelligence? The example of the Banque de France - Banque de France",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Banque de France",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRk1lMXNrYnB4OFFBQUR3SHVadG4tSUExN2xDREl6eEN0UlkwMlZWNTVONzdSX0xQX0FqN2U2M0E5dldWbHROYk5QSGYtaTQ1Mmo4V3o4amw2dVB0aU9DVGFrdjdIQkctRHVSVTdGUkZySk9BaENkeU9RbWMzOEdVTEEyRjgtbnNwdnpyZTNhWFZwYlc5T3NZTGdnMTZ1ck84MnFRVFpMZzcwMG1VdG5YVHFaRFBYdDNxRHdBWmtvd20?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Financial Stability Review, November 2026 - European Central Bank",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "European Central Bank",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1k5cldKRUxEeDl2MmFyWk0xWVZ4ajFKUV90Si0ydVJTM1NtN3EzbF82dWM4Rjg0alF1Q3gwVjFMdm1keUtONkZDWHpQbzJ5TXp2WUJLS1AtZ3BjTzQ1UThYaUhFM1JWN2dpZC1IZEtkN1NTelJPek5vbVVkUXl5VHhMZnpWMWVWT1Jxb0lhMndvVXF2R1pCa3J0emRQMFBTTGI2WExBYzVBQQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "When the lights go out, how will Europeans access their money? - Chatham House",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Chatham House",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUFBaGVuMGdsQnhTemoxXzlXcHFCX2lJLVByVGRSS1pFb08xT0Uzd0hNTGtpMEcyNEZEeEFtdHNaLTliTE53QVNHcHhTMnRXT2VRSTNtQUF2TFBnclpZYnd3TnRFMUhjX1NuWS1KWEV2TWtLQkFQMWZzMldsVTB5M29sZV84T3FPRFNXRHRyZzJDcFM1NmxmbQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "The CBDC that changes finance may be the one consumers never see - CoinGeek",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CoinGeek",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXRmMWdDMTYxMGYyOW4xZ0FwN3ZreU1FNmNrT1ptWHRLc0NBTkczY3VoanNzZVM4VnJVQUdTVlFJUkZRTzRuVUtQN3RfVFYyMzFPdVdKdl9neEJGNE9oamZEa3p6Z0E3Z3R4eWRqNm9tTW1nMXd2NFRET0N2cnVSNjM5a1Y1MVNOUTg1YTVjOA?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech - CyberScoop",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CyberScoop",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xWDlENFcwSkhrOEwxZDNoeG1PbTQ5X1FWVGU2a0dwNXFsMDZhZ2pvQ3ZFTTc0Zk80REd4TUNqakx5Z09LTnVuMmFVWUVqUEJ2TEM2M050X3N2RV9FX0QwQ1FyZUtjVERtdjg4cTF3?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "Operators hasten to meet post-quantum deadlines as Q-Day nears - Fierce Network",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Fierce Network",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckR3NjZZZlhOUGttWnZ4UjhsMTVsY01vYXE0ajJQQzBhZ0N4V2RZZ1k4WEw5N1FVSHFocEd5MG1vdlo3YWZmMnRVTE5Ma2ZEdlBvczJrTTAxdEZCaE9tM3dNQUs4YzNicElXcTh5aHRncF94c3daU0M5emJjM2tfRmlLc2dOcXFPWXkzYmdDcnB2eEhlZEJ1OVEtUGFKNHJQQkxGZ1FlZUVqME54QjV6X25abmRESmxQd3VwYUZn?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "NEC and IBM Japan Demonstrate Hybrid QKD and Post-Quantum Cryptography TLS Proxy Architecture - Quantum Computing Report",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Quantum Computing Report",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUERNUmJ1N3p2LXdFQ2FHXzZ0a3FfbFplTmt2VlhqVG81V1g0VlVFLVFENldidmFBenlLaW13ako4YlBoU0pBdFhVV0E5dnAtc1JWTG9UU2tfWGVQZFBoRV8talJ0MUp1LTlnclNBandzR0x1ODRFT3lsbUtYZVVQZGg0VFpjT2I3SEIzOFA0WTBXYVAyZ2ZTQ3lvSFZhcWpPZGU0TEtWdWdYdTVuU2pBTXdEX0tyMnNtU1g2SDI4cDl6MmplN2dIONIBzgFBVV95cUxNaTBwcFF0R3JYUDNHMWd4OGpwaHJITmt6Ry1vdlFEM3Vwb0xnd1VscEdieDc4emFXSEJFTmRZLWdXRFEzZDJOemlNRUg3eEliTDc4bTM4dVMxMk85dWgzdFg5VWpjUEpBMlVDMHBMN2ZfMjYxMm83RHRnWk5DTW1xLV9hYWIzckg4c1d2SVN0aEtob0N5X2tZbDh2Zzk0NWdmM3NlVDdiV2doWUp3NU1RRjdlakZXOVVrZzdyWTlNdlAwQ254c0ZoS2JKUV9mQQ?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "ATIS releases 5G playbook for post-quantum cryptography - Telecoms Tech News",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Telecoms Tech News",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjNVVm5kMlE2eEZUSTExMFJyR3dQZmZZYms4dmNnSXFWMjE4RTlkdkYtQ2E0UWx1UnZueFhteUFpbHBDX2VHbFVNMi01cUxCdHBJLWdXN2RIRUZKSEdNTlpPT0toYzZzb2hubUxDWFZxX0E4WnhMeUNaX2ZWdWFmRFFoMmRmUnNDYWhhUmtLaFpWNUtUb3A0c3Rn?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "NIST Finalises Post-Quantum Cryptography Guidance as Agencies Struggle to Prepare - IT Security Guru",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "IT Security Guru",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXFfMUlFN2Y3UDNTLVlNaEFPcWJUczlkMVFuNlJlZXlVTGFrZXpIMGlPTUdfUGVVQUh4ZDVHYU5NcHJQeThKQ0M0ZGNfUkhpTkZXT0x1VVRhc19VeEtaanR5ZUlPWlNsbDhJRnhkNmxaeDhNZld4Z0ROYVFOcnVPQ2M4YUhvV3J0d0lHNV9ZR2ktZ2xSZUdQT043S0ZvcFZMaHBXQWtueTdnSGM3S2tOay1PbV9hSGJYT3NGWU1fb0hidw?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "AI is accelerating arrival of Q-Day - PwC",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "PwC",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXp0dEZlLUdjb0oxZjFsbGd4VmdOYWlIVkQ5R1dCR1hvNklQTUxJZ0FvT2NYV3AzZ1g3QzhVZ2VINTREd1ZiZURqSkJMQU9GTGd0MHRJd1JUZWMzb2ZWUTY5bW9CalF5cEFfbkZyVVpTa0ZaQzdJSGRPZnNZMlh2WGNxbEMtSjJXaVd6dVRTZ2xQNDc3SFFRVkN4WVBJZnd0cnRzNktpNDZpM3lwc0E?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "From principle to practice: Where AI regulation and standards are today - Elliptic",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Elliptic",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTJFRGRTM3JfcVhkaktGVEVIbHVISll3S2FDMFZOcFMxYnQ5VGoxNWo0ekNER0VMbnM4elloV2dRSmxWcXprV1I0RC1MbEFGeHc0bVJjMmNnQ2RURGk0QThHQlE1eXd0blEzM2pRRFpOWkFfQnFSNGpRSi1FaVh4aHItSmdXWk9KWUZaLU1XYlplVmkyb3BkazJmVjFlVFZEWHNpZW0tdw?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack - Reuters",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Will AI change banking more in the next five years than the past 30? UAE lenders think so - Yahoo Finance",
+  "baslik": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours - varindia",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkd4X1M2c1pET0ZBbTZtV2pDNC1VekxiNUNITG5LYlZCcTFuUVZnTHBZSHhVeXNBSW45cnVCejFXaS1TNjlKSkdqcENaa0paTFd6WTVxYjBfR2VEcTl4VlJqT3owY1RxMDh0N3dXRlZqejlnVWNudEh6aVBlc3cyWE5zV185TkFqVjcydF9yekpPRDFLelE?oc=5",
+  "kaynak": "varindia",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Financial markets under increasing pressure - Afm.nl",
+  "baslik": "Cyberattack attempts surge against South Korean financial authorities - Chosunbiz",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Afm.nl",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WDNUUXNfc2c1VV9wNWw1UldXT1dvME8ta3NiaDVTanJVMllZUVN5dWcwaUN2bWJkekxqS1dkSXBveTMxamQtMFdlc1gySld3cVdVdWdvUkRmeFRUWGQ0alNiSkxZVjlfcVVjNjhPMU9IWmc?oc=5",
+  "kaynak": "Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeEFDNDdSbXZ3cDhIYmZOeVduYVFMbUs5bTBGV3FQNy0yR3hzdzJJY3o1SEhSX2cwYnk4RnhmRDlaNTFrX1oxd0s3emdUcEFSLTdVUEtlZEl1dVJqNlNWMVlJYUhVSDNRZEgzMkJ3MXBwdU9KcUlRTm5oUkd6WENTedIBlAFBVV95cUxQSW13SGcxOGtVeTliZERmTURwSjE4anFMWW5fQXFXS2RLMkVlb1dIdXp4ajF0MlJOVnFkdXpYcWhKSzFSZEdyaWYxSUtuMl9FVWQybGpQWFJkRjNidnBIUDhmd3BiSDNFNGg3Wmd1dFdWUXZvemlxNmp4dE9IQjVkMjZTU0piRHhFVE1NVnpWVmt1aWt4?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Bank of England’s Bailey warns frontier AI raises cyberattack risks - Crypto Briefing",
+  "baslik": "ECB president ‘says AI cyber threats are significant concern’ - FStech",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Crypto Briefing",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IMm5PTU0weFNNY255UEZuNE5TOVBDcWViNlF2UjVhQm93SUVPZzViS1dfdXBtRHlDMDhmV3hOOElZWHJkMVc4WVNObWpPVllEaEdOWlJJMmd0TGoxQ0p0VE5rMl9qZ3lTbW9RNWJvd2p6NS1adk1oWnUtYUlWZw?oc=5",
+  "kaynak": "FStech",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDN5Y2stRHR3MTcySmNUZE80Mk9jQzlkWm9qY2M1WXBLcV9VNzJGUzg0clZfZWl4MlZtc2NpaGVoYm5nVmhGckFFdVoxeHJDSHBmbVBFLVoxdlZwZzhWNFdiNmNweVpmUnVsNTViYThXRGpHRGIzWWVhMEJWYy1ZOWtfS1BaQ2xJY3hya2NSemxnbTJ4UWhF?oc=5",
   "kategori": "siber-guvenlik"
  },
  {
-  "baslik": "Technology Transactions Soundbite | Inside The Bank Of England/FCA 2026 Survey On AI In Financial Services - JD Supra",
+  "baslik": "2027-2029 SSM Supervisory Priorities - kpmg.com",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "JD Supra",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkV4Z3NwN1NPeEZXaGxSbUxZb3VmcHBiRThZZGhnaDdYbjE5dU9ieng0ODA4WXhSTGVIa2p6eVR2Ym5UR2txZ1JSNTJhaTBobWR3d1l6RmJEb1RCUDJ2Y1VMRGJSeXUta3hINW9vOExKS2IyVGlMTlJEbmdZQ3NfeWxR?oc=5",
+  "kaynak": "kpmg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWU80VUJwY2JuVGVwYWMwbW03Ulgyck8tWjlEQ1dtZ0lYeTdfU1cwNFZOdnkxeDQ3TXg1Vm5LRFVaVnY3cFU1NU5PN1hPREV2dzhIamc4TURQY3ltdUUyREdlX1NUUkp2SlQxQWUzaXh4LTlXdmRMWU1DLW1EQ1pGZGl2eDF1R0JDaWdvVU51QXZJM2NtQk9iWVdUWkkzSjNPVGxOMzlQdlN5dlFOZ2ZmcHRPSQ?oc=5",
   "kategori": "is-surekliligi"
  },
  {
-  "baslik": "As AI threats evolve, financial resilience requires closer collaboration - Finextra Research",
+  "baslik": "Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI) - Bank of England",
   "ozet": null,
   "haber_metni": null,
-  "kaynak": "Finextra Research",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWpRVmFuMDRzWEQ1Wm5YQVhJdDRvbV9qT0ZWNWJ5MUlIMjQtNDM3ajgxMDV1T2twQVdxeXZUWWZ6QnlLU0dWYUI5anFPNzExakhjMlNUdjR6eXA0a2RoV0RUT1ZEeUVJNTU0VlFOWDFnRDNGS1JFczNacnVXdFl2U3JRYWhXUC1BSVVZcnJ3LUczemlMekxqTnNuS0FCclJXZ1ByOTBINndPMWViTllZdW5tdi00dw?oc=5",
+  "kaynak": "Bank of England",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb1dlM1FHVFl4amt2Qk9nbTVMMERkVGFheXNVaGk2ajRFRVcxa21qaWJsLWdBd01YMVdoWlZvcFVEMmd0OXh4YnU2eVlUUUVNSFVWY09jNThrWEZxZ0lxNmlCaWR1V1dteFZpQmVXRGJfV3pKMkcxS09wTzktaHBjNEh2dXlQOGYxVFhkTHEwRGc0bk9ETXdQOUFQQ0VxOFJsRExLeGlfNWMtWTdBV3RQdTJFQ3oxbEg1NkJqa0F6WE91SXZwQzY0VXN5NjAwZmVhbDhUZzBPTGZCdnZuSklvclQtUTNVUUJva05UdjJzTkZHejBzV0REWnVZU0NUUmcxZUE?oc=5",
+  "kategori": "is-surekliligi"
+ },
+ {
+  "baslik": "Digital Fraud: Banks Cannot Win the Fight Alone - International Banker",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "International Banker",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzJaUVkxLTJCU1l6VS00ZG5jLWdBcUoyV05qWldIdWRqdHRlTllDUERkek43eGN3cGNqYk5KbzJqOUFRU190ZmFBc3hza3Jrb2NNSkFTTFlaWjVhUTVxa2Z6d1BEaWFJOFZEZEgyQ29QdFVHbkdZVGI5Vy1MYjhlX1hNRF85anNrdERYMTR6bWc?oc=5",
   "kategori": "is-surekliligi"
  }
 ]
