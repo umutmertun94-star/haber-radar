@@ -806,5 +806,269 @@
   "kaynak": "International Banker",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzJaUVkxLTJCU1l6VS00ZG5jLWdBcUoyV05qWldIdWRqdHRlTllDUERkek43eGN3cGNqYk5KbzJqOUFRU190ZmFBc3hza3Jrb2NNSkFTTFlaWjVhUTVxa2Z6d1BEaWFJOFZEZEgyQ29QdFVHbkdZVGI5Vy1MYjhlX1hNRF85anNrdERYMTR6bWc?oc=5",
   "kategori": "is-surekliligi"
+ },
+ {
+  "baslik": "Boris Vujčić: Risks and resilience in the euro area financial system",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "ecb-press",
+  "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "CBI, Bancomat and Nexi  to build Italian digital euro infrastructure",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "finextra",
+  "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "quantuminsider",
+  "url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "JPMorgan ve Hyundai Card, insan müdahalesi olmadan işlem yapan yapay zeka ajanlarını test etti",
+  "ozet": "JPMorgan'ın blokzincir birimi Kinexys ile Hyundai Card, bir yapay zeka ajanının doğrudan insan müdahalesi olmaksızın döviz işlemi gerçekleştirdiği ilk aşama testi tamamladı. Test, gerçek değer hareketi olmayan bir ortamda yürütüldü ve kurumsal hazine yönetiminde otonom ajanların kullanımına yönelik bir modeli doğruladı.",
+  "haber_metni": "JPMorgan Chase'in blokzincir iş birimi Kinexys, Güney Koreli Hyundai Card ile birlikte, bir yapay zeka ajanının doğrudan insan müdahalesi olmadan döviz işlemi yürüttüğü kavram kanıtlama testinin ilk aşamasını tamamladı. Gerçek değer hareketinin olmadığı bir test ortamında, dijital olarak imzalanmış bir yetki belgesi kapsamında Hyundai Card'ın yapay zeka ajanı, şirketin Frankfurt'taki Kinexys Blokzincir Mevduat Hesabındaki euro likiditesini yönetmekle görevlendirildi. Ajan, hesap bakiyesini izleyerek euro açığı tespit etti, sterlin-euro dönüşümü gerektiğine karar verdi ve kotasyon talep ederek Kinexys ile iletişime geçti. Kinexys tarafındaki yapay zeka ajanı, talep eden ajanın kimliğini ve yetkisini doğruladıktan, talebi yetki belgesi ve ilgili kontrollerle karşılaştırdıktan sonra işlemi otomatik olarak gerçekleştirdi; simüle edilmiş döviz işlemi kaydedildi. JPMorgan'a göre karar ve gerekçe verileri değiştirilemez bir denetim izinde saklandı.\n\nKinexys Insights küresel başkanı Wee Kee Toh, ajan tabanlı ticaretin yalnızca otonomiyle değil, güvenilir otonomiyle ölçekleneceğini belirtti. Toh, teknik kurulumun görece kolay olduğunu, asıl zorluğun gözetim ve iç güvenlik önlemlerini doğru kurgulamak olduğunu söyledi; ajanların önceden belirlenmiş işlem limitleriyle sınırlandırıldığını, örneğin 5 milyon dolar yetkisi olan bir ajanın daha büyük bir işlem yapamayacağını aktardı. Taraflar, birden fazla yapay zeka ajanının birlikte çalışacağı daha karmaşık bir aşamaya 2027'nin ilk yarısında başlamayı hedefliyor. Hyundai Card, iş birliğini araç içi ödemeler gibi yeni alanlara genişletmeyi planlıyor; teknolojinin piyasaya sunulması için ise henüz bir tarih belirlenmedi.",
+  "kaynak": "qz",
+  "url": "https://qz.com/jpmorgan-hyundai-card-ai-agents-payments-test-112326",
+  "kategori": "genel-bt"
+ },
+ {
+  "baslik": "Fed's Cook says central bank watching AI industry financing - Reuters",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "The Fed's AI Bank Run Nightmare Is Suddenly Coming True - Forbes",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Forbes",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEYtNXJQTHA2X1hMTWFtNDlpclc4d24zUThtYzI2OTFZcWlDX3YyUUtmdk1WXzNEdGxRbEhTT2Rfcm5LN015a1Nuc0JZMXdvcm5GVzVFWEJvQXNZY3Q0S21OaWlnbFZUSUJ4MWJNRnpzM1FfWjRjOTlOcGQ3Y2xCcEtVbElvS3RfeFlhVmVnb1RvR1hhcWRNVlBGd2RqZmVpTlItS193?oc=5",
+  "kategori": "yapay-zeka"
+ },
+ {
+  "baslik": "Firms, not tech, set pace of AI adoption, economists tell Warsh - Central Banking",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Central Banking",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlvNFRMRXMzRlB2R0E3Q05GRWFpay1VM0x4OXI5Q2dTWUxiaUdtRnpDNjJyYlppLVJnNWRIdXp0eXdBTnZCdnpYOTBrZDRDY2tGb1huQ1UwbEprOWVhY19XMk1sejFCZjR2a2FuaXdaM3FwUWhadkdpZ0otaXhFZS0yUGJ6LS1QOUg1bVpiQ2NqWjdZWmlDX1VsbVlaenFyNkhqOC1fV3pKbEFJSjVMRTBZU0Nhb0VlSFZTTDVoRVc?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "GUIDE ON THE TOKENISATION OF BANK DEPOSITS - Monetary Authority of Singapore",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Monetary Authority of Singapore",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc0JwSktGcEg0MVhPd0lqbXNrZHplUEk4aC0zMU9WVGF0VDdSdTNLQmJwWmVVamd4UlU4Yzk4Wk9LVTlTek82Y2JLWTV1OEd1SzZRRUFBMDBHTWQ4UU9oWUpxWV9qbXhJTmJBVTZabFdyUHNOM055SVRJeE14dFV5aG5mcE1JN3lkOHVEQ3NvRFJpM3YweldmNnY1MEczVFNMNVRDRTNfU0JFRnl0d3g0UmpSend2WlB3ZlNaSDNqX2FqbVBCTFpVQTZnMC1pbDBfMVlDM1RtUFdUSlRwZk9fZFJ6MXhjVWd2MGR4VDJydmpEM3dwUWpoZ214cnhvYTRLR0lzd2V1NGxIQQ?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Entegre CV-QKD sistemi 100 kilometrede 29,3 kbps anahtar hızına ulaştı",
+  "ozet": "Shanghai Jiao Tong Üniversitesi araştırmacıları, tümüyle çip üzerinde entegre edilmiş sürekli değişkenli kuantum anahtar dağıtımı (CV-QKD) sistemiyle 100 kilometrelik fiber hat üzerinde 29,3 kbps anahtar hızına ulaştı. Sonuç, çip tabanlı kuantum iletişiminde hem mesafe hem de anahtar hızı açısından yeni bir referans noktası oluşturuyor ve güvenli uzun mesafeli kuantum ağlarının pratikte uygulanabilirliği açısından önem taşıyor.",
+  "haber_metni": "Shanghai Jiao Tong Üniversitesi araştırmacıları, silikon verici ve alıcılar içeren tümüyle entegre bir sürekli değişkenli kuantum anahtar dağıtımı (CV-QKD) sistemiyle 100 kilometrelik fiber bağlantı üzerinde 29,3 kbps'lik birleştirilebilir (composable) gizli anahtar hızı elde etti. Önceki CV-QKD uygulamalarının çoğunlukla ayrık ve hacimli bileşenlere dayanmasına karşılık, bu sistemde çip üzerindeki lazerler, vericiler ve alıcılar tek bir platformda birleştirildi. Sistemin performansı, ölçülen kanal istatistikleri ve kalibre edilmiş alıcı parametrelerinin dahil edildiği 140 milyar sembollük bir veri bloğu üzerinden doğrulandı. Platform, 125 kilometrede sonlu boyut analizi altında 12,9 kbps, 150 kilometrede ise asimptotik analiz altında 9,17 kbps anahtar hızı üretti; bu değerler entegre CV-QKD için bildirilen en uzun erişim mesafelerini oluşturuyor.\n\nSistemin kalbinde, ticari bir dağıtılmış geri beslemeli (DFB) kazanç çipini düşük kayıplı silikon nitrür geri besleme devresiyle birleştiren hibrit III-V/Si₃N₄ entegre lazerler yer alıyor. Bu lazerler, 25 ile 150 kilometre arasındaki fiber hatlarda yerel lokal osilatör (LLO) ile çalışmayı mümkün kıldı. Uzun mesafelerde faz kilidini korumak için kullanılan Bayesçi makine öğrenmesi algoritması, geleneksel faz takip yöntemlerinden ve alışılmış Kalman filtrelerinden tutarlı biçimde daha iyi performans gösterdi. Araştırmacılara göre bu çalışma, oda sıcaklığında çalışan, çip üzerinde entegrasyon ve kanıtlanabilir güvenliği bir araya getirerek pratik ve ölçeklenebilir kuantum ağlarına yönelik bir adım niteliği taşıyor.",
+  "kaynak": "quantumzeitgeist",
+  "url": "https://quantumzeitgeist.com/shanghai-jiao-integrated-cv-qkd-29-3kbps/",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "AI Agent detection to strengthen digital trust in banking - IBS Intelligence",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "IBS Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTVDalQtS0I3QUpPWC1aZnNLeEdGOWYxT3hObGFNSTR6Wl9XYk0wZDBhTXJiRXFRTTBFbldpTmxFT0hKSjllVGZQRTVGNFFsY2ZiOGUzaGhDRHRCeGtYTmY1dU1EUVhlTWJGTVQ1VUxYcnFrSzUtdWtSYUhiQUQtNW5ucWVvdTFQazE4Y3kzZkM3UU5MQy1jcE1MbnY?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Chainalysis: Suspected Chinese users bypass US AI model export controls via crypto payments - PANews",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "PANews",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JcDV4X1NYMGVBc1k1dTJhRENrZDlFd08tSTgxRDBZNnlGVlZvS0ozNFlHRjVRVTExN3ZxR1NYT0E4X0N6bHp2T0F4Y0R4cGpMekZ0TlZRenhLX0JGMWdvN3paT295My1VdzRISjQyRTdvTGhSdXVRSjhwMDNob2s?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "ECB finds cyber and ICT weaknesses at most EU banks as AI threats loom - Risk.net",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Risk.net",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeExCeV9uZWpzXzQ5NzZCdW4xRzZkMFJfRWdQSDdkdEJycXFpcUdhcWZMN2pYZmttcFZJaEZzOTVWb3JueEtKTklJYVVhYzBSWlpPQUZ5ZG9sbFRTQVlpcmpjUklxVEN0bUhiVGdfSGQwRTZ5VnZ0cU5yQlhHWlVoVm1lSkx1ZzNTTWpuMHQyVXBoLTkzOWhZMFl2QlZ0elZEajI4cHRfMTNGWVhvZHV4NjN3?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "thehackernews",
+  "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "AI Agents Are Creating a Shared Responsibility Gap",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "bleepingcomputer",
+  "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "securityweek",
+  "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "PHP, uzaktan kod yürütmeye yol açabilen kritik phpAfterShell açığını yamaladı",
+  "ozet": "PHP, oturum dosyası yazma işlemindeki bir hatadan kaynaklanan ve uzaktan kod yürütmeye imkân verebilen CVE-2026-126714 kodlu kritik açığı 19 Kasım'da giderdi. Siber güvenlik firması Depthfirst tarafından phpAfterShell olarak adlandırılan açık, daha önceki PHP2Shell zafiyetiyle aynı temel soruna dayanıyor. CVSS puanı 9,2 olan açık için henüz aktif istismar raporu bulunmuyor.",
+  "haber_metni": "PHP, siber güvenlik firması Depthfirst tarafından phpAfterShell olarak adlandırılan ve CVE-2026-126714 koduyla izlenen kritik önem düzeyindeki açığı 19 Kasım'da diğer altı kritik sorunla birlikte giderdi. CVSS puanı 9,2 olan açık, oturum dosyasına yazılan veriyi kontrol edebilen ve oturum yazma işlemini kesintiye uğratabilen bir saldırganın nesne seri dışı bırakma (deserialization) işlemini tetikleyerek uzaktan kod yürütmesine olanak tanıyabiliyor. Sorunun kaynağı, PHP'nin oturum dosyasını önce boşaltmadan baştan itibaren üzerine yazması; işlem yarıda kesildiğinde dosyada yeni oturum verisinin ardından eski oturumdan kalan parçalar bulunuyor ve sonraki bir oturum işlemi bu karışık içeriği geçerli sunucu tarafı durumu olarak işliyor.\n\nDepthfirst'e göre açık, kimlik doğrulaması gerektirmeyen çok parçalı isteklerin ayrıştırılması sırasında ortaya çıkan PHP2Shell zafiyetiyle ilişkili; PHP o dönemde bellekte oluşturulabilecek nesnelere kısıtlama getirmiş ancak dosya güncelleme davranışını değiştirmemişti. Açığın başarıyla istismar edilmesi için varsayılan oturum depolamasının etkin olması, bir istismar yolu bulunması, PHP sürecinin yazma işlemi sırasında durması, bozulmuş dosya üzerinde session_start() çağrılması ve seri dışı bırakmadan kod yürütmeye giden bir yol gibi koşulların sağlanması gerekiyor. Yamalar PHP 8.6.0, 8.5.13, 8.4.28, 8.3.37 ve 8.2.36 sürümlerinde yayımlandı; açığın sahada istismarına ilişkin herhangi bir rapor bulunmuyor.",
+  "kaynak": "securityweek",
+  "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "securityweek",
+  "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Norveçli enerji şirketleri Equinor ve Skagerak Energi, Microsoft Azure açığı üzerinden saldırıya uğradı",
+  "ozet": "Norveç Ulusal Güvenlik Otoritesi (NSM), saldırganların Microsoft Azure API Management hizmetindeki bir güvenlik açığını kullanarak erişim belirteçleri ve hassas bilgileri hedef aldığını açıkladı. Avrupa'nın en büyük doğal gaz tedarikçilerinden Equinor ile elektrik üreticisi Skagerak Energi etkilenen kuruluşlar arasında yer alıyor. Açığın birden fazla sektörde, Norveç içinde ve dışında kuruluşları etkilediği bildirildi.",
+  "haber_metni": "Norveç Ulusal Güvenlik Otoritesi (NSM), kimliği belirlenemeyen bir tehdit aktörünün Microsoft Azure API Management (APIM) hizmetindeki bir güvenlik açığını kullanarak platformda saklanan erişim belirteçlerini ve diğer hassas bilgileri hedef aldığını duyurdu. Etkilenen kuruluşlar arasında, geçen hafta siber saldırı bildiren Norveçli enerji şirketleri Equinor ve Skagerak Energi bulunuyor. Açığı ilk tespit eden Norveç enerji sektörü oldu; Equinor sorunun belirlenmesinde ve yetkililerin bilgilendirilmesinde önemli rol oynadı. Equinor, saldırıyı salı günü tespit ettiğini ancak cuma gününe kadar tam olarak kontrol altına alamadığını açıkladı. Olay bazı iç hizmetleri aksattı; petrol ve doğal gaz üretimi normal şekilde sürdü. Şirket, verilerin çalındığına veya değiştirildiğine dair bir bulgu olmadığını bildirdi. Skagerak Energi de faaliyetlerinin ve elektrik üretiminin etkilenmediğini açıkladı.\n\nMicrosoft, müşterilerine gönderildiği bildirilen bir güvenlik duyurusunda, APIM'in eski 'Classic' katmanlarını etkileyen sorunu 18 Kasım'da tespit ettiğini ve ertesi gün erişim yolunu kapattığını belirtti. Şirkete göre sorun, güvenlik tavsiyelerine uymayan veya hassas verileri Azure Key Vault yerine doğrudan APIM'de saklayan müşterileri etkiledi; yeni APIM sürümleri etkilenmedi. NSM, açığın ne ölçüde istismar edildiğinin belirsiz olduğunu, ancak Norveçli kuruluşlarda hizmet kesintisine yol açan bir ihlal kanıtı bulunmadığını bildirdi. Kurum, açık artık kamuoyunca bilindiğinden daha fazla saldırganın istismar girişiminde bulunabileceği uyarısında bulunarak APIM kullanan kuruluşları önlem almaya çağırdı ve ulusal siber risk seviyesinin yüksek olduğunu vurguladı.",
+  "kaynak": "therecord",
+  "url": "https://therecord.media/norway-microsoft-cyberattack-equinor",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "VMware vCenter: Critical Zero-Day Vulnerability Actively - igor´sLAB",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "igor´sLAB",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQzkxR2tfQmFBUDYyaE4tWnRtXzYtaUl5akZDY2dtR1pndHBlOVNPM0tnN2lBYnVwQm9YdEd2amlteV9fMlNVenA4bl9fSGNZOUtlN3ZPTEQ4TEVYU0g0YlVCWXhpck9fRFoyeDdaNHdKa0NWU2lZTkZocWZQMWJUVFIycDZjN2MzQ19BRjlsUXQ3QVozbHdKTGZJX1ZsMklveG16Tnk0YlRlS3pwNlBpUHZRdTlNSTQ2YTNicGpVY2tRR0xuMjFLcTRSTnJvRUxiblBNc2NZb1REUVA3dUthQlBRa05TVkk?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Critical Drupal vulnerability allows attackers to take over sites via the installer - Techzine Global",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Techzine Global",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEdUY3BEa1F5UDBWWW5GelZUWFhlS2VmRnUzSmp1ZFE0ck9XOHcwZk9MRGhORWhXLUVCeUt0MXRRSDIwSEh0RzZ5eWd1Qi1zLS1DWkc2NmdWd0lHcmNaOUw4Wl9qd2pGN0tLYWFKUGU0clltZVBuVUNZU2tBejRyZExTMlhQcnQwWHI0dm1pR0F0akxrUE1jVFFnbUpGcDNLVm5KUjcxTDlHVE1waWRlUTNsbU9QYVRsQm0xTDI0WlJTQjhueUFNaw?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "F5 releases emergency patches for critical BIG-IP RCE flaws - BleepingComputer",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "BleepingComputer",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkh5MUtFSTlScV9YZ0hkWDZPMkVkLUpYTzFzeUo5N09pMkZvSjNrak42S09UM1I3cGYxd3dPZVFrN25FX1NPdDFlSWVZMTVCbkkwNk15ckwzMmhnQXhnaVV5Nk5FS1JZSjd5LS03dDA4a3RyWmZLeHNjalIwYktmSzdYM3NNLVVWVEhXMFJSN052aWtuLWJWYzM1Q2k4TGV1NExQWGlMNGFPa1nSAbABQVVfeXFMUE9WY0VRblpuVHdHZ2NRZHZFRDNmYkt1Q0dBU29UUFlOR1FPWFdsOTNOZEk5SXJ0cDJMWS1BazhGSUEwZ1NQclVQS2FVenhfZDdtLV92bXI3LVVERlUyTU1wc3dvQTEyVHJtRko3S3A1UkVpMjl0ME9mM05RMEM4clNmWUdsbU5XemI5czhPNkV2MUhHaXR0ME9nejk0dTE5dUtfajZ1STZ0ZmhVbEk5cDI?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom - Industrial Cyber",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Industrial Cyber",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVJWX0dmMTJScDVMTFpLOUx2ZDRaUldIYzM0NllCV3lfNjI5NVctZ1hVbVNPRHNFeDN0VW1jZ01uYVBUUWVDd3oxcVVNNGk0UElOUzd2bW53dVQzLXhoX0pnam1OTFNtTjlreVVqa2NyUTFNMTBRNktlbDF6eUJ3czF4N2xTd3I0ck5KSWlLdlhaMGc0aTg5MFZtQ3VacU9xa3M2bVhDQUZJUjNESjZqUVBUVUk3a29MUU5GSVk0cFQzMnViaGczcnR1V3ozYlZaN0tpUGQ1VHAtRFgwZkZ2dW9KZlY3UkRS?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Güney Kore, NGINX sunucu yazılımında beş kritik güvenlik açığı keşfetti. - Vietnam.vn",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Vietnam.vn",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkJlT1JKNjd6X1BnTmZuQXlDcmFQNlhGMlBvS3hGOU5tM0VQMUtTLXJuTnZYcWlzQmZsd2NrdWNVcUo4dnRMdWRoemhqRWtrU2JwZGhPS3ZsR3VkVFA3TS1MTS14NjRtYkVkLUZBOEVHRjlPWE9kM3ltalZWS185ZnRHQ2RucVlEMTl0X2xtamNnbmZWNlZsUmM1Uko?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "ABD, gelişmiş yapay zeka çiplerine yönelik düzenleme yayınladı - Cumhuriyet",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Cumhuriyet",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWURXOXRYOHdTWTU5X1ByajZZdVVhY1BTWG5WdldTSVNTRVVqSEZ2WlFzZDRGd29nM0Q4dWZoMlVCR3JrNDdaeXBZc1NXOVluZ2JqaVk2NU94Ui0tV3VWQVVTRFpVRFd2Q0xpVjVKY3NSNXJ5U1pLaHhfeVhaaFhWXzBVSHFjRkctUFpxbU5FOXAxa1J1UnIzTUVYRWZmVFJ4ZjRrTXBCdUFVSldydHhqcERjTG04QQ?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "13. Yargı Paketi'nde yapay zekâ düzenlemesi! Sahte görüntü ve ses kayıtlarına yaptırım geliyor - A Haber",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "A Haber",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0dNWEpoRGlyMGdSUWNwVXBwSENhRUJ5N1k2Q3FKd2drMVNWRmozbjhJajhTN3JQYlZsZ2hNNnI1dzZLSnUydUc3X2FNSDFvQ0N3ek1kM1VtR2VBc1hYcGswaFZoLTktR0xjQkJQdGxiWmlNWXhkamcxTjhnTFRYV1paSWFyN1FOcFU0TG95VU5JTzRCS0ZyWVNDUVVHcVlUOWMzZm8tM2N0SmtnMzhoLVBvMlpXTHpSUUNheHJ4OVVzbm55cERVZWZRbVY3V29HTVRNZG96bw?oc=5",
+  "kategori": "ai-governance"
+ },
+ {
+  "baslik": "Fed Başkanı Warsh'tan 3 yapay zeka senaryosu - Ekonomi Haberleri - A Para",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "A Para",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm55YlZZZWFnVVc4MW5HZ1dLc0VyUzByelpIQjU4N3hFN0hxeHNkejlRVDFLOV82V2N4MEJqN3pQRmgtOXd6QzFtSXpxYkNFZFhWdlV4cTdJMWhVczhiNGROMGFVR3JNeDhrQnZRck5NSTZHbEZnZ2RmbHZ4UnNWVjY1Nmx4U2NQMl9ZX2xUQU0?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Fed Başkanı Warsh: Yapay zeka para politikalarında belirleyici olabilir ama hayal kırıklığı da yaratabilir - Ekonomim",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Ekonomim",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHUzY2lNRHppUkxxaFluSS1JNTM5dkdYRmhVc3BMT0F4djB2anNaMmtTc0NkQy1MamZDOHF0WDNpbjczN3FFUHUwRHNGWVllakdMdmdRZU80VGt0YmVxbUZfS3o4ZFZPa0pFSHlzV1FfSl9GbXZ6TERCa1NpRGxRZlhXNlFNaDQyQ18tdkVGNmpubXRJTERUMGY4cmlhRFpZSERsNmVSQ2lMM19lRHV2bkpJOTlobXk0N0tydHlhV0NYeUpJeGQ3RHRRb3J6OEVrUDdHSE0xRGFoeEJjb0d3YTBOLURsUGhWYzBURWlYQldQdw?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Türkiye'den 54 Kübitlik Kuantum Bilgisayar Hamlesi! İsrail Basınında Türk Canavarı Manşeti - CNN Türk",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "CNN Türk",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFVEcVhLbElWdnI2aEJJWVBGZzFUYkF3YTBpVV9jOVMta3VPVDllTjE1Yk1vYkxOU0hqeVhvU283VnNzYmVtWGpmb0ZwU2E1N3FyZWg3U0NmdU1Sa19QMEh4V21rX0Z2aGFwNGlRUVlUMUllN0JzRnFHYTBVOUJLWjNIdTJOQ3FZTXBfVjVtZDlNQUNWOW9memw2bFhLRTRjVzR3QWtEbGFyblRhRlctMjI4cjdyVkdYckE?oc=5",
+  "kategori": "kuantum"
+ },
+ {
+  "baslik": "The dangers of Nvidia’s role as AI’s quasi-central bank - Financial Times",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWNMcVlRMkxMODQ0LW53UTMwZXk0S0g4V3BBY1VYTXZ5Wm85WDF1c3FXQlBjYUhHSVZRc3V2MmhKajVBRGQ2OGtlNlN2Z1VKVmMtTWVMVHZVSTdERFhVRmNyendJbEVsSEpuUEltSDBURTlMdTd5VUpQV1czSGo4bjV6cU4?oc=5",
+  "kategori": "merkez-bankaciligi"
+ },
+ {
+  "baslik": "Chase now blames cyberattack for Monday banking outage - KTEN",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "KTEN",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHRPc184TmxfcDdWbkJIODdSQVcxSWVOZlRlNzhkNVpybTJ3eHYtSkxfNVZmMzFFcWlJZWQ0RTVNelg1NEJuTk5jd3JoR0Uwc0VkUTZLWTFiamZ4QWx5eVA1YUkzR2tDamRzeDdUX3dIb2VlM2JNQ2NkWEFpZUZiTXpfS1kwaTBFWmp3Rkk1d3VWbDgtTEdTd3Y0cVd4aDVad0hKdkZtQVZvVzNNRF9hQmZSRmNiNWllT3ZSdUtoVHI4MkxKM3dWd2RB?oc=5",
+  "kategori": "siber-guvenlik"
+ },
+ {
+  "baslik": "Chase Bank Outage: What Happened and What Banking Resilience Law Requires - Diplomacy and Law",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Diplomacy and Law",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93RlluMk1CSWRoZFBYLXIwV3pLSnRRU3F0S0FFb0pqczlDRG9NWWhFOTVveTRianE5U0xnbEtmWUlsRlJyak1wYVBhZjFrdXNscy16TG9LWDZ1NVRzYUx0Q2swRVE?oc=5",
+  "kategori": "is-surekliligi"
+ },
+ {
+  "baslik": "JPMorgan Faces Banking Outage: Will Operational Risks Rise? - Yahoo Finance",
+  "ozet": null,
+  "haber_metni": null,
+  "kaynak": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUt6RHY3eFVOS2UwU1U1UUtSSTN5Z09TRDFsQlRyNTEtempBUmJrTnRuN2xZUVREc1ZobEhYTHM2TDBJUmRTejVIcC01a3B4VHBmMUtUNjNXMTBRQVVYQWZvbTRLUmRkS25MTS12bFJJTDhyNEVDNDh5SmhrQWlnV1FfajNZWkJmeUxpSTVZQy1ma3RiTTFwSFcwMk56bVlsZVd1Wg?oc=5",
+  "kategori": "is-surekliligi"
  }
 ]
